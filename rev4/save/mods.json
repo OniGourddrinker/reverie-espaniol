@@ -1,0 +1,15 @@
+{
+  "oneloader": true,
+  "_conflictResolutions": {},
+  "_deltaPreference": {},
+  "_autoUpdater": {
+    "check": "allow",
+    "askedYet": true,
+    "lastCheck": 1746657067653,
+    "lastCheckVersion": "1.5",
+    "performUpdate": false
+  },
+  "thedreamer": true,
+  "PinkLove": true,
+  "reverie": true
+}
