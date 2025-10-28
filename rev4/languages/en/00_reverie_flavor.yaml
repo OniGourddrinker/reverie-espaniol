@@ -276,7 +276,7 @@ message_50:
     text: \n<GOOMAN>Perdón, ya cerré el negocio\! Repartí tantas muestras que me arruiné.\! ¡El mundo de la economía es dura!
     
 message_51:
-    text: \n<GOOMAN>However!\! Si me das 10000 CLAMS, ¡Voy a poder relanzar mi negocio y te dare otra fruta fresca de regalo!\!<br>..¿Qué significa esa mirada?
+    text: \n<GOOMAN>¡Pero!\! Si me das 10000 CLAMS, ¡Voy a poder relanzar mi negocio y te dare otra fruta fresca de regalo!\!<br>..¿Qué significa esa mirada?
     
 message_52:
     text: \n<WHATEVER>Ya no necesito montañas de dinero..\! Tengo una familia ahora.
@@ -367,7 +367,7 @@ message_5a:
       text: \n<GIBS EL MÚSICO DE LA ESTACIÓN>¡Buenas, gente!\! Soy GIBS, el MÚSICO DE LA ESTACIÓN!\!<br>Antes era un MÚSICO ESTACIONARIO, Pero dejé esa vida hace poco tiempo… cuando caí acá
 
 message_6a:
-      text: \n<GIBS EL MÚSICO DE LA ESTACIÓN>¿Podrías darme 5 CLAMS? Serian<br>de gran ayuda help, ya que soy completamente estacionario.\!<br>¡Te mostraré algo \SINV[1]b'ueno\SINV[0] si lo haces!\$
+      text: \n<GIBS EL MÚSICO DE LA ESTACIÓN>¿Podrías darme 5 CLAMS? Serian <br> de gran ayuda, ya que soy completamente estacionario.\!<br>¡Te mostraré algo \SINV[1]b'ueno\SINV[0] si lo haces!\$
 
 message_7a:
       text: \n<GIBS EL MÚSICO DE LA ESTACIÓN>¡Gracias por tu donación!\! Ahora, a cambio...<br>Déjame cantarte la canción de mi gente.
@@ -384,24 +384,24 @@ message_67:
 #FOR TRAINMASTER JASH, IMPLEMENT A SHOP IN ITS POSITION. THE ONLY ITEM ON SALE MUST BE 'TRAIN PASS'. THE REFERENCE CODE FOR THE SHOP COMMAND IS 
 
 message_100:
-    text: \n<TRAIN MASTER JASH>Soy JASH de muchos talentos y maestro de muchos oficios.\!<br>Vas a comprar un \c[4]TICKET PARA EL TREN\c[0]?
+    text: \n<MAESTRO DE LOS TRENES JASH>Soy JASH de muchos talentos y maestro de muchos oficios.\!<br>Vas a comprar un \c[4]TICKET PARA EL TREN\c[0]?
     
 message_101:
-    text: \n<TRAIN MASTER JASH>No puedo venderte mas  \c[4]TICKETS PARA EL TRES\c[0], estimado cliente.\!<br>Si te cruzás con otro MAESTRO DE TREN JASH, quizás tengas la oportunidad de comprar otro \c[4]TICKET PARA EL TREN\c[0] ...
+    text: \n<MAESTRO DE LOS TRENES JASH>No puedo venderte mas  \c[4]TICKETS PARA EL TRES\c[0], estimado cliente.\!<br>Si te cruzás con otro MAESTRO DE TREN JASH, quizás tengas la oportunidad de comprar otro \c[4]TICKET PARA EL TREN\c[0] ...
 
-#BROKE SPROUT MOLE.
+#BROTOPO POBRE.
 
 message_68:
-    text: \n<BROKE SPROUT MOLE>Shoot...\! No tengo suficientes CLAMS para un ticket.
+    text: \n<BROTOPO POBRE>Shoot...\! No tengo suficientes CLAMS para un ticket.
 
 message_69:
-    text: \n<BROKE SPROUT MOLE>Sabía que no tendría que haber comprado esos 20 \c[3]TOFU\c[0] de esa máquina expendedora...
+    text: \n<BROTOPO POBRE>Sabía que no tendría que haber comprado esos 20 \c[3]TOFU\c[0] de esa máquina expendedora...
 
 message_69-1:
-    text: \n<BROKE SPROUT MOLE>¡Dios mio!\. ¿Será posible? ¡La bellísima y encantadora SWEETHEART!
+    text: \n<BROTOPO POBRE>¡Dios mio!\. ¿Será posible? ¡La bellísima y encantadora SWEETHEART!
 
 message_69-2:
-    text: \n<BROKE SPROUT MOLE>Por favor,\. ¡Acepta este humilde regalo de un simple, simple topo como yo!\.Es poco, pero es lo único que tengo
+    text: \n<BROTOPO POBRE>Por favor,\. ¡Acepta este humilde regalo de un simple, simple topo como yo!\.Es poco, pero es lo único que tengo
 
 #SW WITNESS
 
@@ -443,48 +443,48 @@ message_76:
 
 #INSTEAD OF TASK MASTER, JUST PUT A MELON HERE. LOL.
 
-#TRAIN STATION JASH
+#ESTACIÓN DE TREN JASH
 #IF ACCESS TRAIN ENTRYWAY WITHOUT JASH'S APPROVAL:
 
 message_77:
-    text: \n<TRAIN STATION JASH>\Com[2]¡Detente ahora mismo!\! No puedes pasar sin un  \c[4]TICKET PARA EL TREN\c[0]!\! Duh!
+    text: \n<ESTACIÓN DE TREN JASH>\Com[2]¡Detente ahora mismo!\! No puedes pasar sin un  \c[4]TICKET PARA EL TREN\c[0]!\! Duh!
 
 message_77-1:
-    text: \n<TRAIN STATION JASH>\Com[2]¡Detente ahora mismo!\! Tengo que comprobar tu \c[4]TICKET PARA EL TREN\c[0]!\! Duh!
+    text: \n<ESTACIÓN DE TREN JASH>\Com[2]¡Detente ahora mismo!\! Tengo que comprobar tu \c[4]TICKET PARA EL TREN\c[0]!\! Duh!
 
 #IF INTERACTING WITH JASH & NO TICKET:
 
 message_78:
-    text: \n<TRAIN STATION JASH>Oye, no tienes tu  \c[4]TICKET PARA EL TREN\c[0]!
+    text: \n<ESTACIÓN DE TREN JASH>Oye, no tienes tu  \c[4]TICKET PARA EL TREN\c[0]!
 
 message_79:
-    text: \n<TRAIN STATION JASH>Whoa...\! Eso es un  \c[4]TICKET PARA EL TREN\c[0]!
+    text: \n<ESTACIÓN DE TREN JASH>Whoa...\! Eso es un  \c[4]TICKET PARA EL TREN\c[0]!
 
 message_80:
-    text: \n<TRAIN STATION JASH>Bueno...\! ¡Por mí, todo en orden!\! ¡Bienvenidos a bordo, clientes!
+    text: \n<ESTACIÓN DE TREN JASH>Bueno...\! ¡Por mí, todo en orden!\! ¡Bienvenidos a bordo, clientes!
 
 #IF INTERACTED AGAIN
 
 message_81:
-    text: \n<TRAIN STATION JASH>¡Bienvenidos a bordo, clientes!
+    text: \n<ESTACIÓN DE TREN JASH>¡Bienvenidos a bordo, clientes!
 
 #WAITING FOR TRAIN NPC
 
 message_82:
-    text: \n<FISHBOY>\c[11]FALLEN WORLD\c[0]...?\! Espero que eso sea solo una forma fina de decir \c[11]DEEP WELL\c[0]...
+    text: \n<CHICO PEZ>\c[11]FALLEN WORLD\c[0]...?\! Espero que eso sea solo una forma fina de decir \c[11]DEEP WELL\c[0]...
 
 message_82-1:
-    text: \n<FISHBOY>\quake[1]Sigh...\quake[0]\! Extraño mi pescado...
+    text: \n<CHICO PEZ>\quake[1]Sigh...\quake[0]\! Extraño mi pescado...
 
 #FOR THE TICKET BOOTH MAN IN THE FALLEN WORLD PLATFORM, RE-USE THE TRAIN MASTER JASH SHOP. 
 
 #ON PLATFORM.
 
 message_83:
-    text: \n<SUNHAT GHOST>Oh, espero estar en la plataforma correcta...\! ¡Este lugar es como un laberinto a veces!
+    text: \n<FANTASMA CON SOMBRERO DE SOL>Oh, espero estar en la plataforma correcta...\! ¡Este lugar es como un laberinto a veces!
 
 message_83-1:
-    text: \n<SUNHAT GHOST>Desearia estar de vuelta en la fiesta...
+    text: \n<FANTASMA CON SOMBRERO DE SOL>Desearia estar de vuelta en la fiesta...
 
 message_84:
     text: \n<JERKO>\quake[1]Yuck!\quake[0]\! ¡Este sitio es desagradable!\! ¿No saben que una apariencia profesional lo es todo?
@@ -492,10 +492,10 @@ message_84:
 #INFO BOOTH.
 
 message_85:
-    text: \n<TRAIN STATION JASH>¡Bienvenidos, estimados clientes!\! Esta es la estación \c[11]FALLEN WORLD\c[0].\! ¡Toma el ascensor de la derecha para llegar a la superficie!
+    text: \n<ESTACIÓN DE TREN JASH>¡Bienvenidos, estimados clientes!\! Esta es la estación \c[11]FALLEN WORLD\c[0].\! ¡Toma el ascensor de la derecha para llegar a la superficie!
 
 message_86:
-    text: \n<TRAIN STATION JASH>¡Toma el ascensor de la derecha para llegar a la superficie!
+    text: \n<ESTACIÓN DE TREN JASH>¡Toma el ascensor de la derecha para llegar a la superficie!
 
 #TV Girl at HUB:
 
@@ -520,7 +520,7 @@ message_1q-2:
     text: \n<LEAFIE>Pero \quake[1]no.\quake[0]\! ¡Hay más \quake[1]conejos\quake[0] que nunca por acá!
 
 message_1q-3:
-    text: \n<LEAFIE>TEllos se visten con sus \quake[1]estupidos\quake[0] sombreros,\! Ellos \quake[1]ni siquiera\quake[0] saben lo que un tren es.
+    text: \n<LEAFIE>Ellos se visten con sus \quake[1]estupidos\quake[0] sombreros,\! Ellos \quake[1]ni siquiera\quake[0] saben lo que un tren es.
 
 message_1q-7-1:
     text: \n<LEAFIE>Y también, aquí va un consejo.\! Cuando soplen su \quake[1]odioso\quake[0] \c[5]SILBATO DEL TREN\c[0], prepataté para \c[13]CUBRIRTE\c[0].

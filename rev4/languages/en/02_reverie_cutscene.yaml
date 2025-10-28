@@ -1,6 +1,6 @@
-# =========================================================================================
-# ** CORTEscenes for ch3. 
-# =========================================================================================
+# 
+# ** Cutscenes for ch3. 
+# 
 
 other-1:
     text: El \c[11]CENTRO COMERCIAL\c[0]...\! Recordás que estaba en el bloque inferior derecho.
@@ -11,7 +11,7 @@ other-2:
 #1. Twins introduction
 #As player approaches the mall from the left, a sudden stop.
 3_S1_1:
-    text: \n<???>\Com[2]\{¡EY!\! \}Esperá un MAMÁento, por favor
+    text: \n<???>\Com[2]\{¡EY!\! \}Esperá un Momento, por favor
 
 #Player turns around and !s as DP runs up towards him from the left, BW slowly trailing behind her.
 
@@ -123,9 +123,9 @@ other-2:
 
 #end scene.
 
-# ---- ---- ---- ---- ---- ---- ---- ----
+
 #2. Lunch with the twins
-# ---- ---- ---- ---- ---- ---- ---- ----
+
 
 #D, B, and p are sitting on one of the tables in the mall food court. Most if not all of the tables 
 #around them are occupied by various NPCS (just reuse a bunch of npcs in the mall, like B&A.)
@@ -392,9 +392,7 @@ other-2:
     faceindex: 6
     text: \n<BOWEN>Esperamos verte más tarde....
 
-# ---- ---- ---- ---- ---- ---- ---- ----
 #3. Film club introduction
-# ---- ---- ---- ---- ---- ---- ---- ----
 
 #shortly after leaving the mall, the player is stopped. Camera pan to the entrance at (19,8),
 #from which LC, MX, and HW appear one by one. They congregate some way down from a nearby bench.
@@ -545,7 +543,7 @@ other-2:
 3_S3_24:
     faceset: RV_Max
     faceindex: 2
-    text: \n<CHICO DE PELO RUBIO>...\! ó...\. HOWARD.
+    text: \n<CHICO DE PELO RUBIO>...\! Perdón...\. HOWARD.
 
 #LC cobwebs
 
@@ -957,9 +955,9 @@ other-2:
     faceindex: 16
     text: \n<LUCY>Oh...\. No pasa nada\! Vamos a estar filmando acá por un rato, así que pasate si querés hacer algunas escenas con nosotros.
 
-# ---- ---- ---- ---- ---- ---- ---- ----
+
 #4. Film Club Film
-# ---- ---- ---- ---- ---- ---- ---- ----
+
 
 #After arriving at the park, LC walks forwards from the group, then faces towards them. Jump once
 
@@ -1265,9 +1263,9 @@ other-2:
 
 #end scene, fade to black.
 
-# ---- ---- ---- ---- ---- ---- ---- ----
+
 #5. Clinic injury
-# ---- ---- ---- ---- ---- ---- ---- ----
+
 
 3_S5_1:
     faceset: RV_Lucy
@@ -1543,9 +1541,9 @@ other-2:
    faceindex: 4
    text: \n<MIYA>Pasate cuando quieras si no te sentís bien.
 
-# ---- ---- ---- ---- ---- ---- ---- ----
+
 #6. Phone call hallucination
-# ---- ---- ---- ---- ---- ---- ---- ----
+
 
 #the house is dark. As the player enters the house, the phone starts to ring. Once the player picks up:
 
@@ -1615,8 +1613,7 @@ other-2:
     text: \n<\}☐☐☐☐☐☐\{>Nos contaste todo eso...\. y te fuiste como si nada.
 
 3_S6_20:
-    text: \n<\}☐☐☐☐☐☐\{>Seguro, quizás no fue tu decisión.
-...
+    text: \n<\}☐☐☐☐☐☐\{>Seguro, quizás no fue tu decisión...
 
 3_S6_21:
     text: \n<\}☐☐☐☐☐☐\{>Pero aun así.
@@ -1657,7 +1654,7 @@ other-2:
     text: \n<\}☐☐☐\{>Ya no vas a pensar en nosotros
 
 3_S6_33:
-    text: \n<\}☐☐☐\{Y nosotros no pensaremon en vos.
+    text: \n<\}☐☐☐\{>Y nosotros no pensaremon en vos.
 
 #pause
 

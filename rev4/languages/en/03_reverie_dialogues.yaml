@@ -5,95 +5,95 @@
 # METRO B2 NPCs--------------
 
 message_1:
-    text: \n<COWBLIN>This station has a cool temperature...\. Finally...
+    text: \n<COWBLIN>Esta estación tiene una temperatura fresca...\. Por fin...
 
 message_2:
-    text: \n<TIFANNY DARLING>Oh my, these evil spirits really won't leave me alone.\. First my house, then this station...and they won't leave me alone, even when I give them clams!
+    text: \n<TIFANNY DARLING>Ay, Dios mío, estos espíritus malignos no me dejarán en paz..\.Primero mi casa, luego esta estación... y no me dejan en paz, ni siquiera cuando les doy mis clams!
 
 message_3:
-    text: \n<PRINCESS GHOST>Blast,\. where is everybody else!\! I told them to come to the station so that we could board the train!
+    text: \n<PRINCESA FANTASMA>¡Maldición!,\. ¿Dónde estan los demas?\!¡Les dije que vinieran a la estación para que pudiéramos abordar el tren!
 
 message_4:
-    text: \n<PROPELLER GHOST>Ooohhh...\. Man, this place is so scary....\. I hope there aren't any mean ghosts around here...
+    text: \n<FANTASMA HÉLICE>Ooohhh...\. este lugar es muy espeluznante....\. Espero que no haya fantasmas malos por aquí....
 
 message_5:
-    text: \n<TOPHAT GHOST>Consarn it, which floor was it again....\. Is my map upside down?
+    text: \n<FANTASMA CHISTERA>Caramba, ¿Qué piso era....?\. ¿Tengo el mapa al revés?
 
 message_6:
-    text: \n<WEEPING WILLOW>Hey, it's me...\. Weeping Willow...\! You don't need to pay attention to me,\. I'm just here waiting for the train...\. Like everybody else...
+    text: \n<WEEPING WILLOW>Hola, soy yo...\. Weeping Willow...\! No tienes que prestarme atención,\. Solo estoy aquí esperando el tren...\. Como todos los demás...
 
 message_7_1:
-    text: \n<POPCORN GIRL>Commuting from this station isn't that bad, actually!\. The ghosts give me clams for popcorn sometimes!\. Wonder where they get them...
+    text: \n<CHICA POCHOCLO>Ir y venir de esta estación no es tan terrible,\. ¡A veces los fantasmas me dan CLAMS a cambio de pochoclo!\. Me pregunto de dónde las conseguirán...
 
 message_7_2:
-    text: \n<POPCORN GIRL>You want some popcorn?\. It's 100 clams.\. I always bring around my extra tray for corn related emergencies!
+    text: \n<CHICA POCHOCLO>¿Quieres pochoclo?\. Cuestan 100 clams.\. ¡Siempre llevo mi bandeja extra para emergencias relacionadas con el maíz!
 
 #When buying
 
 message_7_3:
-    text: \n<POPCORN GIRL>Yeah!\. Here you go!\. It's POPCORN!
+    text: \n<CHICA POCHOCLO>¡Sí!\. ¡Aquí tienes!\. ¡Son POCHOCLO!
 
 message_8:
-    text: \n<TEACUP SPIRIT>Oohooooooo... Can you feel that spooky chill in the aiiiir? You've entered our spooky land...
+    text: \n<ESPÍRITU DE LA TAZA>Oohooooooo... ¿Puedes sentir ese escalofriante frío en el aiiire?? Has entrado en nuestra tierra espeluznante...
 
-# SPROUT MOLE VILLAGE NPCs--------------
+# BROTOPO VILLAGE NPCs--------------
 
 message_9:
-    text: \n<BROTHER MOLE>My brother is safe with his TOFU, but he had to flee...\! I hope that the other colonists are okay.
+    text: \n<HERMANO TOPO>Mi hermano está a salvo con su TOFU, pero tuvo que huir...\! Espero que los otros colonos estén bien.
 
 message_10:
-    text: \n<BROTHER MOLE>\c[11]FALLEN WORLD\c[0] has gotten really dangerous.\! I didn't want to leave, but I had to...\! At least I get to see my brother again!
+    text: \n<HERMANO TOPO>\c[11]FALLEN WORLD\c[0] se ha vuelto realmente peligroso.\!  No quería irme, pero tuve que hacerlo...\!  ¡Al menos podré volver a ver a mi hermano!
 
 message_11:
-    text: \n<FAMILY MOLE>I hate Mondays.
+    text: \n<TOPO DE LA FAMILIA>Odio los lunes.
 
 message_12:
-    text: \n<CHEF MOLE>There's pineapple TOFU and lemon TOFU, coconut TOFU, pepper TOFU...\!
+    text: \n<CHEF TOPO>Hay TOFU de piña y TOFU de limón, TOFU de coco, TOFU de pimiento....\!
 
 message_12_2:
-    text: \n<CHEF MOLE>...TOFU burger, TOFU sandwich.\! That's about it.
+    text: \n<CHEF TOPO>...Hamburguesa de TOFU, sándwich de TOFU.\! Eso es todo.
 
 #Alternative dialogue (there's a piece of tofu with a sprout)
 
 message_12_3:
-    text: \n<CHEF MOLE>That piece of tofu looks just like me!
+    text: \n<CHEF TOPO>¡Ese pedazo de tofu se parece a mí!
 
 message_13:
-    text: \n<CHEF MOLE>I had an amazing dream last night.\! I tried TOFU flavors of every dessert....\! It was heaven.
+    text: \n<CHEF TOPO>Tuve un sueño increíble anoche.\! Probé sabores de TOFU de todos los postres....\! Era el paraíso.
 
 message_14:
-    text: \n<CHEF MOLE>What if we put TOFU on pizza?\! ...\! No, that'd be silly.\! Even worse than lukewarm tofu.
+    text: \n<CHEF TOPO>¿Qué tal si ponemos TOFU en la pizza?\! ...\! No, sería una tontería.\! Peor que el tofu tibio.
 
 message_15:
-    text: \n<SPROUT MOLE>I may be a patient mole, but this guy has been inside that washing machine for days...\! I just want to do my laundry!
+    text: \n<BROTOPO>Aunque soy un topo paciente, este tipo lleva días metido en esa lavadora...\! ¡Solo quiero lavar mi ropa!
 
 message_16_1:
-    text: \n<FAMILY MOLE>I've travelled across the world... even to the black depths below from which none return... do you know why?\! For the GREATEST FURNITURE this world has to offer! \!
+    text: \n<TOPO DE LA FAMILIA>He viajado por todo el mundo... incluso a las profundidades oscuras de las que nadie regresa... ¿Sabes por qué?\! ¡Por los MEJORES MUEBLES que este mundo puede ofrecer! \!
 
 message_16_2:
-    text: \n<FAMILY MOLE>When I couldn't buy it, I found the parts and made it myself. Behold the fruits of my labor!
+    text: \n<TOPO DE LA FAMILIA>Cuando no pude comprarlo, encontré las piezas y lo hice yo mismo. ¡Contemplen los frutos de mi trabajo!
 
 message_16_3:
-    text: \n<FAMILY MOLE>My grandiose abode is now the greatest in the village! None compare!\! Does the greatest house in the village make the greatest mole? I think so!
+    text: \n<TOPO DE LA FAMILIA>Mi grandiosa morada es ahora la mejor de la aldea. ¡Ninguna se le compara!\! ¿Tener la mejor casa del pueblo te convierte en el mejor topo? ¡Por supuesto que sí! 
 
 message_17:
-    text: \n<SPORT MOLE>Huff...\. I'm training to become a legendary Harold!\! Huff...\. Huff...\. It'll be tough, but I'm going to become the defender this village needs!
+    text: \n<TOPO ATLÉTICO>Huff...\. Estoy entrenando para convertirme en un Harold legendario!\! Huff...\. Huff...\. Será difícil, pero me convertiré en el defensor que esta aldea necesita.
 
 message_18:
-    text: \n<GUARD MOLE>Halt!\! It's too dangerous outside.\! For your safety, you'll have to remain here.
+    text: \n<TOPO GUARDIÁN>¡Alto!\! Es demasiado peligroso afuera.\!  Por tu seguridad, tendrás que quedarte aquí.
 
 message_19:
-    text: \n<FAMILY MOLE>In these dark times, the only thing that's keeping me sane in this world is my lack of self control.
+    text: \n<TOPO DE LA FAMILIA>En estos tiempos oscuros, lo único que me mantiene cuerdo en este mundo es mi falta de autocontrol.
 
 message_20:
-    text: \n<SPROUT MOLE>Tofu is becoming more and more precious with each passing day!\! Make sure you always have some on you.
+    text: \n<BROTOPO>El tofu es cada día más y más valioso\! ¡Asegúrate de llevar siempre un poco contigo!
 
 #Alternative dialogue
 message_20_2:
-    text: \n<SPROUT MOLE>My order is taking so long to arrive!\. I only ordered a hundred of roasted tofu cubes.\! Customer service these days is awful.
+    text: \n<BROTOPO>¡Mi pedido se está demorando mucho! \. Solo pedí cien cubos de tofu asado.\! El servicio al cliente hoy en día es terrible.
 
 message_21:
-    text: \n<BIRD MOLE>Chirp?
+    text: \n<TOPO PAJARO>Chirp?
 
 message_21_1:
     faceset: MainCharacters_ReverieDreamworld
@@ -101,258 +101,258 @@ message_21_1:
     text: \n<DOUGHIE>Chirp.
 
 message_22:
-    text: \n<BEAUTIFUL MOLE>Although the situation is dire, it doesn't stop me from being absolutely gorgeous.
+    text: \n<TOPO HERMOSO>Aunque la situación es grave, eso no me impide ser absolutamente espléndida.
 
 message_23:
-    text: \n<DOUBLE MOLE>We are left twondering what happened that made everything go bad recently.
+    text: \n<TOPO DOBLE>Nos quedamos preguntándonos qué pasó para que todo se arruinara recientemente.
 
 message_24_1:
-    text: \n<STUDENT MOLE>The old teacher ditched because of some "apocalypse," but that's okay.
+    text: \n<ESTUDIANTE TOPO>El viejo profesor se largó por culpa de un "apocalipsis", pero está bien.
 
 message_24_2:
-    text: \n<STUDENT MOLE>Our new teacher is so much better, he's not a stickler like the old guy and his lesson plan rocks!\! I'm learning so much more now!
+    text: \n<ESTUDIANTE TOPO>Nuestro nuevo profesor es mucho mejor, no es tan estricto como el viejo y su plan de estudios ¡es increíble!\! ¡Ahora estoy aprendiendo mucho más!
 
 message_25_1:
-    text: \n<STUDENT MOLE>... As the world outside comes to an end, so does my personal life...
+    text: \n<ESTUDIANTE TOPO>... A medida que el mundo exterior llega a su fin, también lo hace mi vida personal....
 
 message_25_2:
-    text: \n<STUDENT MOLE>I thought I had friends, but it turns out...\! They LOVE TOFU! I wonder now if I was their friend, or just another prospective meal...
+    text: \n<ESTUDIANTE TOPO>Creí que tenía amigos, pero resulta que....\!  ¡LES ENCANTA EL TOFU! Ahora me pregunto si yo era su amigo, o solo otra comida potencial...
 
 message_26_1:
-    text: \n<STUDENT MOLE>The world is falling apart outside, but I'm happy as long as I have paper and pencils.
+    text: \n<ESTUDIANTE TOPO>El mundo se está desmoronando afuera, pero yo soy feliz mientras tenga papel y lápices.
 
 message_26_2:
-    text: \n<STUDENT MOLE>Before I knew it, I've been drawing a whole comic in class! Read the awesome tales of SUPER SPROUT MOLE!
+    text: \n<ESTUDIANTE TOPO>Antes de que me diera cuenta, ¡estuve dibujando un cómic completo en clase! ¡No te pierdas los asombrosos relatos de SÚPER BROTOPO!
 
 message_27_1:
-    text: \n<DUNCE MOLE>I want to do right by the school, so I'm teaching while everything's messy outside.\!
+    text: \n<TOPO TONTO>Quiero hacer lo correcto por la escuela, así que estoy enseñando mientras todo está un desastre afuera.\!
 
 message_27_2:
-    text: \n<DUNCE MOLE>I always get in trouble for using different SPROUT MOLES in place of numbers, but my students are getting it!\. I could get used to this...
+    text: \n<TOPO TONTO>Siempre me meto en problemas por usar diferentes BROTOPOS en lugar de números, ¡pero mis estudiantes lo están entendiendo!\. Podría acostumbrarme a esto...
 
 message_28_1:
-    text: \n<FAMILY MOLE>While the destruction nearby was great and affected many including the castle, we moles who dwelled in the colony managed to keep ourselves away from it.
+    text: \n<TOPO DE LA FAMILIA>Aunque la destrucción cercana fue grande y afectó a muchos, incluido el castillo, nosotros los topos que vivíamos en la colonia logramos mantenernos alejados de ella.
 
 message_28_2:
-    text: \n<FAMILY MOLE>We have all managed to remain safe despite the terror!
+    text: \n<TOPO DE LA FAMILIA>Hemos logrado mantenernos a salvo a pesar del terror.
 
 message_29:
-    text: \n<DOUBLE MOLE>We are left twondering what happened that made everything go bad recently.
+    text: \n<TOPO DOBLE>Nos quedamos preguntándonos qué pasó para que todo se arruinara recientemente.
 
 message_30_1:
-    text: \n<SPROUT MOLE>I can tell by your faces and dissimilar species that you're a group of travellers.\! I can also tell that you've encountered many a SPROUT MOLE on your travels! I'd bet on it!
+    text: \n<BROTOPO>Puedo notar por sus caras y especies distintas que son un grupo de viajeros.\! ¡También puedo darme cuenta de que se han encontrado con muchos BROTOPOS en sus viajes! ¡Apostaría por ello!
 
 message_30_2:
-    text: \n<SPROUT MOLE>Alas, travellers, I'd also bet you've seen none a SPROUT MOLE such as I.\! When the crowd of my kin flocks to tofu, or SWEETHEART...\. I remain my own mole!\! Have you ever seen a mole such as I?
+    text: \n<BROTOPO>Viajeros, también apostaría a que no han visto un BROTOPO como yo.\! Mientras la multitud de mis parientes se aglomera por el tofu, o SWEETHEART...\. ¡Yo sigo siendo mi propio topo!\! ¿Han visto alguna vez un topo como yo?
 
 message_31_1:
-    text: \n<BUTLER MOLE>We've lost our job at the castle due to the recent events, so now we've reinvented ourselves as a farmer.
+    text: \n<TOPO MAYORDOMO>Hemos perdido nuestro trabajo en el castillo debido a los eventos recientes, así que ahora nos hemos reinventado como granjeros.
 
 message_31_2:
-    text: \n<BUTLER>Still!\! My plants aren't growing.\! Could they need more sunlight?
+    text: \n<TOPO GRANJERO>¡Aun así!\! Mis plantas no crecen.\! ¿Podrían necesitar más sol?
 
-#Mayor mole
+#TOPO MAYOR
 #Wrong tag
 message_32_1:
-    text: \n<MAYOR MOLE>You are traveling with \c[13]SWEETHEART\c[0]?!\. Please let me speak to her!\. This is a matter of utmost importance!
+    text: \n<TOPO MAYOR>¿¡Estás viajando con \c[13]SWEETHEART\c[0]?!\. ¡Por favor, déjame hablar con ella!\. ¡Esto es un asunto de suma importancia!
 
 #Wrong tag after speaking to SWH
 message_32_2:
-    text: \n<MAYOR MOLE>It is comforting to see that SWEETHEART has returned.
+    text: \n<TOPO MAYOR>Es reconfortante ver que SWEETHEART ha regresado.
 
 #SWH tag
 message_32_3:
-    text: \n<MAYOR MOLE>Sweet and fair duchess!\. How good it is to see you! We were in dire need of your arrival... we have fallen into dark times.
+    text: \n<TOPO MAYOR>¡Dulce y bella duquesa!\. ¡Qué alegría verla! Estábamos en una gran necesidad de su llegada... hemos caído en tiempos oscuros.
 
 message_32_4:
-    text: \n<MAYOR MOLE>Not a lot of us have ventured into the \c[11]CASTLE\c[0] and few come back.\. It seems it has fallen into disrepair and anarchy, and in turn we have trenched ourseleves here.
+    text: \n<TOPO MAYOR>No muchos de nosotros nos hemos aventurado en el \c[11]CASTILLO\c[0] y pocos han regresado.\. Parece que ha caído en la ruina y la anarquía, y a su vez, nos hemos atrincherado aquí.
 
 message_32_5:
-    text: \n<MAYOR MOLE>Please, bring justice and order to our lands, somehow!\. Everything has fallen into disrepair and you are bound to these domains.
+    text: \n<TOPO MAYOR>Por favor, trae justicia y orden a nuestras tierras, ¡De alguna manera! \. Todo ha caído en la ruina y tú estás ligada a estos dominios.
 
-#-----Sprout mole village NPC SWH tag reactions
+#-----BROTOPO village NPC SWH tag reactions
 message_swh_1:
-    text: \n<PEON>Could it be... \QUAKE[1]IT IS!\.\QUAKE[1] \SINH[1]SWEETHEART!!\!\SINH[1] Ahem... I'm such a huge fan! Could I have an autograph?
+    text: \n<PEÓN>C¿Podría ser...? \QUAKE[1]¡SÍ ES!\.\QUAKE[1] \SINH[1]SWEETHEART!!\!\SINH[1] Ejem... ¡Soy un gran, gran fan! ¿Podría pedirte un autógrafo?
 
 message_swh_2:
-    text: \n<PEON>\QUAKE[1]SWEETHEART?\.\QUAKE[1] In a \QUAKE[2]Sprout Mole Village?\QUAKE[2]\. Why, you could only be down her for a special reason!\. Is it me?\. Please say it's me.
+    text: \n<PEÓN>\QUAKE[1]¿SWEETHEART?\.\QUAKE[1] ¿En una \QUAKE[2]Villa BROTOPO?\QUAKE[2]\. ¡Pues, solo podrías haber bajado aquí por un motivo especial!\. ¿Es por mí?\. Por favor, dime que es por mí
 
 message_swh_3:
-    text: \n<PEON>Ah!\. Your majesty!\- \QUAKE[2]I must grace you with the presence of my SWEETHEART MERCH COLLECTION!\.\QUAKE[2] It's only the 3rd best in the world...
+    text: \n<PEÓN>Ah!\. ¡Su majestad!\- \QUAKE[2]¡Debo honrarla con la presencia de mi COLECCIÓN DE PRODUCTOS DE SWEETHEART!\.\QUAKE[2] Es tan solo la tercera mejor del mundo...
 
 message_swh_4:
-    text: \n<PEON>I've never seen you in person...\. SWEETHEART\. ... You look so much grander in person than on your posters!
+    text: \n<PEÓN>Nunca te había visto en persona...\. SWEETHEART\. ... ¡Te ves mucho más majestuosa en persona que en tus pósters!
 
 message_swh_5:
-    text: \n<PEON>My liege!\. You come bearing the gift of your presence!\. So here, an offering in turn!
+    text: \n<PEÓN>¡Mi señora!\. ¡Usted nos honra con su presencia!\. ¡Así que aquí, le ofrezco esto a cambio! 
 
 message_swh_6:
-    text: \n<PEON>What brings you here, SWEETHEART?\. Oh, I'm sure it could not be for my humblest of presences.\. Here, may this compensate!
+    text: \n<PEÓN>¿Qué te trae por aquí, SWEETHEART?\. Oh, estoy seguro de que no podría ser por mi humilde presencia.\. ¡Toma, que esto lo compense!
 
 #After receiving item
 message_swh_7:
-    text: The sprout mole has been left in a daze.
+    text: El BROTOPO se ha quedado aturdido.
 
 #Talking to butler mole as Sweetheart
 
 message_swh_8:
-    text: \n<BUTLER MOLE>Oh, my la-\!
+    text: \n<TOPO GRANJERO>Oh, mi la-\!
 
 message_swh_9:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 24
-    text: \n<SWEETHEART>How preposterous!\. A servant of my convivial castle, reducing itself to such lowly farmwork!\. You are dirtying my name!
+    text: \n<SWEETHEART>¡Qué absurdo!\. ¡Un sirviente de mi alegre castillo, reduciéndose a un trabajo de granja tan humilde!\. ¡Estás ensuciando mi nombre!
 
 message_swh_10:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 16
-    text: \n<SWEETHEART>This will not go unpunished!
+    text: \n<SWEETHEART>¡Esto no quedará impune!
 
 message_swh_11:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 26
-    text: \n<SWEETHEART>\QUAKE[1]THIS WILL NOT GO UNPUNISHED\QUAKE[1]!
+    text: \n<SWEETHEART>\QUAKE[1]ESTO NO QUEDARÁ IMPUNE\QUAKE[1]!
 
 # Trying to go to metro while SWH is missing
 no_swh_1:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 38
-    text: \n<SPACEBOY>Hey...\. We probably should look for SWEETHEART first before we leave.
+    text: \n<SPACEBOY>Oye...\. Probablemente deberíamos buscar a SWEETHEART primero antes de irnos.
 
 # CRUMBLING CASTLE NPCs--------------
 #Big Molio - Big Molio is blocking the way to the dungeon
 
 #First meeting
 message_40_1:
-    text: \n<BIG MOLIO>I am BIG MOLIO.\! I am hungry.\! My hunger craves one thing only... A \c[4]TOFU CAKE\c[0].\! May I ask you for a \c[4]TOFU CAKE\c[0]?
+    text: \n<BIG MOLIO>Yo soy BIG MOLIO.\! Estoy hambriento.\! Mi hambre solo anhela una cosa... Una \c[4]TORTA DE TOFU\c[0].\!¿Puedo pedirte una \c[4]TORTA DE TOFU\c[0]?
 
 message_40_2:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 2
-    text: \n<DOUGHIE>Oho...\! What kind of cake is made with tofu?\! I've never baked with anything except flour...
+    text: \n<DOUGHIE>Oho...\! ¿Qué tipo de pastel se hace con tofu?\! Nunca he horneado con nada que no sea harina...
 
 message_40_3:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 37
-    text: \n<SPACEBOY>Well, now you can broaden your horizons.\! Let's go find somewhere for DOUGHIE to cook.
+    text: \n<SPACEBOY>Bueno, ahora puedes ampliar tus horizontes.\! Vamos a encontrar un lugar para que DOUGHIE cocine.
 
 #Talk again, no cake
 message_40_4:
-    text: \n<BIG MOLIO>...You do not have a \c[4]TOFU CAKE\c[0].\! That is okay.\! My hunger wants the cake, and not you.\! I shall wait.
+    text: \n<BIG MOLIO>...No tienes una \c[4]TORTA DE TOFU\c[0].\! Está bien..\! Mi hambre quiere el pastel, no a ti.\! Esperaré.
 
 #Talk with cake
 message_40_5:
-    text: \n<BIG MOLIO>A \c[4]TOFU CAKE\c[0]... Please, I am hungry.\! May I have it?
+    text: \n<BIG MOLIO>Una \c[4]TORTA DE TOFU\c[0]... Por favor, tengo hambre.\! ¿Puedo tenerlo?
 
 #Give cake
 message_40_6:
-    text: \n<BIG MOLIO>I am grateful to you.
+    text: \n<BIG MOLIO>Te estoy agradecido.
 
 message_40_7:
-    text: \n<BIG MOLIO>I will remember your generosity, even as my hunger craves for something else.
+    text: \n<BIG MOLIO>Recordaré tu generosidad, incluso mientras mi hambre anhele algo más.
 
-#Dialogues for baking Tofu cake
+#Dialogues for baking TORTA DE TOFU
 
 message_41_1:
-    text: There's a half baked cake in the oven. Will you turn the oven on?
+    text: Hay un pastel a medio hornear en el horno. ¿Vas a prender el horno?
 
 message_41_2:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 1
-    text: \n<DOUGHIE>Oho...\! This cake is fresh and ready!
+    text: \n<DOUGHIE>Oho...\! Este pastel está fresco y listo.
 
 # SB JAIL CELL MINI CUTSCENE --------------
 message_sb_1:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 39
-    text: \n<SPACEBOY>Wait...\. isn't this...
+    text: \n<SPACEBOY>Espera...\. ¿Esto no es...?
 
 message_sb_2:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 2
-    text: \n<DOUGHIE>Hmm.\. For some reason this cell seems nicer than the others.
+    text: \n<DOUGHIE>Hmm.\. Por alguna razón, esta celda parece más agradable que las otras.
 
 message_sb_3:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 0
-    text: \n<DOUGHIE>Was there a particular reason for this, SWEETHEART?
+    text: \n<DOUGHIE>¿Hubo alguna razón en particular para esto, SWEETHEART?
 
 message_sb_4:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 17
-    text: \n<SWEETHEART>Ohohoho!\. Well, you see, this is where SPACEBOY stayed while he was living with me!
+    text: \n<SWEETHEART>Ohohoho!\. Bueno, verás, ¡Aquí es donde se quedó SPACEBOY mientras vivía conmigo!
 
 message_sb_5:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 16
-    text: \n<SWEETHEART>Ahh, it was such a lovely time...\. back when he did just about everything asked of him...
+    text: \n<SWEETHEART>Ahh, fue una época tan hermosa...\. cuando él hacía prácticamente todo lo que se le pedía...
 
 message_sb_6:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 21
-    text: \n<SWEETHEART>As opposed to now, where he regularly argues and disobeys.
+    text: \n<SWEETHEART>A diferencia de ahora, que regularmente discute y desobedece.
 
 message_sb_7:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 45
-    text: \n<SPACEBOY>People don't live in cells normally, SWEETHEART!
+    text: \n<SPACEBOY>¡La gente no vive en celdas normalmente, SWEETHEART!
 
 message_sb_8:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 21
-    text: \n<SWEETHEART>Hmph!\. I gave you such a nice one, too, and yet you have the NERVE to be ungrateful!
+    text: \n<SWEETHEART>Hmph!\. Te di una tan bonita, y sin embargo, ¡tienes el DESCARO de ser desagradecido!
 
 message_sb_9:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 4
-    text: \n<DOUGHIE>Oho... oh dear...
+    text: \n<DOUGHIE>Oho... oh, cielos....
 
 message_sb_10:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 44
-    text: \n<SPACEBOY>Look, we've already had this conversation like, ten times by now.
+    text: \n<SPACEBOY>Mira, ya hemos tenido esta conversación como diez veces.
 
 message_sb_11:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 38
-    text: \n<SPACEBOY>Let's just...\. drop it.
+    text: \n<SPACEBOY>Mejor...\. olvidémoslo.
 
 message_sb_12:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 21
-    text: \n<SWEETHEART>For once, I agree.\. We have far more important things to be doing!
+    text: \n<SWEETHEART>Por una vez, estoy de acuerdo.\. ¡Tenemos cosas mucho más importantes que hacer!
 # QUESTS--------------
 #------------Poster retrieval
 #Receive quest
 message_quest_1:
-    text: \n<LOOTER MOLE>Hey.\. I lost my posters somewhere while I was having a major panic.
+    text: \n<TOPO SAQUEADOR>Oye.\. perdí mis pósteres en alguna parte mientras estaba en un ataque de pánico.
 
 message_quest_2:
-    text: \n<LOOTER MOLE>They're pretty important collectors items, and I think I might panic again if I don't get them back.
+    text: \n<TOPO SAQUEADOR>Son artículos de colección bastante importantes, y creo que podría volver a entrar en pánico si no los recupero.
 
 message_quest_3:
-    text: \n<LOOTER MOLE>If you ever find any, please bring them to me, so that I can know peace as I sleep.
+    text: \n<TOPO SAQUEADOR>Si alguna vez encuentras alguno, por favor, tráemelo para que pueda dormir en paz.
 
 #Talk while he doesn't have posters
 message_quest_4:
-    text: \n<LOOTER MOLE>I don't see any posters on you.\. At least, not any that are collector's items.
+    text: \n<TOPO SAQUEADOR>No veo ningún póster en ti.\. Al menos, ninguno que sea un artículo de colección.
 
 message_quest_5:
-    text: \n<LOOTER MOLE>Please!\. Keep an eye out for them!\. I can feel my blood pressure rising already!
+    text: \n<TOPO SAQUEADOR>¡Por favor! \. ¡No les quiten el ojo de encima!\. ¡Ya siento que se me sube la presión!
 
 #Give poster
 message_quest_6:
-    text: \n<LOOTER MOLE>Ooooh!\. Oh, you've managed to find some!
+    text: \n<TOPO SAQUEADOR>Ooooh!\. ¡Oh, lograste encontrar algunos!
 
 message_quest_7:
-    text: \n<LOOTER MOLE>Oh, please, take this with all of my thanks!
+    text: \n<TOPO SAQUEADOR>¡Oh, por favor, toma esto con todo mi agradecimiento!
 
 #Quest done
 message_quest_8:
-    text: \n<LOOTER MOLE>Finally, I feel the shakes starting to weaken...\. thank you so much!
+    text: \n<TOPO SAQUEADOR>Finalmente, siento que los temblores empiezan a debilitarse...\. ¡Muchas gracias!
 
 message_quest_9:
-    text: \n<LOOTER MOLE>Please have this!\. I don't need it anymore, not when I have to focus on my collection.
+    text: \n<TOPO SAQUEADOR¡Por favor, ten esto!\. Ya no lo necesito, no cuando tengo que concentrarme en mi colección.
 
 # ================================================================
 #                    SONG NPCS
@@ -366,48 +366,48 @@ message_quest_9:
 garden_block_1:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 38
-    text: \n<SPACEBOY>Hmm... the way out here is blocked off.\. Looks like it's gotten overgrown since last time I was here.
+    text: \n<SPACEBOYHmm... la salida por aquí está bloqueada.\. Parece que se ha llenado de maleza desde la última vez que estuve aquí.
 
 garden_block_2:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 2
-    text: \n<DOUGHIE>Oho?\. You were here before, SPACEBOY?
+    text: \n<DOUGHIE>Oho?\. Estuviste aquí antes, SPACEBOY?
 
 garden_block_3:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 44
-    text: \n<SPACEBOY>Yeah, I visited here once when SWEETHEART and I were still dating.
+    text: \n<SPACEBOY>Sí, visité este lugar una vez cuando SWEETHEART y yo éramos novios.
 
 garden_block_4:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 44
-    text: \n<SPACEBOY>It... wasn't the most pleasant experience.
+    text: \n<SPACEBOY>No... fue la experiencia más agradable.
 
 garden_block_5:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 4
-    text: \n<DOUGHIE>I could imagine... 
+    text: \n<DOUGHIE>Me lo puedo imaginar... 
 
 # Dialogue for interacting with song area. 
 
 garden_block_6:
-    text: This sprout mole seems to be staring off into space absentmindedly... 
+    text: Este BROTOPO parece estar mirando al vacío con la mente en otra parte.... 
 
 # No yes/no option, just small menu of songs
 
 # Incorrect Song
 
 garden_block_8:
-    text: The sprout mole is unresponsive.
+    text: Este BROTOPO no responde.
 
 # Correct Song
 
 garden_block_9:
-    text: The sprout mole is invigorated with passion and rage!
+    text: Este BROTOPO está vigorizado con pasión y rabia!
 
 # After
 garden_block_10:
-    text: \n<MARSHA>Honestly...\. I've been procrastinating on clearing the weeds all this time.
+    text: \n<MARSHA>Honestamente...\. he estado procrastinando para quitar las malas hierbas todo este tiempo.
 
 # ================================================================
 #                    GOLDEN KNIGHT MOLES
@@ -418,114 +418,114 @@ garden_block_10:
 #Now just need to be annoyed to move on left trapdoor
 
 goldmole_alex_1:
-    text: \n<ALEX THE ESTEEMED>I used to be a member of the esteemed elite...\! Having a special code and everything.
+    text: \n<ALEX EL ESTIMADO>Solía ser un miembro de la estimada élite...\! Tenía un código especial y todo.
 
 goldmole_alex_2:
-    text: \n<ALEX THE ESTEEMED>But then the castle got wrecked just like that!\! What am I supposed to do now?
+    text: \n<ALEX EL ESTIMADO>¡Pero luego el castillo fue destrozado así sin más!\! ¿Qué se supone que debo hacer ahora?
 
 goldmole_alex_3:
-    text: \n<ALEX THE ESTEEMED>Oh, do you want me to move?\! Like really want me to move?\! Like really really want me to move?\! Like really really really want me to move?
+    text: \n<ALEX EL ESTIMADO>Oh, ¿Quieres que me mueva?\! Like really want me to move?\! ¿Realmente quieres que me mueva?\! ¿Realmente, realmente quieres que me mueva?
 
 goldmole_alex_4:
-    text: This sprout mole seems to be a bit annoyed with the current situation...
+    text: Este BROTOPO parece estar un poco molesto con la situación actual....
 
 goldmole_alex_4_1:
-    text: ... So much to not even notice you.
+    text: ... Tanto como para ni siquiera notarte.
 
 goldmole_alex_4_2:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 21
-    text: \n<SWEETHEART>Such insolence...\. By my own knight, too...
+    text: \n<SWEETHEART>Tal insolencia...\. Y de mi propio caballero...
 
 # Wrong
 goldmole_alex_5:
-    text: \n<ALEX THE ESTEEMED>What was that supposed to be?\! Is that supposed to make me feel better?
+    text: \n<ALEX EL ESTIMADO>¿Qué se suponía que era eso?\! ¿Acaso se supone que me va a mejorar el ánimo?
 
 # Correct
 goldmole_alex_6:
-    text: \n<ALEX THE ESTEEMED>What in the world is that song?\! Just because of that, I'm going to be even more in your way!\! Hmph!
+    text: \n<ALEX EL ESTIMADO>¿Qué demonios es esa canción?\! ¡Solo por eso, voy a estorbarte aún más!\! Hmph!
 
 # After
 goldmole_alex_7:
-    text: \n<ALEX THE ESTEEMED>How about that!\! That will teach you to show me subpar music! 
+    text: \n<ALEX EL ESTIMADO>¡Toma eso!\! Eso te enseñará a mostrarme música de mala calidad! 
 
 # ================ HEDGE ITEM (SAD SONG) ================
 #PUZZLE MOLE 4 (Top Right) Ranting one about password are stupid
 #Now just sad in top right garden
 
 goldmole_helen_1:
-    text: \n<HELEN THE CALAMITOUS>I used to be super busy standing here being one of the calamitous elite...\! but with the castle in ruins I no longer have any password to guard...
+    text: \n<HELEN LA CALAMITOSA>Solía estar súper ocupada parada aquí, siendo parte de la élite calamitosa...\!  pero con el castillo en ruinas, ya no tengo ninguna contraseña que custodiar...
 
 goldmole_helen_2:
-    text: \n<HELEN THE CALAMITOUS>The password may be stupid...\. but now that I have no job,\. I feel my life is more aimless than ever.
+    text: \n<HELEN LA CALAMITOSA>La contraseña podrá ser estúpida...\.  pero ahora que no tengo trabajo,\. siento que mi vida está más sin rumbo que nunca.
 
 goldmole_helen_3:
-    text: This sprout mole seems to be a bit dejected with the current situation... 
+    text: Este BROTOPO parece estar un poco desanimado con la situación actual... 
 
 # Wrong
 goldmole_helen_4:
-    text: \n<HELEN THE CALAMITOUS>...What on earth was that for?
+    text: \n<HELEN LA CALAMITOSA>...¿Para qué fue eso exactamente?
 
 # Correct
 goldmole_helen_5:
-    text: \n<HELEN THE CALAMITOUS>Ah, that made me feel a little better.\! Oh, was I in the way? I'll move now.
+    text: \n<HELEN LA CALAMITOSA>Ah, eso me hizo sentir un poco mejor.\! Oh, ¿Estaba estorbando? Me moveré ahora.
 
 # After
 goldmole_helen_6:
-    text: \n<HELEN THE CALAMITOUS>I feel a little better now.\! I'm just pondering about my future.
+    text: \n<HELEN LA CALAMITOSA>Me siento un poco mejor ahora.\! Solo estoy reflexionando sobre mi futuro.
 
 # ================ PAINTING HELL QUEST ================
 #PUZZLE MOLE 2 (Bottom Right) Tofu one that doubts
 #Now is in dungeon about painting hell
 
 goldmole_brian_1:
-    text: \n<BRIAN THE DISTINGUISHED>Careful where you tread...\! You are in the presence of one of SWEETHEART's distinguished elites.
+    text: \n<BRIAN EL DISTINGUIDO>Cuidado por dónde pisas...\! Estás en la presencia de uno de los miembros de la élite distinguida de SWEETHEART
 
 goldmole_brian_2:
-    text: \n<BRIAN THE DISTINGUISHED>But despite that,\. there is a trouble that an elite like me cannot deal with.
+    text: \n<BRIAN EL DISTINGUIDO>Pero a pesar de eso,\. hay un problema con el que una élite como yo no puede lidiar.
 
 goldmole_brian_3:
-    text: \n<BRIAN THE DISTINGUISHED>You see, with the castle falling into ruination,\. there is one room in the dungeon that just seemed to open up out of nowhere.
+    text: \n<BRIAN EL DISTINGUIDO>Verás, con el castillo cayendo en la ruina,\. hay una habitación en el calabozo que simplemente pareció abrirse de la nada.
 
 goldmole_brian_4:
-    text: \n<BRIAN THE DISTINGUISHED>In the room theres a long corridoor filled with paintings...\. and, oh the horrors!\! They're all alive!
+    text: \n<BRIAN EL DISTINGUIDO>En la habitación hay un largo pasillo lleno de cuadros...\. y, oh, ¡Qué horror!\! ¡Están todos vivos!
 
 goldmole_brian_5:
-    text: \n<BRIAN THE DISTINGUISHED>I cannot possibly deal with cleaning that room!\! And what if they happen to escape?!\! Imagine the terror!
+    text: \n<BRIAN EL DISTINGUIDO>¡No puedo encargarme de limpiar esa habitación!\!¡¿Y qué pasa si se escapan?!\! ¡Imagínate el terror!
 
 goldmole_brian_6:
-    text: \n<BRIAN THE DISTINGUISHED>I know you all are not sprout moles...\! but I need any help I can get...
+    text: \n<BRIAN EL DISTINGUIDO>Sé que no todos ustedes son BROTOPOS...\! pero necesito toda la ayuda que pueda conseguir...
 
 goldmole_brian_7:
-    text: \n<BRIAN THE DISTINGUISHED>Could you help clear out \c[11]the room full of paintings for me\c[0]? \c[11]There's a wall to the right of you that you can walk past\c[0].
+    text: \n<BRIAN EL DISTINGUIDO>¿Podrían ayudarme a despejar \c[11]la habitación llena de cuadros\c[0]? \c[11]Hay una pared a tu derecha que puedes atravesar.\c[0].
 
 # Choice YES/NO
 # No
 goldmole_brian_8:
-    text: \n<BRIAN THE DISTINGUISHED>Hmph... I guess I must still do my duty as an elite myself then...
+    text: \n<BRIAN EL DISTINGUIDO>Hmph... Supongo que, aun así, debo cumplir con mi deber como miembro de la élite...
 
 # Yes
 goldmole_brian_9:
-    text: \n<BRIAN THE DISTINGUISHED>Oh, I owe you a debt of gratitude!\! If you can do that it will be of massive help!
+    text: \n<BRIAN EL DISTINGUIDO>¡Oh, te quedaré eternamente agradecido!\! Si lo haces, ¡me harías un gran favor!
 
 goldmole_brian_10:
-    text: \n<BRIAN THE DISTINGUISHED>And as for evidence... come back when you get a \c[4]RED ROSE\c[0]... I saw it in the deepest part of the room. If you manage to get it then that's enough proof for me.
+    text: \n<BRIAN EL DISTINGUIDO>En cuanto a pruebas... vuelve cuando consigas una \c[4]ROSA ROJA\c[0]... La vi en la parte más profunda de la habitación. Si logras obtenerla, eso será prueba suficiente para mí.
 
 # Not satisfied
 goldmole_brian_11:
-    text: \n<BRIAN THE DISTINGUISHED>Ah, you have not got a \c[4]RED ROSE\c[0] yet.\! You have no evidence you did your job correctly.
+    text: \n<BRIAN EL DISTINGUIDO>Ah, todavía no tienes una \c[4]ROSA ROJA\c[0].\! No tienes pruebas de que hiciste tu trabajo correctamente.
 
 # Satisfied
 goldmole_brian_12:
-    text: \n<BRIAN THE DISTINGUISHED>My! you managed to obtain the \c[4]RED ROSE\c[0]!\! You must have went and cleared that entire room!
+    text: \n<BRIAN EL DISTINGUIDO>¡Vaya! ¡Lograste obtener la \c[4]ROSA ROJA\c[0]!\! ¡Debes haber limpiado la habitación entera!
 
 goldmole_brian_13:
-    text: \n<BRIAN THE DISTINGUISHED>Oh thank you so very much.\! I no longer have to deal with that terror ever again!\! Here's something I found as a token of thanks.
+    text: \n<BRIAN EL DISTINGUIDO>¡Oh, muchísimas gracias!\! ¡Ya no tengo que lidiar con ese terror nunca más!\! Aquí tienes algo que encontré como muestra de agradecimiento.
 
 # > You got item
 
 goldmole_brian_14:
-    text: \n<BRIAN THE DISTINGUISHED>I can rest easy forever more.
+    text: \n<BRIAN EL DISTINGUIDO>Podré descansar en paz para siempre.
 
 # ================ CAROL ================
 #PUZZLE MOLE 3 (Bottom Left) Tofu one that is polite

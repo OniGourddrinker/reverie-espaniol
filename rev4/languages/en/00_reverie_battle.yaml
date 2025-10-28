@@ -103,52 +103,52 @@ message_TVG-6:
    text: >
     \>TV GIRL: \<\}\sinv[1]Oh, ahi estan las luces...\|\^
 
-# ======== PLANET X ========
+# ======== PLANETA X ========
 
 # intro
 message_PX-1:
    text: >
-    \>PLANET X: \<¡Sentí la ira del shinobi cósmico!
+    \>PLANETA X: \<¡Sentí la ira del shinobi cósmico!
 
 message_PX-2:
    text: >
-    \>PLANET X: \<\Com[2]\sinv[1]KYAAAAAAAAA!!\sinv[0]
+    \>PLANETA X: \<\Com[2]\sinv[1]KYAAAAAAAAA!!\sinv[0]
 
 #lose wig
 message_PX-3:
    text: >
-    \>PLANET X: \<N-no!\. Mi peluca!
+    \>PLANETA X: \<N-no!\. Mi peluca!
 
 message_PX-4:
    text: >
-    \>PLANET X: \<¡No me mires...\. Soy \Com[2]\quake[1]HORRIBLE!
+    \>PLANETA X: \<¡No me mires...\. Soy \Com[2]\quake[1]HORRIBLE!
 
 # no juice
 message_PX-5:
-    text: PLANET X no tiene sufiente JUGO!
+    text: PLANETA X no tiene sufiente JUGO!
 
 # Battle win
 message_PX-6:
    text: >
-    \>PLANET X: \<N-no!\. Imposible!\. esto no puede estar pasando!
+    \>PLANETA X: \<N-no!\. Imposible!\. esto no puede estar pasando!
 
 # Battle lose
 message_PX-7:
    text: >
-    \>PLANET X: \<Heh heh... Idiotas,\. ¡Solo un insensato se enfrentaría al \sinv[1]más grande ninja\sinv[0] de todos los tiempos!.
+    \>PLANETA X: \<Heh heh... Idiotas,\. ¡Solo un insensato se enfrentaría al \sinv[1]más grande ninja\sinv[0] de todos los tiempos!.
 
 message_PX-8:
    text: >
-    \>PLANET X: \<¡Si deseás derrotarme, entrená durante otros \sinv[1]100\sinv[0] años luz!
+    \>PLANETA X: \<¡Si deseás derrotarme, entrená durante otros \sinv[1]100\sinv[0] años luz!
 
 # Wig prompt
 message_PX-9:
    text: >
-    \>PLANET X: \<¡Ey!\. ¡No toques mi peluca!
+    \>PLANETA X: \<¡Ey!\. ¡No toques mi peluca!
 
 message_PX-10:
    text: >
-    \>PLANET X: \<Digo mi... cabello.\. ¡Mi precioso cabello!
+    \>PLANETA X: \<Digo mi... cabello.\. ¡Mi precioso cabello!
 
 # ======== Kite Kid ========
 
@@ -341,7 +341,7 @@ painting_ambush:
 # ================ Casstle Mini Bosses ================
 enc_virtuoso_1:
    text: >
-    VIRTUOSO MOLE es muy estricto...
+    Topo Virtuoso es muy estricto...
 
 enc_virtuoso_2:
    text: >
