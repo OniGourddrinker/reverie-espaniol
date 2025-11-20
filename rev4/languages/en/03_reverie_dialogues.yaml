@@ -165,7 +165,7 @@ message_32_3:
     text: \n<TOPO MAYOR>¡Dulce y bella duquesa!\. ¡Qué alegría verla! Estábamos en una gran necesidad de su llegada... hemos caído en tiempos oscuros.
 
 message_32_4:
-    text: \n<TOPO MAYOR>No muchos de nosotros nos hemos aventurado en el \c[11]CASTILLO\c[0] y pocos han regresado.\. Parece que ha caído en la ruina y la anarquía, y a su vez, nos hemos atrincherado aquí.
+    text: \n<TOPO MAYOR>No muchos de nosotros nos hemos aventurado en el \c[11]CASTILLOc[0] y pocos han regresado.\. Parece que ha caído en la ruina y la anarquía, y a su vez, nos hemos atrincherado aquí.
 
 message_32_5:
     text: \n<TOPO MAYOR>Por favor, trae justicia y orden a nuestras tierras, ¡De alguna manera! \. Todo ha caído en la ruina y tú estás ligada a estos dominios.
@@ -531,40 +531,40 @@ goldmole_brian_14:
 #PUZZLE MOLE 3 (Bottom Left) Tofu one that is polite
 #Carol guards surface
 goldmole_carol_1:
-    text: \n<CAROL THE ILLUSTRIOUS>Halt there, citizen!\. The surface has become far too dangerous, so I'm on guard duty by this ladder.
+    text: \n<CAROL LA ILUSTRE>¡Alto ahí, ciudadano!\. La superficie se ha vuelto demasiado peligrosa, así que estoy de guardia junto a esta escalera.
 
 goldmole_carol_2:
-    text: \n<CAROL THE ILLUSTRIOUS>Altough, I'd much rather go for some exquisite tofu at the restaurant.\. It's so ennuye here!
+    text: \n<CAROL LA ILUSTRE>Aunque, preferiría ir a por un exquisito tofu en el restaurante\. ¡Aquí es tan aburrido!
 
 #Sweetheart talk
 
 goldmole_carol_3:
-    text: \n<CAROL THE ILLUSTRIOUS>Oh, grandious duchess!\. It is so good to see you're faring well despite the recent destruction!
+    text: \n<CAROL LA ILUSTRE>¡Oh, grandiosa duquesa!\.¡Es tan bueno ver que se encuentra bien a pesar de la destrucción reciente!
 
 goldmole_carol_4:
-    text: \n<CAROL THE ILLUSTRIOUS>We knights have been doing our best to keep the order here.\. Please, have these!
+    text: \n<CAROL LA ILUSTRE>Los caballeros hemos estado haciendo todo lo posible para mantener el orden aquí.\. ¡Por favor, tome esto!
 
 # ================================================================
 #                    KEEPER OF CASTLE (AFTER SCENE)
 # ================================================================
 
 message_koc_1:
-    text: \n<KEEPER OF THE CASTLE>You...\| The bright eyed one...\| There is nothing here for you.
+    text: \n<GUARDIÁN DEL CASTILLO>Tú...\| El de los ojos brillantes...\| No hay nada aquí para ti.
     
 message_koc_2:
-    text: \n<KEEPER OF THE CASTLE>There may have been,\. once.
+    text: \n<GUARDIÁN DEL CASTILLO>Puede que lo haya habido,\. antes.
     
 message_koc_3:
-    text: \n<KEEPER OF THE CASTLE>But now.\! Now you do not need anything I could give you.
+    text: \n<GUARDIÁN DEL CASTILLO>Pero ahora.\! Ahora no necesitas nada que yo pudiera darte.
     
 message_koc_4:
-    text: \n<KEEPER OF THE CASTLE>Any wish you could have is within your grasp.
+    text: \n<GUARDIÁN DEL CASTILLO>Cualquier deseo que pudieras tener está a tu alcance.
     
 message_koc_5:
-    text: \n<KEEPER OF THE CASTLE>You must simply reach out and take it.
+    text: \n<GUARDIÁN DEL CASTILLO>Simplemente debes extender la mano y tomarlo.
     
 message_koc_6:
-    text: \n<KEEPER OF THE CASTLE>Farewell...\. and good luck.
+    text: \n<GUARDIÁN DEL CASTILLO>Adiós...\. y buena suerte.
 
 # ================================================================
 #                       EXTRA BATTLES AREA
@@ -572,33 +572,33 @@ message_koc_6:
 
 # ================ Painting Hell ================
 painting_lock:
-    text: The gate is locked.
+    text: El portón está cerrado.
 
 # After
 painting_1:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 36
-    text: \n<SPACEBOY>Can I just say something for a moment?
+    text: \n<SPACEBOY>¿Puedo hablar un momento?
 
 painting_2:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 38
-    text: \n<SPACEBOY>What in the world was that?\! Do you just have bunch of sentient paintings lay around in a room deep underground, SWEETHEART?
+    text: \n<SPACEBOY>¿Qué demonios fue eso?\! ¿Es que tienes un montón de cuadros con vida propia tirados en una habitación en el fondo de un calabozo, SWEETHEART?
 
 painting_3:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 24
-    text: \n<SWEETHEART>\Com[2]Such accusations!\! Why would I ever think there's such thing that can replicate by beauty!
+    text: \n<SWEETHEART>\Com[2]¡Semejantes acusaciones!\! ¡¿Por qué iba a pensar que existe algo que pueda replicar mi belleza?!
 
 painting_4:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 24
-    text: \n<SWEETHEART>If I want to see a sentient replication, then I could have just visited those dastardly sea witches instead!
+    text: \n<SWEETHEART>Si lo que quiero es ver una réplica con vida, ¡Entonces solo tendría que visitar a esas brujas marinas despreciables!
 
 painting_5:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 21
-    text: \n<SWEETHEART>I wouldn't be surprised if it's because of them again, if anything!\! They should have been turned into whale food a long time ago!
+    text: \n<SWEETHEART>¡No me sorprendería si fuera por culpa de ellas otra vez!\! ¡En todo caso hace mucho que deberían haber sido alimento para ballenas!
 
 painting_6:
     faceset: MainCharacters_ReverieDreamworld
@@ -609,41 +609,41 @@ painting_6:
 
 # Gate Examine - Random selection of choice similar to base game joke
 bear_1:
-    text: You already knew what happened last time.
+    text: Ya conoces lo que ocurrió la última vez.
 
 bear_2:
-    text: You are not going through that again.
+    text: No vas a pasar por eso otra vez.
 
 bear_3:
-    text: The condition was absolutely unbearable.
+    text: La condición era absolutamente insoportable.
 
 bear_4:
-    text: The trapped creatures do NOT need your help.
+    text: Las criaturas atrapadas NO necesitan tu ayuda.
 
 # Switch - You can only touch flavor text after beating Alice (who released the bears)
 bear_5:
-    text: The button was already pressed despite your objections.
+    text: El botón ya fue presionado a pesar de tus objeciones.
 
 # ================ Pyrefly Trio ================
 
 # Pyrefly trio is just 3 strong enemies troop
 trio_1:
-    text: \n<FIERY>Hey!\! What you doin' there!\! Can't you see we're busy plotting!
+    text: \n<FIERY>¡Oye!\! ¡¿Qué haces ahí?!\! ¿No ves que estamos ocupados planeando?
 
 trio_2:
-    text: \n<VAMPYRE>Uhh, can you tone it down a bit...?\! I don't like loud noises...\! Can't we just mind our own business...
+    text: \n<VAMPYRE>Uhh, ¿pueden bajarle un poco el tono...?\! No me gustan los ruidos fuertes...\! ¿No podemos ir cada uno a lo suyo...?
 
 trio_3:
-    text: \n<FIERY>They came to us first!\! You know what that means!\! It's time for a prank!
+    text: \n<FIERY>¡Vinieron a nosotros primero!\! ¡Sabes lo que eso significa!\! ¡Es hora de una broma!
 
 trio_4:
-    text: \n<VAMPYRE>Your pranks just cause distress! Burning people isn't funny...\! should that not be obvious?
+    text: \n<VAMPYRE>¡Tus bromas solo causan angustia! Quemar a la gente no es divertido...\! ¿No debería ser eso obvio?
 
 trio_5:
-    text: \n<IRIS>Good grief, enough talking.\! Let's just get this over with.
+    text: \n<IRIS>Qué fastidio,basta de hablar.\! Terminemos con esto de una vez.
 
 trio_6:
-    text: \n<VAMPYRE>Wait,\. what do you m-\^
+    text: \n<VAMPYRE>Espera,\. ¿A qué te re-\^
 
 # Fight
 trio_7:
