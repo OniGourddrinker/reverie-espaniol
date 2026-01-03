@@ -7,267 +7,267 @@
 intro_1:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<STOP SIGN GHOST>Careful, now.\! It's \quake[1]dangerous\quake[0] inside.\. What business you got in there?
+    text: \n<FANTASMA DE SEÑAL DE ALTO>Con cuidado.\! Es \quake[1]peligroso\quake[0] adentro.\. ¿Qué estás buscando?
 
 intro_2:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<STOP SIGN GHOST>What's dangerous about it?\! Well...\. the area beyond here is...\. "unstable."
+    text: \n<FANTASMA DE SEÑAL DE ALTO>¿Qué tiene de peligroso?\! Bueno...\. el área que se encuentra detrás es...\. "inestable."
 
 intro_3:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<STOP SIGN GHOST>My job's to stop randos from dilly-dallying in there, all willy-nilly.\. It's for their own sakes really.
+    text: \n<FANTASMA DE SEÑAL DE ALTO>Mi trabajo es impedir que los desconocidos anden tonteando por ahí.\. Es realmente por protegerlos a ellos.
 
 intro_4:
     faceset: SideCharacters_ReverieFW
     faceindex: 11
-    text: \n<STOP SIGN GHOST>I mean,\. really.\. I'm not like, paid or anything.\. Like, it is by my own virtue.\. Sincere, even.
+    text: \n<FANTASMA DE SEÑAL DE ALTO>Lo digo en serio,\. de verdad.\. No es que me paguen ni nada.\. Lo hago por mi propia cuenta.\. Es totalmente sincero.
 
 intro_5:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>Anyways...\. Right...\. I didn't introduce myself yet...\! The name's HALTIA.\. Nice to meet you.\. I don't really see stuff that breathe too often, so...\. excuse my awkwardness?
+    text: \n<HALTIA>En todo caso...\. Ah, sí...\. Todavía no me presenté...\! Mi nombre es HALTIA.\. Encantada de conocerte.\. No veo cosas que respiren muy a menudo, así que...\. ¿disculpa lo incómodo?
 
 intro_6:
     faceset: SideCharacters_ReverieFW
     faceindex: 11
-    text: \n<HALTIA>Feel free to ask me questions about this place.\. It gets lonely around here sometimes...\. Some activity would be nice.
+    text: \n<HALTIA>Pregúntame lo que quieras sobre este sitio\. A veces se pone solitario....\. Un poco de actividad vendría bien.
 
 question_1:
     faceset: SideCharacters_ReverieFW
     faceindex: 11
-    text: \n<HALTIA>Greetings.\. What do you want to talk about?
+    text: \n<HALTIA>Saludos.\. ¿De qué quieres hablar?
 
 question_c1:
-    text: YOU
+    text: VOS
 
 question_c2:
-    text: THE METRO
+    text: EL METRO
 
 question_c3:
-    text: THE AREA
+    text: EL ÁREA
 
 question_c4:
-    text: LETTING IN
+    text: DEJAR ENTRAR
 
 question_c5:
-    text: SHOP
+    text: TIENDA
 
 # > YOU
 you_1:
     faceset: SideCharacters_ReverieFW
     faceindex: 11
-    text: \n<HALTIA>Oh well,\. uh...\| What should I even talk about...
+    text: \n<HALTIA>Oh, bueno,\. uh...\| ¿De qué debería hablar siquiera...?
 
 you_2:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>I am a poltergeist.\. I like trains.\. I guess.\. The clothing's a bit blatant, but I swear i didn't pick this attire myself...\. exactly.
+    text: \n<HALTIA>Soy una poltergeist.\. Me gustan los trenes.\. Creo.\. La vestimenta es algo descarada,pero juro que no elegí este atuendo yo misma...\. exactamente.
 
 you_3:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>How did I come into existence as a poltergeist, you may ask.\! Well... I'll be honest, I dunno either.
+    text: \n<HALTIA>Cómo llegué a existir como poltergeist, te preguntarás\! Well... Bueno... te seré sincera, ni yo lo sé.
 
 you_4:
     faceset: SideCharacters_ReverieFW
     faceindex: 11
-    text: \n<HALTIA>I mean, if I'm a ghost it's probably safe to assume I died at some point...
+    text: \n<HALTIA>Quiero decir, si soy un fantasma, es probablemente seguro asumir que morí en algún momento...
 
 you_5:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>That reminds me,\. as a ghost I'm naturally incorporeal...\. At least to some degree.\! For my case, I happen to \c[4]absorb all incoming ANGRY attacks\c[0].
+    text: \n<HALTIA>Eso me recuerda que,\. como fantasma, soy naturalmente incorpórea...\. Al menos hasta cierto punto.\! En mi caso, resulta que \c[4]absorbo todos los ataques de IRA \c[0].
 
 you_6:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>I dunno how that works exactly...\. Maybe I got in an accident due to road rage in my previous life.\! Who knows.\. You don't exactly ask someone why they breathe.
+    text: \n<HALTIA>No sé cómo funciona eso exactamente...\. Tal vez tuve un accidente por ira en la carretera en mi vida pasada.\! Quién sabe.\. No le andas preguntando a la gente por qué respira.
 
 you_7:
     faceset: SideCharacters_ReverieFW
     faceindex: 11
-    text: \n<HALTIA>Which reminds me...\. I have two other siblings, who also just so happen to absorb their respective EMOTIONs.\! The universe just aligns sometimes.
+    text: \n<HALTIA>Lo que me recuerda...\.tengo otras dos hermanas, que casualmente también absorben sus respectivas EMOCIONES.\! El universo a veces se alinea.
 
 you_8:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>Though, I doubt you'd be seeing them...\. They're likely in different stations entirely.
+    text: \n<HALTIA>Aunque, dudo que vayas a verlas...\. Lo más probable es que estén en estaciones completamente diferentes.
 
 # > THE METRO
 metro_1:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>This place...\. Well...\. I don't really know the specific purpose of this area. 
+    text: \n<HALTIA>Con respecto a este lugar...\. Bueno...\. En verdad no conozco el propósito exacto de esta zona.
 
 metro_2:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>That question is better saved for...\. You know that mysterious tall shadow guy,\. the one that holds a lamp?\. They probably know about it more than me.
+    text: \n<HALTIA>Esa pregunta es mejor para...\.Ya sabes ese sujeto alto y misterioso,\. ¿El que sostiene una lámpara?\. Probablemente él sepa más que yo sobre eso.
 
 metro_3:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>What I can talk about,\. though,\. are the phenomena that arise here, deep underground.
+    text: \n<HALTIA>Sin embargo,\. de lo que sí puedo hablar,\. es de los fenómenos que surgen aquí, en lo profundo de la tierra
 
 metro_4:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>As you may have noticed,\. there are quite a few ghosts...\. or apparitions...\. or the undead,\. whatever you call it.
+    text: \n<HALTIA>Como habrás notado,\hay bastantes fantasmas...\. o apariciones...\. o muertos vivientes,\. como quieras llamarlos.
 
 metro_5:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>Deeper areas seem to give rise to stranger phenomena,\. especially places like this where it's been abandoned for a long time.
+    text: \n<HALTIA>Las áreas más profundas parecen dar lugar a fenómenos más extraños,\. especialmente lugares como este que ha estado abandonado durante mucho tiempo.
 
 metro_6:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>Though recently... there was this big \sinv[1]rumbling\sinv[0],\. and the area got lifted up a bit?\! At least, that's what I think.\. I'm a poltergeist,\. not a depth gauge.
+    text: \n<HALTIA>Aunque recientemente... hubo un gran \sinv[1]estruendo\sinv[0].\.¿Y el área se levantó un poco?\!Eso creo\. Soy una poltergeist,\. no un medidor de profundidad.
 
 metro_7:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>New cracks opened up since that incident, connecting the metro with the outside world.\. Maybe that could explain part of the phenomena.
+    text: \n<HALTIA>Desde aquel incidente se abrieron nuevas grietas, conectando el metro con el mundo exterior.\. Tal vez eso podría explicar parte de los fenómenos..
 
 # > THE AREA
 area_1:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>The area behind me?\! Yeah, it's pretty dangerous.
+    text: \n<HALTIA>¿El área detrás de mí?\! Sí, es bastante peligrosa.
 
 area_2:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>Some pockets of the deeper metro areas are...\. strange, to say the least.\! Even for my ghostly standards.
+    text: \n<HALTIA>Algunos rincones de las áreas más profundas del metro son...\. extraños, como mínimo.\! Incluso para mis estándares fantasmales.
 
 area_3:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>You'll see all sorts of creatures seemingly popping out of nowhere, at random.\. Like a broken dream, if you will.
+    text: \n<HALTIA>Verás toda clase de criaturas que parecen aparecer de la nada\. Como un sueño roto, si quieres.
 
 area_4:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>That is, all sorts of foes from a bunch of places, ranging from \c[4]FALLEN WORLD\c[0] all the way to the \c[4]CASTLE\c[0]. Potentially even other areas I dunno about yet.
+    text: \n<HALTIA>Es decir, toda clase de enemigos de un montón de lugares, que van desde \c[4]FALLEN WORLD\c[0] hasta el \c[4]CASTILLO\c[0]. Puede que incluso de otras zonas que todavía no conozco.
 
 area_5:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>But they aren't exactly the same thing. It's like,\. a hazy apparition, a copy or an afterimage you could say. Though they still can certainly hurt you...
+    text: \n<HALTIA>Pero no son exactamente lo mismo. Es como,\. una aparición vaga, una especie de copia o imagen residual para que te hagas una idea. Aunque sin duda todavía pueden hacerte daño...
 
 area_6:
     faceset: SideCharacters_ReverieFW
     faceindex: 11
-    text: \n<HALTIA>I've even seen copies of myself from time to time.\! I swear,\. if you see any,\. that's not me.\. The real me is here.\. Right now.
+    text: \n<HALTIA>Incluso he visto copias mías de vez en cuando.\! Lo juro,\. si ves alguna,\. esa no soy yo..\. La verdadera yo está aquí.\. Ahora mismo.
 
 area_7:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>Though they tend to not really talk in the first place, so it should be easy to tell.\. I hope.
+    text: \n<HALTIA>No obstante, no suelen hablar, así que debería ser fácil distinguirlos\. Eso espero.
 
 area_8:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>Apparitions stalk the night, as they say.\. So don't go there unless you wanna be beaten up until your soul is red like ground cherry.
+    text: \n<HALTIA>Las apariciones acechan en la noche, como dicen\. n. Así que no vayas allí a menos que quieras que te golpeen hasta que tu alma esté roja como una cereza molida.
 
 # > CAN YOU LET IN?
 battle_1:
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>Do you really, really, REALLY need to get in there?
+    text: \n<HALTIA>¿De verdad, de verdad, DE VERDAD necesitas entrar ahí?
 
-# Ok i swear i will change this one
+# Ok i swear i will change this one. chat they didn't change it :( y no me gusto como quedo el acuerdo 
 battle_2: 
     faceset: SideCharacters_ReverieFW
     faceindex: 11
-    text: \n<HALTIA>Like,\. Do you even know what happens there?\! Because I don't think you even do.
+    text: \n<HALTIA>Vamos\. ¿Siquiera sabes lo que pasa ahí?\! Porque no creo que lo sepas.
 
 battle_3: 
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>Look, if you really need to get in there...\. I guess I can make some arrangements.
+    text: \n<HALTIA>Mira, si de verdad necesitas entrar ahí...\. Supongo que puedo hacer unos acuerdos.
 
 battle_4: 
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>How about this...?\! Prove your strength.\. Me and you,\. we fight.\! If you are strong enough, I won't worry as much.\. How's that?
+    text: \n<HALTIA>¿Qué tal esto...?\! Demuestra tu fuerza\. Tú y yo,\. peleamos.\! Si eres lo suficientemente fuertem, no me preocupare tante.\. ¿Qué te parece?
 
 battle_c1:
-    text: GREAT
+    text: BIEN
 
 battle_c2:
-    text: AWFUL
+    text: MAL
 
 # > AWFUL
 battle_5: 
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>Yeah...\. Thought so too...
+    text: \n<HALTIA>Si...\. Eso me imaginaba....
 
 # > GREAT
 battle_6: 
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>Oh, ok.\! Wasn't expecting that.\! Uhh...\. Alright then,\. I guess...\! Bring it on!
+    text: \n<HALTIA>Oh, vale.\! No me esperaba eso.\! Mmm...\. Pues muy bien,\. supongo...\! ¡Ven a por mí!
 
 # POST BATTLE
 battle_7: 
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>Alright!\. That's enough!\! You seem to know what you're doing.
+    text: \n<HALTIA>¡Muy bien!\. ¡Ya es suficiente!\! Parece que sabes lo que estás haciendo.
 
 battle_8: 
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>I'll move this barracade now.\! Just behave in there,\. alright?
+    text: \n<HALTIA>Ahora quitaré esta barricada.\! Solo pórtate bien ahí dentro.
 
-# Ellipsis Bubble
+# Ellipsis Bubble arreglar battle 10 no me gusta como queda
 
 battle_9: 
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>Oh right, reminds me.\! While you're in there could you do me a favor.
+    text: \n<HALTIA>Oh, es verdad, casi lo olvidaba.\! Ya que vas a estar ahí dentro, ¿Podrías hacerme un favor?
 
 battle_10: 
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>I have some...\. how do I describe it...\. \c[4]THINGS\c[0]?\! Some magical ghost shenanigans,\. hard to explain,\. let's just leave it at that.
+    text: \n<HALTIA>Tengo algunas...\. ¿cómo lo describo?...\. \c[4]COSAS\c[0]\! Unas cosas mágicas de fantasmas ,\. difícil de explicar\. 
 
 battle_11: 
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>\c[4]There should be 3 of them\c[0], if I remember correctly.\! I need it to set up some...\. stuff.\! Could be helpful to you too, who knows.
+    text: \n<HALTIA>\c[4]Debería haber 3 de ellas\c[0], si no recuerdo mal.\! Las necesito para montar algunas...\. cosas.\! Además, podrían servirte, quién sabe.
 
 battle_12: 
     faceset: SideCharacters_ReverieFW
     faceindex: 11
-    text: \n<HALTIA>Anyways, I will stay outside around here.\! Feel free to talk to me anytime.
+    text: \n<HALTIA>En fin, yo me quedaré por aquí afuera.\! No dudes en hablarme cuando quieras.
 
 # > QUEST (Auto Start when fulfilled)
 
 quest_1: 
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>Oh wow,\. you got my,\. uh,\. things.
+    text: \n<HALTIA>Oh wow,\. conseguste mis,\. uh,\. cosas.
 
 quest_2: 
     faceset: SideCharacters_ReverieFW
     faceindex: 11
-    text: \n<HALTIA>If you don't mind,\. I'll take that.
+    text: \n<HALTIA>Si no te importa,\. lo tomaré.
 
 quest_3: 
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>With that out of the way...\! Now I can make you things!
+    text: \n<HALTIA>Ya con eso resuelto...\! ¡Ahora puedo crearte cosas!
 
 quest_4: 
     faceset: SideCharacters_ReverieFW
     faceindex: 11
-    text: \n<HALTIA>What?\! That's not something you think it would do?\! It's simple ghost stuff, really.
+    text: \n<HALTIA>¿Cómo?\! ¿No es algo que pensarías que haría?\! Es simple magia de fantasma.
 
 quest_5: 
     faceset: SideCharacters_ReverieFW
     faceindex: 10
-    text: \n<HALTIA>Anyways,\. if you're interested in my little trinkets then you can come and talk to me for that aswell.
+    text: \n<HALTIA>En fin,\. si te llaman la atención mis pequeñas baratijas podes venir a hablar conmigo por eso.

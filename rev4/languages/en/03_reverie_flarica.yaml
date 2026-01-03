@@ -15,202 +15,202 @@
 intro_1:
     faceset: SideCharacters_ReverieFW
     faceindex: 29
-    text: \n<FIERY>Whoa,\. someone's here?\! In the depths of this forest?
+    text: \n<FIERY>Whoa,\. ¿Hay alguien aquí?\! ¿En las profundidades de este bosque?
     
 intro_2:
     faceset: SideCharacters_ReverieFW
     faceindex: 24
-    text: \n<FIERY>Uh...\! \Com[2]\quake[1]AHEM!\quake[0].\! Thou shalt call me FLARICA.
+    text: \n<FIERY>Uh...\! \Com[2]\quake[1]AHEM!\quake[0].\! Habrás de llamarme FLARICA.
 
 intro_3:
     faceset: SideCharacters_ReverieFW
     faceindex: 28
-    text: \n<FLARICA>Whatever dost thou seeketh in the heart of the forest?\! A challenge,\. perhaps?
+    text: \n<FLARICA¿Qué andas buscando en el corazón del bosque?\! ¿Quizás un desafío?
 
 intro_4:
     faceset: SideCharacters_ReverieFW
     faceindex: 30
-    text: \n<FLARICA>'Course,\. the area 'round here be wild and deadly,\. but 'tis nothing extraordinary.\! I've seen better,\. personally.
+    text: \n<FLARICA>Por supuesto,\. La zona por aquí es salvaje y mortal,\. pero no es nada extraordinario.\! Personalmente.,\.yo he visto cosas mejores
 
 intro_5:
     faceset: SideCharacters_ReverieFW
     faceindex: 28
-    text: \n<FLARICA>Fighting's not all about power,\. it's about wisdom too.\! I may be small,\. but I have \sinv[1]experience\sinv[0].
+    text: \n<FLARICA>Luchar no se trata solo de poder,\. sino también de sabiduría.\! Puede que mi tamaño sea pequeño,\. pero tengo \sinv[1]experiencia\sinv[0].
 
 intro_6:
     faceset: SideCharacters_ReverieFW
     faceindex: 24
-    text: \n<FLARICA>Anyways, if you have anything you wanna know, ask away.\. I'm bored anyways.
+    text: \n<FLARICA>En fin, si hay algo que quieras saber, pregunta sin problemas.\. De todas formas, estoy aburrida.
 
 # ======== QUESTION CHOICES ========
 question_1:
     faceset: SideCharacters_ReverieFW
     faceindex: 24
-    text: \n<FLARICA>Anything you wanna know?\. Ask away,\. I'm bored anyways.
+    text: \n<FLARICA>¿Hay algo que quieras saber?\. Pregunta,\. de todas formas estoy aburrida.
 
 question_c1:
-    text: YOU
+    text: VOS
 
 question_c2:
-    text: ADVICE
+    text: CONSEJO
 
 question_c3:
-    text: BATTLE
+    text: LUCHAR
 
 question_c0:
-    text: NEVERMIND
+    text: NO IMPORTA
 
 question_no:
     faceset: SideCharacters_ReverieFW
     faceindex: 30
-    text: \n<FLARICA>Darn.
+    text: \n<FLARICA>Maldición.
 
 # > YOU
 
 you_1:
     faceset: SideCharacters_ReverieFW
     faceindex: 28
-    text: \n<FLARICA>I'm not like the other fairies.\! I speak,\. for one.\! My friends think that language holds back their freedom to make random noises at people.
+    text: \n<FLARICA>No soy como las otras hadas.\! Yo hablo,\. para empezar.\! Mis amigos creen que el lenguaje frena su libertad para hacer ruidos aleatorios a la gente.
 
 you_2:
     faceset: SideCharacters_ReverieFW
     faceindex: 26
-    text: \n<FLARICA>I don't really do much.\! I hear all the \sinv[1]cool\sinv[0] fairies get to be guides for deadly trials of strength...\! but I never really got the chance.
+    text: \n<FLARICA>Realmente no hago mucho.\! Escucho que a todas las hadas \sinv[1]geniales\sinv[0] les toca ser guías en pruebas mortales de fuerza...\! pero nunca tuve la oportunidad.
 
 you_3:
     faceset: SideCharacters_ReverieFW
     faceindex: 30
-    text: \n<FLARICA>They don't make trials like they used to anymore.\! It's kinda sad,\. really.
+    text: \n<FLARICA>Ya no hacen pruebas como las de antes.\! Es un poco triste,\. la verdad.
 
 # > ADVICE
 
 advice_1:
     faceset: SideCharacters_ReverieFW
     faceindex: 29
-    text: \n<FLARICA>Advice?\! Here's one thing I'll tell you.
+    text: \n<FLARICA>¿Un consejo?\! Pues te diré una cosa.
 
 advice_2:
     faceset: SideCharacters_ReverieFW
     faceindex: 24
-    text: \n<FLARICA>Every opponent has certain habits.\. It's inevitable, really.\! Observe their behavior,\. exploit it carefully,\. and victory is yours to obtain.
+    text: \n<FLARICA>Todo oponente tiene ciertos hábitos.\. Es inevitable, en verdad.\! Observa sus comportamientos,\. explótalo cuidadosamente,\. y la victoria es tuya.
 
 advice_3:
     faceset: SideCharacters_ReverieFW
     faceindex: 28
-    text: \n<FLARICA>For example,\. us fairies love our evasiveness.\! Get away from a bad situation, whenever we feel like it.\! Do a little fandango; the more annoying,\. the funnier.
+    text: \n<FLARICA>Por ejemplo,\. a las hadas nos encanta nuestra evasión.\! Alejarnos de una mala situación, cuando nos apetece.\! Hacemos un pequeño fandango; cuanto más molesto,\. más gracioso.
 
 advice_4:
     faceset: SideCharacters_ReverieFW
     faceindex: 26
-    text: \n<FLARICA>Of course,\. some things are left to luck,\. but you need to learn how to hedge your bets.
+    text: \n<FLARICA>Por supuesto,\. algunas cosas quedan a la suerte,\.pero debes aprender a asegurar tus posibilidades.
 
 advice_5:
     faceset: SideCharacters_ReverieFW
     faceindex: 29
-    text: \n<FLARICA>Some CHARM, and feeling HAPPY, makes you luckier.\! That's genuine information; I have nothing to sell,\. nothing to grift.
+    text: \n<FLARICA>Algo de FASCISMO, y sentirse FELIZ, te da más suerte.\! sa es información genuina; no tengo nada que vender,\. nada que estafar.
 
 advice_6:
     faceset: SideCharacters_ReverieFW
     faceindex: 25
-    text: \n<FLARICA>Some things just hit right in the heart,\. but it's really preventable for most of the time.\! Your problem,\. your issue.\! Simple as that.
+    text: \n<FLARICA>lgunas cosas te golpean directo en el corazón,\. pero se pueden prevenir la mayoría de las veces.\! Tu problema,\. tu asunto.\! Tan simple como eso.
 
 advice_7:
     faceset: SideCharacters_ReverieFW
     faceindex: 28
-    text: \n<FLARICA>I know full well what I said can be used against me.\! Knowing that,\. I do not care; if someone fights me,\. I'd prefer they think a little.
+    text: \n<FLARICA>é perfectamente que lo que dije puede ser usado en mi contra.\! Sabiendo eso,\. no me importa; si alguien pelea conmigo,\. preferiría que piense un poco.
 
 # > BATTLE
 
 battle_1:
     faceset: SideCharacters_ReverieFW
     faceindex: 29
-    text: \n<FLARICA>Oho.\! Really?\! Like really really?\! 
+    text: \n<FLARICA>Oho.\! ¿En serio?\! ¿Como, de verdad, de verdad?\! 
 
 battle_2:
     faceset: SideCharacters_ReverieFW
     faceindex: 24
-    text: \n<FLARICA>Not doubting you or anything,\. just surprised.\! Excited actually,\. didn't lift a blade for who knows how long.\! Rustier than steel left to bathe in ocean winds.
+    text: \n<FLARICA>No es que dude de vos,\. solo estoy sorprendida.\! Emocionada, de hecho,\. hace quién sabe cuánto que no levanto una espada.\! Estoy más oxidada que el acero dejado a la intemperie bajo los vientos del océano.
 
 battle_3:
     faceset: SideCharacters_ReverieFW
     faceindex: 28
-    text: \n<FLARICA>Consider this like a trial of sorts.\! I will be your formidable foe,\. and you are proving your worth.
+    text: \n<FLARICA>Considera esto como un tipo de prueba\! Yo seré tu formidable adversario,\. y tú estarás demostrando tu valía.
 
 battle_4:
     faceset: SideCharacters_ReverieFW
     faceindex: 29
-    text: \n<FLARICA>Well go on then!\! Prove your worth!\! Always wanted to say that.
+    text: \n<FLARICA>¡Pues adelante!\! ¡Demuestra tu valía!\! Siempre quise decir eso.
 
 # IN-BATTLE TEXT
 
 # TURN 1
-
+#fijarse en inbattle_1 si esta bienpuesto
 inbattle_1:
     text: >
-        \>FLARICA: \<Word of advice,\. \c[4]TURN ORDER\c[0] is important too.\! 
+        \>FLARICA: \<Te doy un consejo,\. el \c[4]ORDEN DE TURNO\c[0] también es importante.\! 
 
 inbattle_2:
     text: >
-        \>FLARICA: \<You might think:\. AILMENTS and DEBUFFS just get cleaned,\. what's the point?
+        \>FLARICA: \<Tal vez pienses:\. Los problemas de salud y las desventajas simplemente se eliminan,,\. ¿Cuál es la gracia?
 
 inbattle_3:
     text: >
-        \>FLARICA: \<Well,\. my friend,\. you got them to waste a turn.\! That's pretty crucial.
+        \>FLARICA: \Pues,\. amigo mío,\. conseguiste que desperdiciaran un turno.\! Eso es bastante crucial.
 
 inbattle_4:
     text: >
-        \>FLARICA: \<That is,\. if you can match my speed.
+        \>FLARICA: \<Eso es,\. si puedes igualar mi velocidad.
 
 # 30% HP
 
 inbattle_5:
     text: >
-        \>FLARICA: \<Impressive!\. It seems you know what you're doing.\! Looks like it's time for me to ramp up.
+        \>FLARICA: \<¡Impresionante!\. Parece que sabes lo que estás haciendo.\! Parece que es hora de que yo aumente la intensidad.
 
 inbattle_6:
     text: >
-        \>FLARICA: \<You have 4 party members.\! It's only fair for me to have 4 turns too, right?
+        \>FLARICA: \<Tienes 4 integrantes en tu equipo.\! Es justo que yo también tenga 4 turnos, ¿No?
 
 # 0% HP
 
 inbattle_7:
     text: >
-        \>FLARICA: \<Argh,\. you got me.\! I yield.
+        \>FLARICA: \<Argh,\. Me diste.\! Me rindo.
 
 # 0% HP at 30% HP condition
 
 inbattle_8:
     text: >
-        \>FLARICA: \<Skipping phases, eh?\! Clever one, you are.\! You got me.
+        \>FLARICA: \<Saltándote fases, ¿eh?\! Eres muy inteligente.\! Me has atrapado.
 
 # >POST-BATTLE 
 
 battle_5:
     faceset: SideCharacters_ReverieFW
     faceindex: 29
-    text: \n<FLARICA>Indeed,\. you know your stuff.
+    text: \n<FLARICA>Ciertamente,\. sabes lo que haces.
 
 battle_6:
     faceset: SideCharacters_ReverieFW
     faceindex: 28
-    text: \n<FLARICA>It's only fair I give you a little something as a token of your victory.
+    text: \n<FLARICA>Es justo que te dé algo pequeño como muestra de tu victoria.
 
 # You got blaze igniter
 
 battle_7:
     faceset: SideCharacters_ReverieFW
     faceindex: 28
-    text: \n<FLARICA>This should allow you to inflict BURN in a widespread area.\! It's a bit expensive to use,\. bit I'm sure you can figure it out.
+    text: \n<FLARICA>Esto debería permitirte infligir QUEMADURA en un gran área.\! Es un poco costoso de usar,\. pero estoy seguro de que puedes entender cómo usarlo.
 
 battle_8:
     faceset: SideCharacters_ReverieFW
     faceindex: 24
-    text: \n<FLARICA>Anyways,\. in unrelated news,\. I'll probably be appearing here and there in some other places.
+    text: \n<FLARICA>En fin,\. en noticias no relacionadas,\. es probable que aparezca por aquí y por allá en otros sitios.
 
 battle_9:
     faceset: SideCharacters_ReverieFW
     faceindex: 24
-    text: \n<FLARICA>If you happen to see me, feel free to say hi.\! Just don't start asking me about every little thing you encounter.\! Do your own thinking too.
+    text: \n<FLARICA>Si por casualidad me ves, siéntete libre de saludar.\! Solo no empieces a preguntarme sobre cada pequeña cosa que encuentres.\! Piensa por tu cuenta también.
 
 
 # ================================================================
@@ -219,7 +219,7 @@ battle_9:
 adv_ask_1:
     faceset: SideCharacters_ReverieFW
     faceindex: 24
-    text: \n<FLARICA>So we meet again.\. You want some advice for this area?
+    text: \n<FLARICA>Así que nos encontramos de nuevo.\. ¿Quieres algún consejo para esta zona?
 
 # YES / NO
 
@@ -227,111 +227,112 @@ adv_ask_1:
 adv_haltia_1:
     faceset: SideCharacters_ReverieFW
     faceindex: 28
-    text: \n<FLARICA>So like,\. you want to go in that mysterious dark corridor?\! I mean, some good stuff could be there, who knows. Can't blame ya.
+    text: \n<FLARICA>¿Así que quieres ir a ese misterioso corredor oscuro?\! O sea, podría haber cosas buenas allí, quién sabe. No te culpo.
 
 adv_haltia_2:
     faceset: SideCharacters_ReverieFW
     faceindex: 24
-    text: \n<FLARICA>And the ghost is being annoying about it?\! They just seem to be worried about you, I wouldn't put much thought into it.
+    text: \n<FLARICA>¿Y el fantasma te está fastidiando por ello?\! implemente parecen estar preocupados por ti, no me preocuparía demasiado por eso.
 
 adv_haltia_3:
     faceset: SideCharacters_ReverieFW
     faceindex: 24
-    text: \n<FLARICA>Well, anyways.\. They probably already told you about their absorption gimmick, right?\! Well, here's another thing about them.
+    text: \n<FLARICA>En cualquier caso. Probablemente ya te hablaron de su truco de absorción, ¿Verdad?\! Pues te diré algo más sobre ellas.
 
 adv_haltia_4:
     faceset: SideCharacters_ReverieFW
     faceindex: 29
-    text: \n<FLARICA>Despite worrying for your safety,\. they lack the skill for self-care.\! In other words,\. \c[4]they don't clean debuffs\c[0].
+    text: \n<FLARICA>A pesar de preocuparse por tu seguridad,\. carecen de la habilidad para cuidarse a sí mismos.\! En otras palabras,\. \c[4]no se quitan los efectos negativos\c[0].
 
 adv_haltia_5:
     faceset: SideCharacters_ReverieFW
     faceindex: 24
-    text: \n<FLARICA>All ghosts seem to have high speed for some reason, so slowing them down might be a good idea.
+    text: \n<FLARICA>Todos los fantasmas parecen tener una gran velocidad por alguna razón, así que ralentizarlos podría ser una buena idea.
 
 adv_haltia_6:
     faceset: SideCharacters_ReverieFW
     faceindex: 28
-    text: \n<FLARICA>As for their big attack?\! Well, it's an offensive skill.\! Recall that \c[4]certain AILMENTS prevents using certain skills\c[0].\! Connect the dots yourself.
+    text: \n<FLARICA>¿En cuanto a su gran ataque?\! Pues, es una habilidad ofensiva.\! Recuerda que \c[4]ciertas AFECCIONES impiden usar ciertas habilidades.\c[0].\! Conecta los puntos por tu cuenta.
 
 adv_haltia_7:
     faceset: SideCharacters_ReverieFW
     faceindex: 25
-    text: \n<FLARICA>I just gave you multiple options,\. now you go figure it out yourself.
+    text: \n<FLARICA>Te he dado varias opciones,\. ahora resuélvelo por tu cuenta.
 
 # After
 adv_haltia_a1:
     faceset: SideCharacters_ReverieFW
     faceindex: 29
-    text: \n<FLARICA>Oh, did you get them?\! That was faster than I expected.
+    text: \n<FLARICA>¡Oh! ¿Las venciste?\! Eso fue más rápido de lo que esperaba.
 
 adv_haltia_a2:
     faceset: SideCharacters_ReverieFW
     faceindex: 30
-    text: \n<FLARICA>Hopefully you weren't just fighting them until their JUICE ran out...\. I mean, it \sinv[1]is\sinv[0] an option...\. It's just no fun.
+    text: \n<FLARICA>Espero que no solo estuvieras luchando con ellos hasta que se les terminara el JUGO...\. Quiero decir, \sinv[1]es\sinv[0] una opción...\. Solo que no tiene gracia.
 
 # ======== DUNGEON ALICE ========
 adv_alice_1:
     faceset: SideCharacters_ReverieFW
     faceindex: 24
-    text: \n<FLARICA>Don't you just love bears?\! They're just like big cute dogs that eat berries and salmon.
+    text: \n<FLARICA>¿No adoras a los osos?\! Son como perros grandes y lindos que comen bayas y salmón.
 
 adv_alice_2:
     faceset: SideCharacters_ReverieFW
     faceindex: 29
-    text: \n<FLARICA>An ANGRY one, though?\! Not as fun.\! Very icky,\. no good.\! So you gotta avoid that.
+    text: \n<FLARICA>¿Pero uno ENOJADO?\! Ahí ya no es divertido.\! Muy desagradable,\. no bueno.\! Así que tienes que evitar eso.
 
 adv_alice_3:
     faceset: SideCharacters_ReverieFW
     faceindex: 28
-    text: \n<FLARICA>And that's where the girl comes in.\! She commands the bears...\. If she gets to make the bears ANGRY first, they'll go ham on you.
+    text: \n<FLARICA>Y ahí es donde entra la chica.\! Ella comanda a los osos...\. Si ella consigue hacer que los osos se ENFUREZCAN primero, te destrozarán.
 
 adv_alice_4:
     faceset: SideCharacters_ReverieFW
     faceindex: 28
-    text: \n<FLARICA>In other words,\. order matters.\! \c[4]Sometimes changing the speed of a single enemy may be preferable\c[0].\! EMOTIONS can also work,\. \c[4]recall that both SAD and HAPPY alters speed\c[0].
+    text: \n<FLARICA>En otras palabras,\. el orden importa.\! \c[4]A veces, cambiar la velocidad de un solo enemigo puede ser preferible\c[0].\! Las EMOCIONES también pueden funcionar,\. \c[4]recuerda que tanto TRISTE como FELIZ alteran la velocidad.\c[0].
 
 adv_alice_5:
     faceset: SideCharacters_ReverieFW
     faceindex: 28
-    text: \n<FLARICA>Additionally,\. that girl can instantly knock out any WEEPING member.\! And since it never directly does any damage...\. it counts as a non-offensive skill.\! Very funny, honestly.
+    text: \n<FLARICA>Además,\. esa chica puede dejar fuera de combate instantáneamente a cualquier miembro que esté LLORANDO.\! Y como nunca hace daño directamente...\.se considera una habilidad no ofensiva.\! Muy gracioso, sinceramente.
 
 adv_alice_6:
     faceset: SideCharacters_ReverieFW
     faceindex: 28
-    text: \n<FLARICA>Jokes aside,\. remember that \c[4]certain AILMENTS prevents using certain skills\c[0].\! She may be a bit resistant to one though,\. so you may need some LUCK.
+    text: \n<FLARICA>Bromas aparte,\. recuerda que \c[4]ciertas AFECCIONES impiden usar ciertas habilidades.\c[0].\! Aunque puede que ella sea un poco resistente a una,\. así que quizás necesites algo de SUERTE.
 
 # After
 adv_alice_a1:
     faceset: SideCharacters_ReverieFW
     faceindex: 25
-    text: \n<FLARICA>So, how did playtime with the bears go?\! Was it...\. bearable?
+    text: \n<FLARICA>Entonces, ¿Qué tal la hora de jugar con los osos?\! ¿Fue...\. osoportable?
 
+#no hay manera de hacer el juego de palabra de oso con paciencia:sad:
 adv_alice_a2:
     faceset: SideCharacters_ReverieFW
     faceindex: 25
-    text: \n<FLARICA>Okay, that's a low hanging fruit.\! You'll have to bear with me here.
+    text: \n<FLARICA>Vale, eso fue un blanco fácil.\! Teneme paciencia.
 
 # ======== NEAR ENTRANCE WIDOWBOY ========
 adv_widow_1:
     faceset: SideCharacters_ReverieFW
     faceindex: 29
-    text: \n<FLARICA>You know about the \sinv[1]spidery\sinv[0] looking person down there?\! Scary.
+    text: \n<FLARICA>¿Sabes de la persona que parece una \sinv[1]araña\sinv[0] ahí abajo?\! Da miedo.
 
 adv_widow_2:
     faceset: SideCharacters_ReverieFW
     faceindex: 31
-    text: \n<FLARICA>I'll be real with you,\. I don't really know what to say.\! He looks pretty gloomy.\! Beating depressed kids isn't exactly a hobby of mine.
+    text: \n<FLARICA>Seré honesto contigo,\. no sé muy bien qué decir.\! Se ve bastante negativo.\! Vencer a niños deprimidos no es exactamente un pasatiempo mío.
 
 adv_widow_3:
     faceset: SideCharacters_ReverieFW
     faceindex: 30
-    text: \n<FLARICA>But...\. if you really want to talk to him...
+    text: \n<FLARICA>Pero...\. si de verdad quieres hablar con él...
 
 adv_widow_4:
     faceset: SideCharacters_ReverieFW
     faceindex: 24
-    text: \n<FLARICA>Well,\. for one,\. the spiders are endless here.\! Even if you get rid of one,\. they'll always come back.
+    text: \n<FLARICA>Bueno,\. para empezar,\. las arañas son interminables aquí.\! Incluso si te deshaces de una,\. otra aparecera.
 
 adv_widow_5:
     faceset: SideCharacters_ReverieFW
@@ -341,15 +342,15 @@ adv_widow_5:
 adv_widow_6:
     faceset: SideCharacters_ReverieFW
     faceindex: 24
-    text: \n<FLARICA>Additionally,\. \c[4]bugs and plants tend to BURN really easily.\c[0]\! My flamethrowers aren't for sale,\. so you'll have to make your own fire.
+    text: \n<FLARICA>Adicionalmente,\. \c[4]los bichos y las plantas tienden a QUEMARSE muy fácilmente.\c[0]\! Mis lanzallamas no están a la venta,\. así que tendrás que hacer tu propio fuego.
 
 # AFTER
 adv_widow_a1:
     faceset: SideCharacters_ReverieFW
     faceindex: 28
-    text: \n<FLARICA>Oh, so you talked some sense into him?\! Wasn't expecting that.
+    text: \n<FLARICA>Oh, ¿Así que lo hiciste entrar en razón?\! No me esperaba eso.
 
 adv_widow_a2:
     faceset: SideCharacters_ReverieFW
     faceindex: 24
-    text: \n<FLARICA>I honestly thought you just went after some random shut-in.\. I guess I should have expected better of you.
+    text: \n<FLARICA>Honestamente pensé que simplemente irías a por un antisocial cualquiera.\. Supongo que debí haber esperado más de ti.

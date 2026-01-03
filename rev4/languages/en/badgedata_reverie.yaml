@@ -25,168 +25,168 @@ meta:
   badge_toast_image_offset_y: 14
 
 gold:
-  name: Edible Gold
-  description: Defeat the GOLDEN MOLE.
+  name: Oro comestible
+  description: Derrota al TOPO DORADO
   img: 'badge_gold'
-  locked_desc: Find and defeat a rare SPROUT MOLE.
+  locked_desc: Encuentra y derrota a un BROTOPO raro.
 ljg:
-  name: Wrong Ingredient
-  description: Defeat LIFE JAM GUY.
+  name: Ingrediente equivocado
+  description: Derrota a LIFE JAM GUY.
   img: 'badge_ljg'
-  locked_desc: Get into a jam and settle a hostage\nsituation.
+  locked_desc: Métete en la mermelada y resuelve el conflicto...
 tvg:
-  name: Caffeine Dependence
-  description: Defeat TV GIRL.
+  name: Dependencia a la cafeína
+  description: Derrota a TV GIRL.
   img: 'badge_tvg'
-  locked_desc: Was that giant hole in the wall always\nthere?
+  locked_desc: ¿Ese agujero gigante en la pared siempre\nestuvo ahí?
   locked_img: badge_lockSilver
 moony:
-  name: Unhealthy Obsession
-  description: Defeat SPACE FANGIRL.
+  name: Obsesión tóxica
+  description: Derrota a SPACE FANGIRL.
   img: 'badge_moony'
-  locked_desc: Meet SPACEBOY's biggest fan.
+  locked_desc: Conoce a la mayor fan de SPACEBOY.
 flirtfan:
-  name: Wrong Fan
-  description: Attempt to use flirt on SPACE FANGIRL.
+  name: Admirador incorrecto
+  description: Intentar fascinar a SPACE FANGIRL.
   img: 'badge_flirtfan'
-  locked_desc: The girl is a fan of another person. \nMaybe wrong person for the job.
+  locked_desc: Ella es fan de alguien más. \nQuizás no sea la persona indicada para el trabajo.
 px:
-  name: The Tenth Planet
-  description: Defeat PLANET X.
+  name: El décimo planeta
+  description: Derrota a PLANET X.
   img: 'badge_px'
-  locked_desc: Teach an intergalactic megalomaniac a lesson\nin the honor of a samurai.
+  locked_desc: Enséñale una lección a un megalómano intergaláctico\nen nombre del honor de un samurái.
 super1:
-  name: Heights, Overcame
-  description: Defeat KITE KID.
+  name: Alturas, Superado
+  description: Derrota a KITE KID.
   img: 'badge_super1'
-  locked_desc: The wind is howling...
+  locked_desc: El viento aúlla....
   locked_img: badge_lockSilver
 cannibal:
-  name: Just Wrong
-  description: Give SWEETHEART a DONUT.\nYou monster.
+  name: Juicio moral
+  description: Dale una DONA a SWEETHEART.\nEres un monstruo.
   img: 'badge_cannibal'
-  locked_desc: Indulge in the act of cannibalism.\nPastry cannibalism.
+  locked_desc: Participa en un acto de canibalismo.\nCanibalismo pastelero.
 bin:
-  name: Burger-less
-  description: Interact with a certain blue bin.
+  name: Deshamburguesado
+  description: Interactúa con cierto contenedor azul.
   img: 'badge_bin'
   locked_desc: "???"
 shopping:
-  name: A Broadened Mind
-  description: Buy everything you can in Chapter 3. 
+  name: Mente expandida
+  description: Compra todo lo que puedas en el Capítulo 3. 
   img: 'badge_cash'
-  locked_desc: You must be able to use that money for \nsomething...
+  locked_desc: Debes poder usar ese dinero para\nalgo...
 luna:
   name: Luna No More-chi
-  description: Prevent Luna from getting a powerful \nartifact alongside SPACEBOY.
+  description: Evita que Luna consiga un artefacto \npoderoso junto a SPACEBOY.
   img: 'badge_Luna'
   locked_desc: CAPT. SPACEBOY surely has enemies all \nacross the galaxy.
   locked_img: badge_lockSilver
 donut:
-  name: Delicious Disaster
-  description: Defeat the nefarious MINT-DONO and \nChoco-chan alongside SWEETHEART.
+  name: Desastre delicioso
+  description: Derrota a las infames MINT-DONO y \nChoco-chan junto a SWEETHEART.
   img: 'badge_mint'
-  locked_desc: SWEETHEART isn't the only donut girl around.
+  locked_desc: SWEETHEART no es la única chica dona por aquí.
   locked_img: badge_lockSilver
 wendy:
-  name: Order Down!!!
-  description: Defeat the rip-off Wendyheart alongside Doughie.
+  name: ¡Pedido abajo!
+  description: Derrota a la imitación de Wendyheart junto a Doughie.
   img: 'badge_wendy'
-  locked_desc: Sometimes, people make mascots that are \nobvious rip-offs of characters...
+  locked_desc: A veces, la gente crea mascotas que son copias\n descaradas de otros personajes...
   locked_img: badge_lockSilver
 necro:
   name: Necromantic
-  description: Inflict CHARM on a TAILISRAT.
+  description: Inflije FASCINAR a una TAILISRAT.
   img: 'badge_necro'
-  locked_desc: The undead also need affection too, you know.
+  locked_desc: Los muertos vivientes también necesitan afecto, ¿sabes?
 rose:
-  name: Rose-Tinted Glasses
-  description: Inflict GLOW on a FIERY, then chain inflict CHARM.
+  name: Ver la vida de color de rosa
+  description: Aplica BRILLO a un FIERY, y luego usa FASCINAR.
   img: 'badge_rose'
-  locked_desc: As the blaze beams with light, \nthe fairy grows into infautuation.
+  locked_desc: A medida que la llama brilla con fuerza,\n el hada se deja llevar por la obsesión.
   locked_img: badge_lockSilver
 speeddate:
-  name: Speed Dating
-  description: On first turn, inflict CHARM while having \n80 luck or more.
+  name: Cita exprés
+  description: En el primer turno, inflige FASCINAR teniendo \n80 de suerte o mas.
   img: 'badge_speeddate'
-  locked_desc: Don't rush a relationship, even flirting requires \nsome luck.
+  locked_desc: DNo apresures una relación, eincluso coquetear requiere \nalgo de suerte.
   locked_img: badge_lockSilver
 haltia:
-  name: A Soul as Red as Ground Cherry
-  description: Defeat HALTIA.
+  name: Un alma tan roja como una cereza
+  description: Derrota a HALTIA.
   img: 'badge_haltia'
-  locked_desc: In the depths of the metro, \nan apparition guards the perilous.
+  locked_desc: En las profundidades del metro, \nuna aparición custodia el peligro
   locked_img: badge_lockSilver
 metroextra:
-  name: Apparitions Stalks the Night
-  description: Defeat all special encounters in the \ndeeper METRO B2 castle station.
+  name: Las apariciones acechan en la noche
+  description: todos los encuentros especiales \nde la zona profunda del METRO B2, estación del castillo."
   img: 'badge_metroextra'
-  locked_desc: In the haze of the metro, \nthe familiars from all over takes form.
+  locked_desc: Entre la neblina del metro, \nlos familiares de todos los rincones cobran vida.
 painting:
-  name: Fabricated World
-  description: Defeat the PAINTING ambush.
+  name: Mundo fabricado
+  description: Derrota la emboscada del PINTURA
   img: 'badge_painting'
-  locked_desc: Buried by time, the sealed off art gallery \ngains sentience.
+  locked_desc: Enterrada por el tiempo,la galería de arte clausurada \ncobra conciencia.
 rococo:
-  name: Starving Artist
-  description: Defeat ROCOCO.
+  name: Artista hambriento
+  description: Derrota a ROCOCO.
   img: 'badge_rococo'
-  locked_desc: As the castle descended to chaos, \na forgetten artist discovers freedom.
+  locked_desc: Mientras el castillo se sumía en el caos, \nun artista olvidado descubre la libertad.
 alice:
-  name: Die for Me
-  description: Defeat ALICE.
+  name: Muere por mí
+  description: Derrota a ALICE.
   img: 'badge_alice'
-  locked_desc: In the dungeon, there rests a girl in a dress \nentralled by death.
+  locked_desc: En la mazmorra, descansa una chica de vestido \cautivada por la muerte.
   locked_img: badge_lockSilver
 uber:
-  name: Formidable Foe
-  description: Defeat FLARICA.
+  name: Oponente formidable
+  description: Derrota a FLARICA.
   img: 'badge_uber'
-  locked_desc: Amongst the cheerful fairies, \none serves as a guide.
+  locked_desc: Entre las alegres hadas, \nuna sirve de guía.
 pyre:
-  name: Night Parade
-  description: Defeat special troop containing all \nMEDIA enemies of PYREFLY.
+  name: Desfile nocturno
+  description: Derrota a una tropa especial que contiene a todos los enemigos \nMEDIA de PYREFLY. #wtf es media ? 
   img: 'badge_pyre'
-  locked_desc: In the fiery forest, a group of fantastical \ncreatures forms an unlikely bond.
+  locked_desc: En el bosque ardiente, un grupo de criaturas \nfantásticas forma un vínculo inesperado.
 widow:
-  name: Spiders, Overcame
-  description: Defeat WIDOWBOY.
+  name: Arañas, vencidas
+  description: Derrota a WIDOWBOY.
   img: 'badge_widow'
-  locked_desc: Deep in the forest, a boy stands solemnly \nin the tranquil shadows...
+  locked_desc: En lo profundo del bosque, un niño permanece solemne \nbajo las sombras tranquilas...
   locked_img: badge_lockSilver
 cry:
   name: Devil May Cry
-  description: Cancel HALTIA's furious strike with WEEP.
+  description: Cancela el golpe furioso de HALTIA con LLANTO.
   img: 'badge_cry'
-  locked_desc: Such an aggressive self-destructive strike. \nPerhaps some sadness may tone it down...
+  locked_desc: Un ataque autodestructivo tan agresivo. \nQuizás algo de tristeza podría mitigarlo...
   locked_img: badge_lockSilver
 joke:
-  name: Killing Joke
-  description: Cancel ALICE's instant kill with BURN.
+  name: Chiste mortal
+  description: Cancela el ataque mortal de ALICE usando QUEMADURA.
   img: 'badge_joke'
-  locked_desc: Like some form of sick joke, the girl's instant \nkills are not considered as an attack...
+  locked_desc: Como si fuera una broma macabra, los ataques mortales \nde la niña no cuentan como ataques...
   locked_img: badge_lockSilver
 phaseskip:
-  name: Phase Skip
-  description: Skip FLARICA's 4 turn phase entirely.
+  name: Salto de fase
+  description: Salta por completo la fase de 4 turnos de FLARICA.
   img: 'badge_phaseskip'
-  locked_desc: That's a lot of turns... \nCan't it just be... skipped?
+  locked_desc: Eso son muchos turnos... \n¿No se puede simplemente... omitir?
   locked_img: badge_lockGold
 melancholy:
-  name: Medicine Melancholy
-  description: Avoid getting WEEP and SICK during the entire \nfight against ALICE and WIDOWBOY.
+  name: Medicine Melancholy # ja loentiendi a la primera necesita trabajo
+  description: Evita los estados LLANTO y ENFERMEDAD durante todo el \ncombate contra ALICE y WIDOWBOY
   img: 'badge_melancholy'
-  locked_desc: A girl and a boy both exploits ailments... \nIs it possible to avoid it entirely?
+  locked_desc: Una niña y un niño, ambos aprovechan los estados alterados... \n¿Será posible evitarlos por completo?
   locked_img: badge_lockGold
 alicesuper:
-  name: Morbid Curiosity
-  description: Purchase media in the real world and defeat \nALICE early while SWEETHEART is missing. Wow.
+  name: Curiosidad morbosa
+  description: Compra multimedia en el mundo real y Derrota a \nALICE antes mientras SWEETHEART esta perdida. Wow.
   img: 'badge_alicesuper'
-  locked_desc: While the girl in pink is in the state of distress, \nthe dungeon's beasts grows restless.
+  locked_desc: Mientras la joven de rosa está angustiada, \nlas bestias de la mazmorra se vuelven más inquietas.
   locked_img: badge_lockGold
 lordfly:
-  name: Lord of the Caught Flies
-  description: Defeat 20 of Widowboy's summons in single \nbattle. Why do you keep trying?
+  name: El Señor de las Moscas Atrapadas
+  description: Derrota a 20 de los súbditos de Widowboy en una sola \nbatalla. ¿Por qué sigues intentándolo?
   img: 'badge_lordfly'
-  locked_desc: Spiders are many and nimble, so trying to \nexterminate them all won't get you far.
+  locked_desc: Las arañas son numerosas y veloces tratar de \neliminarlas a todas no te llevará muy lejos.
   locked_img: badge_lockGold

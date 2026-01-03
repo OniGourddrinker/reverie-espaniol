@@ -5,122 +5,122 @@
 plugins:
   mainMenu:
     commands:
-      - ['???', 'TAG', 'STAB']
-      - EQUIP
-      - POCKET
-      - SKILLS
-      - OPTIONS
+      - ['???', 'CAMBIAR', 'APUÑALAR']
+      - EQUIPO
+      - OBJETO 
+      - HABILIDADES
+      - OPCIONES
     status:
-      tag: TAG WHO?
-      select: SELECT WHO?
+      tag: ¿CAMBIAR A?
+      select: ¿SELECIONAR A?
 
   equipMenu:
-    weapon: WEAPON
-    charm: CHARM
-    replace: REPLACE WITH?
+    weapon: ARMA
+    charm: AMULETO
+    replace: ¿REEMPLAZAR CON?
 
   skillMenu:
-    skills: SKILLS
-    replace: REPLACE WITH?
-    DoWhat: DO WHAT?
-    use: USE
-    swap: SWAP
-    useon: USE ON WHO?
+    skills: HABILIDADES
+    replace: ¿REEMPLAZAR CON?
+    DoWhat: ¿HACER QUÉ?
+    use: USAR
+    swap: CAMBIAR
+    useon: ¿USAR EN QUIEN?
 
   pocketMenu:
-    consumables: CONSUMABLES
-    toys: TOYS
-    important: IMPORTANT
-    trash: TRASH
-    use: USE
-    sure: ARE YOU SURE?
-    useon: USE ON WHO?
+    consumables: CONSUMIBLES
+    toys: JUGUETES
+    important: IMPORTANTE
+    trash: BASURA
+    use: USAR
+    sure: ¿ESTAS SEGURO?
+    useon: ¿USAR EN QUIEN?
 
   optionsMenu:
     general:
       screenResolution:
-        text: SCREEN RESOLUTION
+        text: RESOLUCIÓN DE PANTALLA
         options: ['X1', 'X2', X3, X4]
-        help: Change the resolution of the screen.
+        help: Cambia la resolución de la pantalla.
         spacing: 80
 
       fullScreen:
-        text: FULLSCREEN
+        text: PANTALLA COMPLETA
         options: ['ON', 'OFF']
-        help: Make the game fullscreen.
+        help: Pon el juego en pantalla completa.
         boolIndex: true
         spacing: 80
 
       commandRemember:
-        text: REMEMBER SELECTED COMMANDS
+        text: RECUERDA LOS COMANDOS SELECCIONADOS
         options: ['ON', 'OFF']
-        help: Remember selected commands in battle.
+        help: Recuerda los comandos seleccionados en batalla.
         boolIndex: true
         spacing: 80
 
       battleAnimations:
-        text: BATTLE ANIMATIONS
+        text: ANIMACIONES DE BATALLA
         options: ['ON', 'OFF']
         help: HELP TEXT
         boolIndex: true
         spacing: 80
 
       battleAnimationSpeed:
-        text: BATTLE ANIMATION SPEED
-        options: ['NORMAL', 'FAST', 'FASTER', 'FASTEST']
+        text: VELOCIDAD DE LA ANIMACIÓN DE LA BATALLA
+        options: ['NORMAL', 'RAPIDO', 'RAPIDOX2', 'RAPIDOX3']
         help: HELP TEXT
         spacing: 130
 
       battleLogSpeed:
-        text: BATTLELOG SPEED
+        text: VELOCIDAD DE BATTLELOG
         options: ['NORMAL', 'AUTO']
         help: HELP TEXT
         spacing: 130
 
       alwaysDash:
-        text: CHARACTER MOVEMENT
-        options: ['DASH', 'WALK']
+        text: MOVIMIENTO DE PERSONAJE
+        options: ['CORRER', 'CAMINAR']
         help: HELP TEXT
         boolIndex: true
         spacing: 130
 
     audio:
       bgmVolume:
-        text: BGM VOLUME
-        help: Change the volume of the background music.
+        text: VOLUMEN BGM 
+        help: Ajusta el volumen de la música de fondo.
 
       bgsVolume:
-        text: BGS VOLUME
-        help: Change the volume of the background sounds.
+        text: VOLUMEN BGS
+        help: Ajusta el volumen de sonido de fondo
 
       meVolume:
-        text: ME VOLUME
-        help: Change the volume of the musical effects.
+        text: VOLUMEN ME
+        help: Ajusta el volumen de efectos de sonido.
 
       seVolume:
-        text: SE VOLUME
-        help: Change the volume of the sound effects.
+        text: VOLUMEN SE
+        help: Ajusta el volumen de efectos de sonido.
 
     controls:
-      keyboardHeader: KEYBOARD
-      gamepadHeader: GAMEPAD
-      pressKeyPrompt: PRESS A KEY
-      resetAll: RESET ALL
-      help: Press a key to change the input.
+      keyboardHeader: TECLADO
+      gamepadHeader: MANDO
+      pressKeyPrompt: PRESIONA UNA TECLA
+      resetAll: REINICIAR TODO
+      help: Presione una tecla para reasignar.
       inputNames:
-        up: UP (↑)
-        down: DOWN (↓)
-        left: LEFT (←)
-        right: RIGHT (→)
-        ok: CONFIRM
-        escape: CANCEL
-        shift: RUN
-        tag: TAG
+        up: ARRIBA (↑)
+        down: ABAJO (↓)
+        left: IZQUIERDA (←)
+        right: DERECHA (→)
+        ok: CONFIRMAR
+        escape: CANCELAR
+        shift: CORRER
+        tag: CAMBIAR
         tab: STRAFE
         pageup: LB
         pagedown: RB
 
     system:
       load:
-        text: LOAD SAVE FILE
-        help: Load a save file.
+        text: CARGAR ARCHIVO GUARDADO
+        help: Cargar un archivo guardado

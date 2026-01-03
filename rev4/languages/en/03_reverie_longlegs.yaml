@@ -8,31 +8,31 @@
 # In the deeper metro he will also be found. This time he will narrate (can be subtle) about how this deeper area is closer to the subconscious. Partly explains why the enemies are from all over the place and how they aren't really the same as the ones from original areas (kind of like duplicates).
 
 metro_1:
-    text: \n<DADDY LONGLEGS>Here you approach, DREAMER.
+    text: \n<DADDY LONGLEGS>He aquí, SOÑADOR.
 
 metro_2:
-    text: \n<DADDY LONGLEGS>You must know now that nothing within this world arose in a vacuum.\. Its places,\. its creatures...\. they all come from somewhere deeper.
+    text: \n<DADDY LONGLEGS>Debes saber ya que nada en este mundo surgió de la nada\. Sus lugares,\. sus criaturas...\. todos provienen de un lugar más profundo.
 
 metro_3:
-    text: \n<DADDY LONGLEGS>I'm sure you've noticed the denizens here seem...\ out of place.\! Still, of course,\. they are different from the others.\. What's changed, DREAMER?\! Is it you?
+    text: \n<DADDY LONGLEGS>Estoy seguro de que has notado que los habitantes de aquí parecen...\ fuera de lugar.\! Aún así, por supuesto,\. son distintos de los demás.\. ¿Qué ha cambiado, SOÑADOR?\! ¿Fuiste tú?
 
 metro_4:
-    text: \n<DADDY LONGLEGS>You've always had trouble weathering your own subconscious.\! For what reason did your vessel come to be?
+    text: \n<DADDY LONGLEGS>Siempre has tenido problemas para afrontar tu propio subconsciente.\! ¿Por qué razón llegó a ser tu recipiente?
 
 metro_5:
-    text: \n<DADDY LONGLEGS>But of course,\. you seem to have learned that lesson?\! Perhaps you will fare better on your own,\. this time.
+    text: \n<DADDY LONGLEGS>Pero claro,\. ¿parece que has aprendido esa lección?\! Quizás tengas más éxito por tu cuenta en esta ocasión.
 
 # ================ Pyrefly ================
 # Daddy long legs will be in pyrefly, right before the "media locked" area section of Pyrefly (essentially early starting area).
 # He will talk to SUNNY directly, and narrate information (can be subtle) related to how this previously Black Forest turned into a less serious Dream world type area.
 pyre_1:
-    text: \n<DADDY LONGLEGS>You no longer have any secrets to bury...\. in their absence,\. this once dark place seems a bit brighter.
+    text: \n<DADDY LONGLEGS>Ya no te quedan secretos que enterrar....\. en su ausencia,\. este sitio que alguna vez fue sombrío se ve un poco más brillante.
 
 pyre_2:
-    text: \n<DADDY LONGLEGS>Is that why you've come,\. DREAMER?\! I suppose there's nothing wrong with enjoying some respite in this world,\. now and again? 
+    text: \n<DADDY LONGLEGS>¿Es por eso que has venido,\. SOÑADOR?\! Supongo que no hay nada de malo en tomarse un descanso en este mundo,\. de vez en cuando, ¿no?
 
 pyre_3:
-    text: \n<DADDY LONGLEGS>But,\. pray tell,\. what are you searching for this time?\! Something you cannot find in the waking world?
+    text: \n<DADDY LONGLEGS>Pero,\. por favor dime.\. ¿Qué estás buscando esta vez?\! ¿Acaso algo que no puedes hallar en el mundo consciente?
 
 pyre_4:
-    text: \n<DADDY LONGLEGS>Careful, now.\! You see firsthand the ways this world changes...\. be sure you can find your way home without your vessel.
+    text: \n<DADDY LONGLEGS>Sé cauteloso\! Estás viendo de primera mano cómo cambia este mundo...\. asegúrate de poder encontrar el camino a casa sin tu recipiente.

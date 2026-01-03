@@ -17,290 +17,290 @@
 
 # BASIC ATTACKS - Mostly in form of "X verbs Y"
 attack_basic:
-  text: "%1 attacks %2!"
+  text: "%1 ataca a %2!"
   
 attack_basic2:
-  text: "%1 attacks!"
+  text: "%1 ataca!"
 
 attack_nibble:
-  text: "%1 nibbles at %2!"
+  text: "%1 mordisquea %2!"
 
 attack_bite:
-  text: "%1 bites at %2!"
+  text: "%1 muerde a %2!"
 
 attack_slash:
-  text: "%1 slashes at %2!"
+  text: "%1 corta a %2!"
 
 attack_flame: # Common with fire enemies, tend to relate to burn or angry
-  text: "%1 flames %2!"
+  text: "%1 quema a %2!"
   
 attack_shoot:
-  text: "%1 fires!"
+  text: "%1 dispara!"
   
 attack_kick:
-  text: "%1 kicks %2!"
+  text: "%1 patea a %2!"
 
 attack_slap:
-  text: "%1 slaps %2!"
+  text: "%1 abofetea a %2!"
 
 attack_slam:
-  text: "%1 slams into %2!"
+  text: "%1 se embiste contra %2!"
 
 attack_scratch:
-  text: "%1 scratches %2!"
+  text: "%1 rasguña a %2!"
 
 attack_trip: # Omori and few enemies have it; lower speed
-  text: "%1 trips %2!"
+  text: "%1 tropieza %2!"
 
 attack_chainsaw:
-  text: "%1 pulls out a chainsaw on %2!"
+  text: "%1 Saca una motosierra contra %2!"
 
 # Common but Fancier Skills
 gen_guard:
-  text: "%1 guards."
+  text: "%1 se defiende."
 
 gen_endure:
-  text: "%1 endured a hit."
+  text: "%1 resistió un golpe."
 
 gen_explode: # Self destruct enemies
-  text: "%1 explodes!"
+  text: "%1 explota!"
 
 gen_flirt:
-  text: "%1 flirts with %2!"
+  text: "%1 coquetea con %2!"
 
 gen_calm-1:
-  text: "%1 calms down."
+  text: "%1 se calma."
 
 gen_calm-2:
-  text: "%1 EMOTIONS and AILMENTS are removed."
+  text: "%1 EMOCIONES y ESTADOS han sido eliminados"
 
 gen_charge-1:
-  text: "%1 is charging up for next attack..."
+  text: "%1 está cargando su próximo ataque..."
 
 gen_charge-2:
-  text: "%2 next attack will deal \\c[4]increased damage\\c[0]!"
+  text: "%2 \\c[4]causará daño extra\\c[0] en su próximo ataque!"
 
 gen_allycharge-1:
-  text: "%1 helps %2 charge up for next attack..."
+  text: "%1 ayuda a %2 a preparar su próximo ataque..."
 
 gen_allycharge-2:
-  text: "%2 next attack will deal \\c[4]increased damage\\c[0]!"
+  text: "%2 \\c[4]causará daño extra\\c[0] en su próximo ataque!"
 
 gen_critcharge-1:
-  text: "%1 aims for weak point..."
+  text: "%1 apunta al punto débil..."
 
 gen_critcharge-2:
-  text: "%1 next attack will deal \\c[4]critical damage\\c[0]!"
+  text: "%1 asestará un \\c[4]golpe crítico\\c[0]en su próximo ataque!"
 
 gen_hitcharge-1:
-  text: "%1 takes aim..."
+  text: "%1 toma puntería..."
 
 gen_hitcharge-2:
-  text:  "%1 next attack will deal \\c[4]always hit\\c[0]!"
+  text:  "%1 próximo ataque \\c[4]siempre acertará\\c[0]!"
 
 slap_her-1:
-  text: "%1 slaps herself!"
+  text: "%1 se abofetea!"
   
 slap_her-2:
-  text: "%1 pulled herself together!"
+  text: "%1 recobró la compostura!"
 
 slap_him-1:
-  text: "%1 slaps himself!"
+  text: "%1 se abofetea!"
   
 slap_him-2:
-  text: "%1 pulled himself together!"
+  text: "%1 recobró la compostura!"
 
 slap_them-1:
-  text: "%1 slaps themselves!"
+  text: "%1 se abofetean!"
   
 slap_them-2:
-  text: "%1 pulled themselves together!"
+  text: "%1 recobran la compostura!"
 
 slap_it-1:
-  text: "%1 slaps itself!"
+  text: "%1 se abofetea!"
   
 slap_it-2:
-  text: "%1 pulled itself together!"
+  text: "%1 recobra la compostura!"
 
 enemy_taunt-1:
-  text: "%1 taunts %2!"
+  text: "%1 provoca a %2!"
 
 enemy_taunt-2:
-  text: "Everyone's DEFENSE fell moderately."
+  text: "¡La DEFENSA de todos bajó moderadamente!"
   
 enemy_taunt-3:
-  text: "Everyone's ATTACK rose moderately!"
+  text: "¡El ATAQUE de todos subió moderadamente!"
 
 # EMOTIONS
 
 multi_angry:
-  targetActorText: "All friends feels ANGRY!"
-  targetEnemyText: "All foes feels ANGRY!"
+  targetActorText: "¡Todos los aliados están ENOJADOS!"
+  targetEnemyText: "¡Todos los enemigos están ENOJADOS!"
 
 multi_sad:
-  targetActorText: "All friends feels SAD..."
-  targetEnemyText: "All foes feels SAD..."
+  targetActorText: "Todos los aliados están TRISTE..."
+  targetEnemyText: "Todos los enemigos están TRISTE..."
 
 multi_happy:
-  targetActorText: "All friends feels HAPPY!"
-  targetEnemyText: "All foes feels HAPPY!"
+  targetActorText: "¡Todos los aliados están FELIZ!"
+  targetEnemyText: "¡Todos los enemigos están FELIZ!"
 
 # BUFF AND DEBUFFING
 
 buff_stats:
-  text: "%1's STATS rose!"
+  text: "¡Las ESTADÍSTICAS de %1 aumentaron!"
 
 debuff_stats:
-  text: "%1's STATS fell!"
+  text: "¡Las ESTADÍSTICAS de %1 bajaron"
 
 buff_stats_other:
-  text: "%2's STATS rose!"
+  text: "¡Las ESTADÍSTICAS de %2 subieron"
 
 debuff_stats_other:
-  text: "%2's STATS fell!"
+  text: "¡Las ESTADÍSTICAS de %2'bajaron!"
 
 multi_buff_atk:
-  targetActorText: "All friends' ATTACK rose!"
-  targetEnemyText: "All foes' ATTACK rose!"
+  targetActorText: "¡El ATAQUE de todos los aliados subió!"
+  targetEnemyText: "¡El ATAQUE de todos los enemigos subió!"
 
 multi_buff_def:
-  targetActorText: "All friends' DEFENSE rose!"
-  targetEnemyText: "All foes' DEFENSE rose!"
+  targetActorText: "¡La DEFENSA de todos los aliados subió!"
+  targetEnemyText: "¡La DEFENSA de todos los enemigos subió!"
 
 multi_buff_spd:
-  targetActorText: "All friends' SPEED rose!"
-  targetEnemyText: "All foes' SPEED rose!"
+  targetActorText: "¡La VELOCIDAD de todos los aliados subió!"
+  targetEnemyText: "¡La VELOCIDAD de todos los enemigos subió!"
   
 multi_buff_hit:
-  targetActorText: "All friends' HIT/EVA rose!"
-  targetEnemyText: "All foes' HIT/EVA rose!"
+  targetActorText: "¡La PRE/EVA de todos los aliados subió!"
+  targetEnemyText: "¡La PRE/EVA de todos los enemigos subió!"
 
 multi_buff_stats:
-  targetActorText: "All friends' STATS rose!"
-  targetEnemyText: "All foes' STATS rose!"
+  targetActorText: "¡Las ESTADÍSTICAS de todos los aliados subió!"
+  targetEnemyText: "¡Las ESTADÍSTICAS de todos los enemigos subió!"
 
 multi_debuff_atk:
-  targetActorText: "All friends' ATTACK fell!"
-  targetEnemyText: "All foes' ATTACK fell!"
+  targetActorText: "El ATAQUE de todos los aliados bajo!"
+  targetEnemyText: "El ATAQUE de todos los enemigos bajo!"
 
 multi_debuff_def:
-  targetActorText: "All friends' DEFENSE fell!"
-  targetEnemyText: "All foes' DEFENSE fell!"
+  targetActorText: "¡La DEFENSA de todos los aliados bajó!"
+  targetEnemyText: "¡La DEFENSA de todos los enemigos bajó!"
 
 multi_debuff_spd:
-  targetActorText: "All friends' SPEED fell!"
-  targetEnemyText: "All foes' SPEED fell!"
+  targetActorText: "¡La VELOCIDAD de todos los aliados bajó!"
+  targetEnemyText: "¡La VELOCIDAD de todos los enemigos bajó!"
   
 multi_debuff_hit:
-  targetActorText: "All friends' HIT/EVA fell!"
-  targetEnemyText: "All foes' HIT/EVA fell!"
+  targetActorText: "¡La PRE/EVA de todos los aliados bajó!"
+  targetEnemyText: "¡La PRE/EVA de todos los aliados bajó!"
 
 multi_debuff_stats:
-  targetActorText: "All friends' STATS fell!"
-  targetEnemyText: "All foes' STATS fell!"
+  targetActorText: "¡Las ESTADÍSTICAS de todos los aliados bajó!"
+  targetEnemyText: "¡Las ESTADÍSTICAS de todos los aliados bajó!"
 
 # BUFF MAXIMIZE / MINIMIZE
 
 max_buff_atk:
-  text: "%1's ATTACK maximized!"
+  text: "¡El ATAQUE de %1 se ha maximizado!"
 
 max_buff_def:
-  text: "%1's DEFENSE maximized!"
+  text: "¡La DEFENSA de %1 se ha maximizado!"
 
 max_buff_spd:
-  text: "%1's SPEED maximized!"
+  text: "¡La VELOCIDAD de %1 se ha maximizado!"
 
 max_buff_hit:
-  text: "%1's HIT/EVA maximized!"
+  text: "¡La PRE/EVA de %1 se ha maximizado!"
 
 min_buff_atk:
-  text: "%1's ATTACK minimized!"
+  text: "¡El ATAQUE de %1 cayó al mínimo!"
 
 min_buff_def:
-  text: "%1's DEFENSE minimized!"
+  text: "¡La DEFENSA de %1 cayó al mínimo!"
 
 min_buff_spd:
-  text: "%1's SPEED minimized!"
+  text: "¡La VELOCIDAD de %1 cayó al mínimo!"
 
 min_buff_hit:
-  text: "%1's HIT/EVA minimized!"
+  text: "¡La PRE/EVA de %1 cayó al mínimo!"
 
 multi_max_buff_atk:
-  targetActorText: "All friends' ATTACK maximized!"
-  targetEnemyText: "All foes' ATTACK maximized!"
+  targetActorText: "El ATAQUE de todos los aliados se ha maximizado!"
+  targetEnemyText: "El ATAQUE de todos los enemigos se ha maximizado!"
 
 multi_max_buff_def:
-  targetActorText: "All friends' DEFENSE maximized!"
-  targetEnemyText: "All foes' DEFENSE maximized!"
+  targetActorText: "¡La DEFENSA de todos los aliados se ha maximizado!"
+  targetEnemyText: ¡La DEFENSA de todos los enemigos se ha maximizado!"
 
 multi_max_buff_spd:
-  targetActorText: "All friends' SPEED maximized!"
-  targetEnemyText: "All foes' SPEED maximized!"
+  targetActorText: "¡La VELOCIDAD de todos los aliados se ha maximizado!"
+  targetEnemyText: "¡La VELOCIDAD de todos los enemigos se ha maximizado!"
 
 multi_max_buff_hit:
-  targetActorText: "All friends' HIT/EVA maximized!"
-  targetEnemyText: "All foes' HIT/EVA maximized!"
+  targetActorText: "¡La PRE/EVA de todos los aliados se ha maximizado!"
+  targetEnemyText: "¡La PRE/EVA de todos los enemigos se ha maximizado!"
 
 multi_min_buff_atk:
-  targetActorText: "All friends' ATTACK minimized!"
-  targetEnemyText: "All foes' ATTACK minimized!"
+  targetActorText: "¡El ATAQUE de todos los aliados cayó al mínimo!"
+  targetEnemyText: "¡El ATAQUE de todos los enemigos cayó al mínimo!"
 
 multi_min_buff_def:
-  targetActorText: "All friends' DEFENSE minimized!"
-  targetEnemyText: "All foes' DEFENSE minimized!"
+  targetActorText: "¡La DEFENSA de todos los aliados cayó al mínimo!"
+  targetEnemyText: "¡La DEFENSA de todos los enemigos cayó al mínimo!"
 
 multi_min_buff_spd:
-  targetActorText: "All friends' SPEED minimized!"
-  targetEnemyText: "All foes' SPEED minimized!"
+  targetActorText: "¡La VELOCIDAD de todos los aliados cayó al mínimo!"
+  targetEnemyText: "¡La VELOCIDAD de todos los enemigos cayó al mínimo!"
 
 multi_min_buff_hit:
-  targetActorText: "All friends' HIT/EVA minimized!"
-  targetEnemyText: "All foes' HIT/EVA minimized!"
+  targetActorText: "¡La PRE/EVA de todos los aliados cayó al mínimo!"
+  targetEnemyText: "¡La PRE/EVA de todos los enemigos cayó al mínimo!"
 
-# CLEAN BUFF / DEBUFF - Also applies to dekaja/dekunda skills
+# CLEAN BUFF / DEBUFF - Also applies to dekaja/dekunda skills tmb me gusto como queda ¡Se anularon las mejoras de todo el grupo! pero no creo que quede bien siguiendo lo de arriba
 clean_buff:
-  targetActorText: "All friends' BUFFS were removed!"
-  targetEnemyText: "All foes' BUFFS were removed!"
+  targetActorText: "¡Las mejoras de todos los aliados han desaparecido!"
+  targetEnemyText: "¡Las mejoras de todos los enemigos han desaparecido!"
 
 clean_debuff:
-  targetActorText: "All friends' DEBUFFS were removed!"
-  targetEnemyText: "All foes' DEBUFFS were removed!"
+  targetActorText: "¡Se eliminaron los estados negativos de todos los aliados!"
+  targetEnemyText: "¡Se eliminaron los estados negativos de todos los enemigos!"
 
 clean_ailment:
-  targetActorText: "All friends' AILMENTS were removed!"
-  targetEnemyText: "All foes' AILMENTS were removed!"
+  targetActorText: ¡Se curaron los estados alterados de todos los aliados!"
+  targetEnemyText: "¡Se curaron los estados alterados de todos los enemigos!"
 
 # FAIL TEXT
 
 fail_no_juice:
-  text: "%1 does not have enough JUICE!"
+  text: "¡%1 no tiene suficiente JUGO!"
   
 fail_generic:
-  text: "%1 fails to cast a skill."
+  text: "%1 falló al usar la habilidad."
 
 # KO
 
 insta_kill_self:
-  text: "%1 is knocked out instantly!"
+  text: "%1 fue derrotada al instante!"
 
 insta_kill_target:
-  text: "%2 is knocked out instantly!"
+  text: "%2 fue derrotada al instante!"
 
 # =========================================================================================
 # SPECIAL - Some are used in multiple bosses
 # =========================================================================================
 
 fear_vertigo-1:
-  text: "%1 throws the foes off balance!"
+  text: "%1 desestabiliza a los enemigos!"
 
 fear_cripple-1:
-  text: "%1 cripples the foes!"
+  text: "%1 incapacita a los enemigos!"
 
 fear_suffocate-1:
-  text: "%1 suffocates the foes!"
+  text: "%1 asfixia a los enemigos!"
 
 fear_suffocate-2:
-  text: "All foes feel a shortness of breath."
+  text: "Todos los enemigos sienten falta de aire."
 
 # =========================================================================================
 # PARTY MEMBERS
@@ -308,273 +308,273 @@ fear_suffocate-2:
 
 # ==== SUNNY ==== #
 sunny_ode:
-  text: "%1 concentrates %2's EMOTION!"
+  text: "¡%1 concentra la EMOCIÓN de %2!"
   
 sunny_largo:
-  text: "%1 slows the enemy down..."
+  text: "%1 ralentiza al enemigo..."
   
 sunny_quartet:
-  text: "%1 looks into %2's EMOTION!"
+  text: ¡"%1 indaga en la EMOCIÓN de %2!"
   
 sunny_concerto:
-  text: "%1 concentrates and plays..."
+  text: "%1 se concentra y toca..."
   
 sunny_grace_note:
-  text: "%1 plays a quick note."
+  text: "%1 toca una nota rápida."
   
 sunny_forte:
-  text: "%1 conducts conducts %2 to perform loudly!"
+  text: "%1 dirige a %2 para que toque con fuerza!"
   
 sunny_presto:
-  text: "%1 speeds things up!"
+  text: "%1 acelera el ritmo!"
   
 sunny_ballad:
-  text: "%1 concentrates everyone's EMOTION!"
+  text: "%1 concentra la EMOCIÓN de todos!"
   
 sunny_fermata:
-  text: "%1 holds on to %2's EMOTION..."
+  text: "%1 retiene la EMOCIÓN de %2..."
   
 sunny_sonata:
-  text: "%1 plays a sonata."
+  text: "%1 toca una sonata!"
 
 sunny_overture:
-  text: "%1 plays a musical lead."
+  text: "%1 marca el paso musical!"
 
 sunny_andante-1:
-  text: "%1 plays a calming tune..."
+  text: "%1 toca una melodía calmante..."
   
 sunny_andante-2:
-  text: "All friends' debuffs and ailments were removed!"
+  text:  ¡Se curaron los estados alterados y negativos de todos los aliados!"
 
 # Sunny Specials #
 sunny_allegro:
-  text: "%1 strikes three times."
+  text: "%1 ataca tres veces."
 
 sunny_encore_1:
-  text: "%1 gathered himself..."
+  text: "%1 se concentró..."
 
 sunny_encore_2:
-  text: "Everyone's SKILL COSTs are halved!"
+  text: "¡El COSTE de HABILIDAD de todos se reduce a la mitad!"
 
 sunny_calm_down:
-  text: "%1 calms down."
+  text: "%1 se calma."
   
 sunny_focus:
-  text: "%1 focuses."
+  text: "%1 se concentra."
   
 sunny_persist:
-  text: "%1 persists."
+  text: "%1 persiste."
   
 # ==== SWEETHEART ==== #
 swh_brag:
-  text: "%1 starts bragging to %2!"
+  text: "¡%1 empieza a alardear con %2!"
   
 swh_triple_slap:
-  text: "%1 swats wildly ahead!"
+  text: "%1 manotea salvajemente! "
   
 swh_heartbreaker:
-  text: "%1 breaks %2's heart!"
+  text: "¡%1 breaks %2's heart!"
   
 swh_windup-1:
-  text: "%1 raises her hand..."
+  text: "%1 levanta la mano..."
   
 swh_windup-2:
-  text: "...and hits %2 hard!"
+  text: "...y golpea fuerte a %2!"
   
 swh_cruel_buster:
-  text: "%1 hurt everyone's feelings!"
+  text: "¡%1 lastimó los sentimientos de todos!"
   
 swh_obnoxious_music:
-  text: "%1 plays obnoxious music!"
+  text: "¡%1 toca música insoportable!"
   
 swh_war_cry:
-  text: "%1 psyches herself up!"
+  text: "¡%1 se prepara para darlo todo!"
 
 swh_smite:
-  text: "%1 smites %2!"
+  text: "%1 machaca a %2!"
 
 swh_taunt-1:
-  text: "%1 taunts the enemy!"
+  text: "¡%1 provoca al enemigo!"
   
 swh_taunt-2:
-  text: "All foes' DEFENSE fell moderately."
+  text: "¡La DEFENSA de todos los enemigos bajó moderadamente!"
   
 swh_taunt-3:
-  text: "All foes' ATTACK rose moderately!"
+  text: "¡El ATAQUE de todos los enemigos subió moderadamente!"
 
 swh_power_trip:
-  text: "%1 does a power trip on %2!"
+  text: "¡%1 se mete con %2!" #no se el contexto necesito revisar
 
 swh_shiny_polish:
-  text: "%1 gives %2 a shiny finish!"
+  text: "¡%1 deja a %2 reluciente!"
 
 swh_nutcracker:
-  text: "%1 goes to town!"
+  text: "¡%1 lo da todo!"
   
 swh_slow_dance:
-  text: "%1 entrances the enemy with a slow waltz..."
+  text: "%1 cautiva al enemigo con un vals lento..."
   
 swh_tap_dance:
-  text: "%1 nimbly kicks away!"
+  text: "¡%1 patea con agilidad!"
   
 swh_impatience:
-  text: "%1 impatiently attacks!"
+  text: "¡%1 ataca impacientemente!"
   
 swh_sharp_insult:
-  text: "%1 insults everyone!"
+  text: "¡%1 insulta a todos!"
 
 swh_slap_awake:
-  text: "%1 slaps everyone awake!"
+  text: "¡%1 abofetea a todos para despertarlos!"
 
 swh_danse_macabre:
-  text: "%1 does a dance of death!"
+  text: "¡%1 baila la danza de la muerte!"
 
 # ==== DOUGHIE ==== #
 doughie_cheer_up:
-  text: "%1 cheers up %2!"
+  text: "¡%1 anima a %2!"
   
 doughie_bake:
-  text: "%1 makes a cookie just for %2!"
+  text: "¡%1 cocina una galleta solo para %2!"
   
 doughie_punchdown:
-  text: "%1 gives %2 a beating!"
+  text: "¡%1 le da una paliza a %2!"
   
 doughie_knead-1:
-  text: "%1 kneads %2."
+  text: "%1 amasa a %2."
   
 doughie_knead-2:
-  text: "%1 is tired of bread..."
+  text: "%1 está cansada del pan..."
   
 doughie_stress_eat:
-  text: "%1 pulls out a fresh cookie for %2!"
+  text: "¡%1 saca una galleta fresca para %2!"
   
 doughie_bag_o_flour:
   text: "%1 spills flour everywhere!"
   
 doughie_ferment:
-  text: "%1 gives %2 a pick-me-up..."
+  text: "%1 reanima a %2" #necesita mejor contexto
   
 doughie_concentrate-1:
-  text: "%1 gathers her power..."
+  text: "%1 acumula su poder..."
   
 doughie_concentrate-2:
-  text: "%1's next attack will be strengthened!"
+  text: "¡El próximo ataque de %1 será más fuerte!"
   
 doughie_cover:
-  text: "%1 covers %2."
+  text: "%1 protege a %2."
 
 doughie_fresh_pizza:
-  text: "%1 pulls out a fresh pizza for everyone!"
+  text: "¡%1 saca una pizza recién hecha para todos!"
 
 doughie_homemade_jam-1:
-  text: "%1 makes HOMEMADE JAM!"
+  text: "%1 prepara MERMELADA CASERA!"
   
 doughie_homemade_jam-2:
-  text: "It had no effect."
+  text: "No ha tenido efecto."
   
 doughie_bis_quick-1:
-  text: "%1 calls for some backup!"
+  text: "¡%1 pide apoyo!"
   
 doughie_bis_quick-2:
-  text: "BISCUIT raised everyone's DEFENSE!"
+  text: "¡BISCUIT subió la DEFENSA de todos!"
   
 doughie_white_bread-1:
-  text: "%1 gives %2 a palette cleanser..."
+  text: "%1 le da un limpiapaladares a %2..."
   
 doughie_white_bread-2:
-  text: "%2's AILMENTS were removed!"
+  text: "¡Se curaron los ESTADOS de %2!"
 
 doughie_prudence:
-  text: "%1 starts off with some good care."
+  text: "%1 comienza con unos buenos cuidados!"
 
 doughie_sunny_side_up:
-  text: "%1 whistles a cheery tune while cooking."
+  text: "¡%1 silba una melodía alegre mientras cocina!"
 
 doughie_detox_food:
-  text: "%1 makes everyone some detoxicating food."
+  text: "%1 prepara comida desintoxicante para todos."
 
 doughie_decanter:
-  text: "%1 let the dust settles."
+  text: "%1 deja que el polvo se asiente."
 
 doughie_rotten:
-  text: "%1 gives %2 rotten milk..."
+  text: "%1 le da leche podrida a %2..."
 
 doughie_lethal:
-  text: "%1 gives %2 a lethal injection!"
+  text: "¡%1 le da una inyección letal a %2!"
 
 # ==== SPACEBOY ==== #
 sb_angsty_song:
-  text: "%1 sings an angsty song."
+  text: "%1 canta una canción melancólica."
   
 sb_avenger:
-  text: "%1 collects his vengeful spirit!"
+  text: "%1 recoge su espíritu vengativo"
   
 sb_intimidate:
-  text: "%1 intimidates everyone!"
+  text: "¡%1 intimida a todos!"
   
 sb_cover_fire:
-  text: "%1 cover fires!"
+  text: "¡%1 abre fuego de cobertura!"
   
 sb_aria:
-  text: "%1 sings a sorrowful song..."
+  text: "%1 canta una canción lúgubre...!"
   
 sb_bullet_hell:
-  text: "%1 fires everywhere!"
+  text: "¡%1 dispara a todas partes!"
   
 sb_cool_breeze-1:
-  text: "%1 creates a cooling breeze!"
+  text: "¡%1 crea una brisa fria!"
   
 sb_cool_breeze-2:
-  text: "All foes' BUFFs are removed!"
+  text: "¡Se eliminaron las MEJORAS de todos los enemigos!"
   
 sb_catharsis:
-  text: "%1 channels his inner fury!"
+  text: "¡%1 canaliza su furia interior!"
   
 sb_flashbang-1:
-  text: "%1 fires a bright laser!!"
+  text: "¡%1 dispara un láser brillante!"
   
 sb_flashbang-2:
-  text: "Everyone's SPEED and HIT/EVASION ROSE!"
+  text: "¡La VELOCIDAD y la PRECISIÓN/EVASIÓN de todos han subido!"
   
 sb_quick_draw:
-  text: "%1 has the faster hand!"
+  text: "%1 tiene la mano más rápida!"
   
 sb_flare:
-  text: "%1 flashes a blinding light!"
+  text: "%1 emite una luz cegadora!"
   
 sb_comet_punch-1:
-  text: "%1 punches with the force of a shooting star!"
+  text: "¡%1 golpea con la fuerza de una estrella fugaz!"
   
 sb_comet_punch-2:
-  text: "...it hurted both %2 and him!"
+  text: "...les dolió tanto a %2 como a él!"
 
 sb_power_hit:
-  text: "%1 smashes %2!"
+  text: "%1 golpea a %2!" #necesita mejor contexto
 
 sb_first_aid:
-  text: "%1 performs a first aid procedure!"
+  text: "¡%1 aplica los primeros auxilios!"
 
 sb_heat_ray:
-  text: "%1 fires off a burning ray!"
+  text: "¡%1 dispara un rayo ardiente!"
   
 sb_medical_kit:
-  text: "%1 applies a bandage to %2!"
+  text: "¡%1 venda a %2!"
 
 sb_caution:
-  text: "%1 starts off with some caution."
+  text: "%1 comienza con precaución"
 
 sb_liver_punch:
-  text: "%1 hits %2 where it hurts!"
+  text: "¡%1 golpea a %2 donde más le duele!"
 
 # ==== EQUIPMENT SKILLS ==== #
 eq_tragic:
-  text: "%1 reads a tragic poem."
+  text: "%1 lee un poema trágico."
 
 eq_maziodyne:
-  text: "%1 gives a shocking revelation."
+  text: "%1 hace una revelación impactante."
 
 eq_maragidyne:
-  text: "%1 throws a ball of fire."
+  text: "%1 lanza una bola de fuego."
 
 # =========================================================================================
 # CH1 CONTENT
@@ -583,133 +583,133 @@ eq_maragidyne:
 # ==== FOREST BUNNY ==== #
 
 bunny_nothing:
-  text: "%1 is hopping around!"
+  text: "¡%1 está saltando alrededor!"
   
 bunny_be_cute:
-  text: "%1 winks at %2!"
+  text: "¡%1 le guiña a %2!"
   
 bunny_sad_eyes:
-  text: "%1 looks sadly at %2."
+  text: "%1 mira tristemente a %2."
   
 # ==== FOREST BUNNY? ==== #
 
 attack_nibble2:
-  text: "%1 nibbles at %2?"
+  text: "¿%1 mordisquea a %2?"
 
 bunny_nothing2:
-  text: "%1 is hopping around?"
+  text: "¿%1 está saltando alrededor?"
   
 bunny_be_cute2:
-  text: "%1 winks at %2?"
+  text: "¿%1 le guiña a %2?"
   
 bunny_sad_eyes2:
-  text: "%1 looks sadly at %2?"
+  text: "¿%1 mira tristemente a %2?"
   
 # ==== LOST SPROUT MOLE / GOLDEN MOLE ==== #
 
 attack_sprout_mole:
-  text: "%1 bumps into %2!"
+  text: "¡%1 se topa con %2!"
   
 sprout_nothing:
-  text: "%1 is rolling around."
+  text: "%1 está rodando."
   
 sprout_run_around:
-  text: "%1 runs around!"
+  text: "¡%1 corre de un lado a otro!"
   
 # ==== RARE BEAR ==== #
   
 bear_roar:
-  text: "%1 lets out a huge roar!"
+  text: "%1 lanza un rugido descomunal!"
 
 bear_hug:
-  text: "%1 hugs %2 really hard!"
+  text: "¡%1 abraza fuertemente a %2 really hard!"
 
 bear_vitalja-1:
-  text: "%1 does incomprehensible things."
+  text: "%1 hace cosas incomprensibles-"
 
 bear_vitalja-2:
-  text: "%1's ATTACK and DEFENSE increased greatly!"
+  text: "¡El ATAQUE y DEFENSA DE %1 subieron considerablemente!"
 
 # ==== GREAT GATE ==== #
 
 makoto_yuki:
-  text: "%1 does its best impression of an OPEN DOOR."
+  text: "%1 hace su mejor imitación de una PUERTA ABIERTA!"
   
 makoto_yuki2:
-  text: "%1 stands firm because it is a door."
+  text: "%1 se mantiene firme porque es una puerta-"
   
 # ==== LIFE JAM GUY ==== #
 
 ljg_death_jam:
-  text: "%1 turns you into TOAST."
+  text: "%1 te ha convertido en TOSTADA!"
   
 ljg_biscuit:
-  text: "%1 throws some biscuit at %2!"
+  text: "¡%1 le tira unos trozos de bizcocho a %2!"
   
 ljg_literal_biscuit:
-  text: "%1 throws BISCUIT!"
+  text: "¡%1 tira a BISCUIT!"
   
 ljg_cover_in_life_jam-1:
-  text: "%1 covers everyone in life jam!"
+  text: "%1 cubre a todos con MERMELADA VITAL"
   
 ljg_cover_in_life_jam-2:
-  text: "Everyone's buffs were removed!"
+  text: "¡Las mejoras de todos los aliados han desaparecido!"
   
 ljg_ingest_jam:
-  text: "%1 ingests some LIFE JAM!"
+  text: "%1 ingiere un poco de MERMELADA VITAL!"
   
 # ==== CONDUCTOR BUNNY ==== #
 
 conductor_call-1:
-  text: "%1 blows a TRAIN WHISTLE!"
+  text: "%1 toca un SILBATO DE TREN!"
   
 conductor_call-2:
-  text: "...Nothing happened..."
+  text: "...No sucedió nada...."
   
 conductor_train:
-  text: "%1's train crashes into everyone!!"
+  text: "¡El tren de %1 choca contra todos!"
   
 # ==== CONEHEAD MOLE ==== #
 
 conehead_readjust:
-  text: "%1 readjusts its hat..."
+  text: "%1 se reajusta el sombrero..."
   
 # ==== TV GIRL ==== #
 
 tvgirl_coffee-1:
-  text: "%1 uses COFFEE!"
+  text: "%1 usa CAFE!"
   
 tvgirl_coffee-2:
-  text: "%1's debuffs were removed!"
+  text: "¡Se eliminaron los estados negativos de %1!"
   
 tvgirl_static-1:
-  text: "%1 goes static..."
+  text: "%1 se queda en estática..."
   
 tvgirl_static-2:
-  text: "Everyone let their guard down."
+  text: "Todos bajaron la guardia."
   
 tvgirl_butcher:
-  text: "%1 butchers %2!"
+  text: "%1 descuartiza a %2!"
   
 tvgirl_stab:
-  text: "%1 stabs %2!"
+  text: "%1 apuñala a %2!"
   
 tvgirl_drama:
-  text: "%1 does a violent dance!"
+  text: "%1 realiza una danza violenta!"
   
 tvgirl_hacknslash:
-  text: "%1 hacks away!"
+  text: "%1 da tajos sin parar!"
   
 tvgirl_dynamite:
-  text: "%1 uses DYNAMITE!"
+  text: "%1 usa DINAMITA!"
   
 tvgirl_eyedrops:
-  text: "%1 uses EYE DROPS!"
+  text: "%1 usa GOTAS PARA LOS OJOS!"
   
 # ==== METRO / SCAR RAT ==== #
 
 metro_rat_nothing:
-  text: "%1 looks around."
+  text: "%1 mira alrededor."
   
 # =========================================================================================
 # CH2 CONTENT
@@ -718,230 +718,230 @@ metro_rat_nothing:
 # ==== PLANET X ==== #
 
 planetx_freikugel:
-  text: "%1 uses his ultimate attack!"
+  text: "%1 usa su ataque definitivo!"
   
 planetx_fatal_sword:
-  text: "%1 slashes twice!"
+  text: "%1 corta dos veces!"
   
 planetx_rampage:
-  text: "%1 goes on a rampage!"
+  text: "%1 entra en frenesí!"
   
 planetx_pierce_armor:
-  text: "%1 lands a sucker punch!"
+  text: "%1 da un golpe bajo!"
   
 planetx_wig:
-  text: "%1 flutters in the wind..."
+  text: "%1 revolotea en el viento..."
   
 planetx_failiure:
-  text: "%1 is out of JUICE!"
+  text: "%1 se quedó sin JUGO!"
   
 planetx_gain_juice:
-  text: "%1 tries to gather himself."
+  text: "%1 intenta recomponerse."
   
 planetx_nothing:
-  text: "%1 stares akwardly."
+  text: "%1 mira de forma incómoda."
 
 # ==== CATTAIL BUNNY ====
 cattail_camo:
-  text: "%1 hides in the bushes..."
+  text: "%1 se esconde en los arbustos..."
   
 # ==== BROKEN TAPE ====
 broken_tape_tangle:
-  text: "%2 becomes caught in %1!"
+  text: "%2 se enreda con %1!"
   
 # ==== TAPEWORM ====
 tapeworm_nothing:
-  text: "%1 wiggles around..."
+  text: "%1 se retuerce por todos laods..."
   
 # ==== MOUSE ====
 mouse_auto_clicker:
-  text: "%1 downloads a software!"
+  text: "%1 descarga un programa!"
 
 mouse_spam_clicker:
-  text: "%1 is spam clicking!"
+  text: "%1 está haciendo clics sin parar"
   
 # ==== CROCODILE CLIP ====
 croc_bite:
-  text: "%1 bites %2!"
+  text: "%1 muerde a %2!"
 
 croc_angrify:
-  text: "%1 angers itself!"
+  text: "%1 se enfurece a sí misma!"
   
 croc_snap:
-  text: "%1 snaps aggressively..."
+  text: "%1 snaps aggressively..." #no se como seria snap aqui opciones pierde los estribos violentamente o chasquea agresivamente 
   
 # ==== FALLEN STAR ====
 fstar_launch:
-  text: "%1 launches itself onto %2!"
+  text: "%1 se lanza sobre %2!"
   
 # ==== SHOOTING STAR ====
 
 sstar_flash:
-  text: "%1 flashes a blinding light!"
+  text: "%1 emite una luz cegadora!" 
   
 # ==== ADWARE ==== #
 
 adware_mouse:
-  text: "%1 helps %2 to click!"
+  text: "%1 ayuda a %2 a clickear!"
   
 adware_clickbait:
-  text: "%1 clickbaits %2!"
+  text: "%1 clickbaits %2!" #no creo que necesito traudicion
   
 adware_shrink:
-  text: "%1 shrinks its X icon!"
+  text: "%1 reduce su icono de X!"
   
 adware_annoy:
-  text: "%1 annoys %2!"
+  text: "%1 amolesta a %2!"
   
 # ==== SPAM MAIL ==== #
 
 spam_wall_of_text:
-  text: "%1 sends a wall of text."
+  text: "%1 envía un muro de texto."
 
 # ==== ZIP BOMB ==== #
 
 zip_start_timer:
-  text: "%1 starts its timer..."
+  text: "%1 comienza su cuenta atrás..."
   
 zip_tick-1:
-  text: "%1 ticks away..."
+  text: "%1 sigue haciendo tic-tac..."
   
 zip_tick-2:
-  text: "...faster!"
+  text: "...más rapido!"
   
 zip_tick-3:
-  text: "...but is too sad..."
+  text: "...pero esta muy triste..."
   
 zip_unzip:
-  text: "%1 explodes!"
+  text: "%1 explota!"
   
 zip_zip_of_death-1:
-  text: "%1 explodes violently!"
+  text: "%1 explota violentamente!"
   
 zip_zip_of_death-2:
-  text: "Everyone's SPEED fell greatly."
+  text: "¡La VELOCIDAD de todos los aliados bajó drásticamente!."
   
-# ==== TROJAN HORSE ==== #
+# ==== PETAH THE TROJAN HORSE IS HERE ==== #
 
 trojan_horse_nothing:
-  text: "%1 does its best impression of a horse."
+  text: "%1 hace su mejor imitación de un caballo"
   
 # ==== SPACE FANGIRL ==== #
 
 sfg_angstiest_song:
-  text: "%1 wails loudly!"
+  text: "%1 lanza un fuerte lamento!"
   
 sfg_ultra_brag:
-  text: "%1 flaunts her superiority!"
+  text: "%1 presume de su superioridad!"
   
 sfg_space_laser:
-  text: "%1 fires her laser!"
+  text: "%1 dispara su láser!"
   
 sfg_bullet_hell:
-  text: "%1 fires wildly!"
+  text: "%1 dispara frenéticamente!"
   
 # ==== KITE KID ==== #
   
 kite_kid_jacks:
-  text: "%1 throws jacks!"
+  text: "%1 lanza jacks!"
   
 kite_kid_brag:
-  text: "%1 brags about their unbreakable bond!"
+  text: "%1 presume de su vínculo inquebrantable!"
   
 kite_kid_provoke:
-  text: "%1 provokes %2!"
+  text: "%1 provoca a %2!"
   
 kite_kid_repair:
-  text: "%1 repairs %2!"
+  text: "%1 repara %2!"
   
 kite_kid_counter_setup:
-  text: "%1 readies himself."
+  text: "%1 se prepara."
   
 kite_kid_counter_attack:
-  text: "%1 hits back!"
+  text: "%1 contraataca!"
   
 kite_kid_modify:
-  text: "%1 modifies %2."
+  text: "%1 modifica su %2."
   
 kite_kid_bawl:
-  text: "%1 bawls!"
+  text: "%1 berrea!" #otra opcion seria llora a gritos
   
 kite_kid_siphon:
-  text: "%1 siphons %2's JUICE!"
+  text: "%1 sbsorbe el JUGO DE %2!"
   
 kite_kid_up_offense:
-  text: "%1 raises his offense!"
+  text: "%1 aumenta su OFENSIVA!"
   
 # ==== KID'S KITE ==== #
 
 attack_kite:
-  text: "%1 hits %2!"
+  text: "%1 golpea %2!"
   
 kite_fly:
-  text: "%1 flies onto everyone!"
+  text: "%1 vuela contra todos!"
   
 kite_tangle:
-  text: "%2 gets caught in %1's strings!"
+  text: "%2 se enreda en los hilos de %1!"
   
 kite_dive:
-  text: "%1 dives into %2!"
+  text: "%1 se lanza contra %2!"
   
 # ==== DOOM BOX EX ==== #
 
 attack_doom_ex:
-  text: "%1 slams into %2!"
+  text: "%1 embiste a %2!"
   
 doom_ex_adjust_radio:
-  text: "%1 adjusts its radio."
+  text: "%1 ajusta su radio!."
   
 doom_ex_blast_music:
-  text: "%1 drops some sick beats!"
+  text: "%1 suelta unos ritmos increibles!"
   
 doom_ex_flame:
-  text: "%1 drops a fire track!"
+  text: "%1 suelta una pista incendiaria!"
 
 doom_ex_summon_tape:
-  text: "%1 spits out a cassette tape!"
+  text: "%1 expulsa una cinta de casete!"
   
 # ==== DOOM BOX EX ==== #
 
 attack_dial_ex-1:
-  text: "%1 is slow."
+  text: "%1 es lento."
   
 attack_dial_ex-2:
-  text: "%2 hurts themself in frustration!!"
+  text: "%2 se hace daño a sí mismo por la frustración!"
   
 dial_ex_buffer:
-  text: "%1 is buffering."
+  text: "%1 está procesando."
   
 dial_ex_slow:
-  text: "%1 slows down..."
+  text: "%1 pierde velocidad.."
   
 dial_ex_install:
-  text: "%1 installs new updates."
+  text: "%1 instala nuevas actualizaciones."
   
 dial_ex_call:
-  text: "%1 calls for a friend!"
+  text: "%1 llama a un amigo!"
   
 # ==== SHARK PLANE EX ==== #
 
 attack_splane_ex:
-  text: "%1 rams into %2!"
+  text: "%1 embiste a %2!"
   
 splane_ex_target:
-  text: "%1 focuses on its next target."
+  text: "%1 se concentra en su próximo objetivo."
   
 splane_ex_overclock:
-  text: "%1 revs its engine!"
+  text: "%1 hace rugir su motor!"
   
 splane_ex_chomp:
-  text: "%1 chomps %2!"
+  text: "%1 muerde a %2!"
   
 splane_ex_pick_teeth:
-  text: "%1 is picking its teeth."
+  text: "%1 se limpia los dientes."
   
 splane_ex_big_ram:
-  text: "%1 rams into %2 aggressively!"
+  text: "%1 embiste a %2 agresivamente!"
   
 # =========================================================================================
 # CH3 CONTENT
@@ -949,137 +949,137 @@ splane_ex_big_ram:
 
 # ==== LUCY (STORY) ====
 attack_lucy:
-  text: "%1 swiftly kicks %2!"
+  text: "%1 patea velozmente a %2!"
 
 lucy_nothing:
-  text: "%1 does a flip and strikes a pose!"
+  text: "%1 da una voltereta y hace una pose!"
 
 lucy_brag:
-  text: "%1 flaunts her superiority!"
+  text: "%1 presume de su superioridad!"
   
 lucy_super:
-  text: "%1 does a spinning kick!"
+  text: "%1 lanza una patada giratoria!"
 
 # ==== MINT-DONO ====
 
 mint_pointless:
-  text: "%1 is preparing for a powerful attack!"
+  text: "%1 se prepara para un ataque poderoso!"
   
 # ==== CHOCO-CHAN ====
 
 choco_dont_worry:
-  text: "%1 heals her team!"
+  text: "%1 cura a su equipo!"
 
 choco_get_fucked:
-  text: "%1 takes everyone's breath away!"
+  text: "%1 deja a todos sin aliento!"
   
 # ==== WENDYHEART ====
   
 wendyheart_summon:
-  text: "%1 grabs something from the kitchen!"
+  text: "%1 agarra algo de la cocina!"
   
 wendyheart_brag:
-  text: "%1 brags about her superior cooking skills!"
+  text: "%1 presume de sus dotes culinarias superiores!"
 
 wendyheart_heal:
-  text: "%1 cooks up some food for everyone!"
+  text: "%1 prepara comida para todos!"
 
 wendyheart_clear:
-  text: "%1 cleans her allies!"
+  text: "%1 limpia a sus aliados!"
   
 wendyheart_moderate_atk:
-  text: "%1 punches down on %2!"
+  text: "%1 golpea %2!"
   
 wendyheart_angry:
-  text: "%1 roasts everyone!"
+  text: "%1 humilla a todos!"
 
 # ==== CUPCAKE BUNNY ====
 attack_ccb:
-  text: "%1 bumps into %2."
+  text: "%1 se choca contra %2."
 
 ccb_happy:
-  text: "%1 cheers itself up!"
+  text: "%1 se anima!"
   
 ccb_spd:
-  text: "%1 decorates everyone with sprinkles!"
+  text: "%1 decora a todos con chispitas!"
   
 ccb_crit:
-  text: "%1 lowers %2's guard with its cuteness."
+  text: "%1 baja la guardia de %2 con su ternura!"
   
 # ==== MILKSHAKE BUNNY ====
 attack_milkshake:
-  text: "%1 spills milkshake on %2."
+  text: "%1 derrama batido sobre %2."
 
 milkshake_angry:
-  text: "%1 agressively shakes!"
+  text: "%1 se sacude agresivamente!"
   
 milkshake_atk:
-  text: "%1 rattles everyone up!"
+  text: "%1 sacude a todos!"
   
 milkshake_moderate_atk:
-  text: "%1 shakes %2!"
+  text: "%1 sacude a %2!"
   
 # ==== PANCAKE BUNNY ====
 attack_pancake:
-  text: "%1 nibbles on %2."
+  text: "%1 mordisquea a %2."
 
 pancake_sad:
-  text: "%1 feels down..."
+  text: "%1 está desanimado..."
   
 pancake_def:
-  text: "%1 raises its dough!"
+  text: "%1 hace que su masa suba!"
   
 pancake_heal:
   text: "%1 supports %2 with some comfort food."
   
 # ==== LUNA ==== #
 luna_megido_stasis-1:
-  text: "%1 focuses up..."
+  text: "%1 e concentra..."
   
 luna_megido_stasis-2:
-  text: "%1's attacks will ignore EMOTION for 3 turns!"
+  text: "%1 ignorará el efecto de las EMOCIONES por 3 turnos!"
   
 luna_celestial_ray:
-  text: "%1 channels the power of the heavens!"
+  text: "%1 canaliza el poder de los cielos!"
   
 luna_nuke:
-  text: "%1 unleashes a devastating attack!"
+  text: "%1 desata un ataque devastador!"
   
 luna_tarukaja:
-  text: "%1 readies her weapon..."
+  text: "%1 prepara su arma..."
   
 luna_dekaja-1:
-  text: "%1 knocks everyone off balance!"
+  text: "%1 hace que todos pierdan el equilibrio!"
   
 luna_dekaja-2:
-  text: "All friends' buffs were removed!"
+  text: "¡Las mejoras de todos los aliados han desaparecido!"
   
 luna_dekunda-1:
-  text: "%1 repositions!"
+  text: "%1 se reposiciona!"
   
 luna_dekunda-2:
-  text: "%1's debuffs were removed!"
+  text: "¡Se eliminaron los estados negativos de %1!"
   
 luna_heavy_shot:
-  text: "%1 takes a huge swing!"
+  text: "%1 lanza un golpe enorme!"
   
 luna_critical-1:
-  text: "%1 grits her teeth..."
+  text: "%1 rechina los dientes..."
   
 luna_critical-2:
-  text: "%1's next attack will be CRITICAL!"
+  text: "¡El próximo ataque de %1 será CRÍTICO!"
   
 luna_berserk:
-  text: "%1 swings wildly!"
+  text: "%1 arremete descontroladamente!"
   
 luna_stance-1:
-  text: "%1 readjusts her stance..."
+  text: "%1 reajusta su postura..."
   
 luna_stance-2:
-  text: "%1's next attack won't miss!"
+  text: "¡El próximo ataque de %1 no fallará!"
   
 luna_calm_down:
-  text: "%1 calms down."
+  text: "%1 se calma."
   
 # =========================================================================================
 # CH4 CONTENT
@@ -1087,98 +1087,98 @@ luna_calm_down:
 
 # ==== DUST BUNNY ====
 dust_nothing:
-  text: "%1 is trying to keep itself together."
+  text: "%1 intenta mantener la compostura."
 
 dust_hit:
-  text: "%1 throws dust at %2!"
+  text: "%1 lanza polvo a %2!"
 
 dust_scatter:
-  text: "%1 can't hold itself together and explodes!"
+  text: "%1 no puede contenerse más y explota!"
 
 # ==== GHOST BUNNY + CONDUCTOR ====
 ghost_phase-1:
-  text: "%1 phases through %2!"
+  text: "%1 pasa a través de %2!"
 
 ghost_phase-2:
-  text: "%2 feels tired..."
+  text: "%2 siente cansancio..."
 
 ghost_nothing:
-  text: "%1 floats in place."
+  text: "%1 levita en su lugar."
 
 ghost_weird:
-  text: "%1 gives %2 a weird feeling."
+  text: "%1 le da una sensación extraña a %2."
 
 ghost_call-1:
-  text: "%1 whistles an eerie sound."
+  text: "%1 silba un sonido fantasmal."
 
 ghost_call-2:
-  text: "...You hear a distant wail...?"
+  text: "...Oyes un lamento distante...?"
 
 ghost_train:
-  text: "%1's train phases through everyone!!"
+  text: "¡El tren de %1 pasa a través de todos!"
 
 # ==== SPROUT MOLD ====
 sproutmold_sticky:
-  text: "%1 brushes its rotting leaf on %2."
+  text: "%1 frota su hoja podrida contra %2."
 
 sproutmold_stench:
-  text: "%1 gives off an awful stench."
+  text: "%1 desprende un hedor repugnante."
   
 sproutmold_sad:
-  text: "%1 reminisces about better days."
+  text: "%1 rememora tiempos mejores."
 
 # ==== TAILISRAT ====
 tailis_claw:
-  text: "%1 claws %2!"
+  text: "%1 araña a %2!"
 
 tailis_angry:
-  text: "%1 remembers its tragic past..."
+  text: "%1 recuerda su trágico pasado..."
 
 tailis_raise:
-  text: "%1 tries stretching."
+  text: "%1 intenta estirarse."
 
 # ==== JACKSON ====
 # Note: Chainsaw is considered basic attack.
 
 jackson_angry:
-  text: "%1 is annoyed!"
+  text: "%1 se ha irritado!"
 
 jackson_vitalja-1:
-  text: "%1 readies itself..."
+  text: "%1 se prepara..."
 
 jackson_vitalja-2:
-  text: "%1's ATTACK and DEFENSE increased greatly!"
+  text: "¡El ATAQUE y la DEFENSA de %1 subieron drásticamente!"
 
 jackson_tetrakarn-1:
-  text: "%1 prepares itself for incoming attacks..."
+  text: "%1 se prepara para los próximos ataques..."
 
 jackson_tetrakarn-2:
-  text: "\\c[4]All NEUTRAL attacks within this turn is repelled!\\c[0]"
+  text: "\\c[4]¡Todos los ataques NEUTRALES de este turno serán repelidos!\\c[0]"
 
 jackson_sweep:
-  text: "%1 sweeps the chainsaw in a wide arc!"
+  text: "%1 barre con la motosierra en un arco amplio!"
 
 # ==== HALTERGEIST ====
 haltia_hard:
-  text: "%1 knocks over %2 with a sign!"
+  text: "%1 derriba a %2 con una señal!"
 
 haltia_sweep:
-  text: "%1 takes a large swing!"
+  text: "%1 arremete con fuerza!"
 
 haltia_flag:
-  text: "%1 waves around a red flag."
+  text: "%1 ondea una bandera roja."
 
 haltia_signal:
-  text: "%1 gives a signal to their allies."
+  text: "%1 hace una señal a sus aliados."
 
 haltia_dekaja:
-  text: "%1 knocks everyone off balance!"
+  text: "%1 hace que todos pierdan el equilibrio!"
 
 haltia_special:
-  text: "%1 unleashes a \\c[4]FURIOUS\\c[0] self-destructive strike!"
+  text: "%1 desata un \\c[4]FURIOSO\\c[0] ataque autodestructivo!" #need help wit this one
 
 haltia_nothing:
-  text: "%1 is recovering from the attack."
+  text: "%1 se está recuperando del ataque."
 
 haltia_cannot:
   text: "%1 was unable to cast their special skill..."
@@ -1186,15 +1186,15 @@ haltia_cannot:
 # ====== BUCKETHEAD MOLE ======
 
 bucket_readjust:
-  text: "%1 readjusts its hat..."
+  text: "%1 no pudo usar su habilidad especial..."
 
 # ====== ROLLERPAINT MOLE ======
 
 roller_paint:
-  text: "%1 spills paints on %2"
+  text: "%1 derrama pintura sobre %2"
 
 roller_flick:
-  text: "%1 flicks paint at %2's eyes!"
+  text: "%1 lanza pintura a los ojos de %2!"
 
 # ====== HAROLD (BOTH) ======
 

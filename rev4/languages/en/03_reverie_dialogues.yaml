@@ -647,27 +647,27 @@ trio_6:
 
 # Fight
 trio_7:
-    text: \n<VAMPYRE>Wahh,\. sorry!\! Please excuse my friends!\! I'm sure they don't mean to do anything bad to you all!
+    text: \n<VAMPYRE>Wahh,\.¡Lo siento!\! ¡Por favor, disculpen a mis amigos!\! Estoy seguro de que no tienen intención de hacerles nada malo.
 
 trio_8:
-    text: \n<VAMPYRE>Please,\. take this as a token of apology!
+    text: \n<VAMPYRE>¡Por favor,\. toma esto como muestra de mi disculpa!
 
 # You got
 trio_9:
-    text: \n<VAMPYRE>It's...\. one of the spell book I have.\! It does lightning stuff...\. it might not be that good though...
+    text: \n<VAMPYRE>Es...\. uno de los libros de hechizos que tengo.\! Hace cosas de rayos...\. aunque puede que no sea tan bueno...
 
 # After talk
 trio_a1:
-    text: \n<FIERY>Seriously man, you have to up your game.
+    text: \n<FIERY>En serio,tienes que mejorar.
 
 trio_a2:
-    text: \n<VAMPYRE>Wahh, sorry!\. But no one else is doing healing duty!
+    text: \n<VAMPYRE>¡Waaah, lo siento!\. ¡Pero es que nadie más se encarga de curar!
 
 trio_a3:
-    text: \n<IRIS>Just think of someone you really hate and then channel your rage.\! Electrocute them to death or something.\! Don't you ever have someone you really hate?
+    text: \n<IRIS>Simplemente piensa en alguien que realmente odies y luego canaliza tu rabia.\! Electrocuta a esa persona hasta la muerte o algo así.\! ¿Nunca has tenido a alguien a quien odiaras de verdad?
 
 trio_a4:
-    text: \n<VAMPYRE>Uh, no?\. Why?
+    text: \n<VAMPYRE>Uh, no?\. ¿Por que?
 
 trio_a5:
-    text: \n<IRIS>Geez Louise, you're more helpless than a baby.
+    text: \n<IRIS>Santo cielo,eres más inútil que un bebé

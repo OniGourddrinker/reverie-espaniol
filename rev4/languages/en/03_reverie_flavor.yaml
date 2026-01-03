@@ -3,116 +3,116 @@
 # =========================================================================================
 
 # METRO B2 IS NOW AVAILABLE --------------
+#sinceramente me olvide como les puse a los crocos despue se cambia
 
 gator_cutscene_1:
-    text: \n<CONSTRUCTION GATOR>All done here!\. Let's go get some coffee!
+    text: \n<CONSTRUCTION GATOR>¡Todo listo aquí!\. ¡Vamos por un café!
 
 gator_missed_1:
-    text: \n<CONSTRUCTION GATOR>I should check out if others finished the elevator fix...
+    text: \n<CONSTRUCTION GATOR>Debería ver si los demás ya finalizaron la reparación del elevador...
 
 gator_1:
-    text: \n<CONSTRUCTION GATOR>It took awhile...\. But we finally got around to make that elevator work!\!<br>...\.Well,\. not completely,\. but it's working!
+    text: \n<CONSTRUCTION GATOR>Llevó su tiempo...\. ¡Pero finalmente logramos que ese ascensor funcionara!\!<br>...\.Bueno,\. no del todo,\. ¡Pero está funcionando!
 
 gator_2:
-    text: \n<CONSTRUCTION GATOR>Oh, hello!\. You've caught us on a small lunch break.\! We've just got done fixing that elevator there!
+    text: \n<CONSTRUCTION GATOR>¡Oh, hola!\. Nos agarraste en un pequeño descanso para comer.\! Justo terminamos de reparar ese elevador!
 
 gator_3:
-    text: \n<CONSTRUCTION GATOR>Nothing like some good old coffee to help me get back to speed after hours of elevator-related maintenance!
-
+    text: \n<CONSTRUCTION GATOR>No hay nada mejor que un buen café para recargar energías después de horas de mantenimiento de ese ascensor!
 # METRO B2 --------------
 
 message_1:
-    text: A garbage bin.\. It's full to the brim with various litter.
+    text: Un tacho de basura.\. Está repleto de varios tipos de desechos.
 
 message_1_2:
-    text: A garbage bin.\. A shattered bottle of juice is soaking all the flyers inside.
+    text: Un tacho de basura.\. Una botella de jugo destrozada está mojando todos los folletos que están dentro.
 
 message_2:
-    text: An old cabinet. The inside is 
+    text: Un armario viejo. El interior está
 
 message_3:
-    text: A broken arcade machine of some kind.\. Looks like it hasn't been used in ages.
+    text: Una máquina arcade rota.\. Parece que no se ha usado en años.
 
 message_4:
-    text: A mop for floor cleaning.\. Somebody is doing an awful job.
+    text: Un trapeador para limpiar el suelo.\. Alguien está haciendo un trabajo terrible.
 
 message_5:
-    text: A dead houseplant.\. Its leaves look very crispy.
+    text: Una planta de interior muerta.\. Sus hojas se ven muy crujientes.
 
 message_6:
-    text: A knocked over plant.\. You almost stepped on one of the shards.
+    text: Una planta tirada.\. Casi caminas sobre uno de los trozos rotos.
 
 message_7:
-    text: Piles upon piles of trash.
+    text: Montones y montones de basura.
 
 message_8:
-    text: A tall stack of boxes.\. The contents are emanating a foul smell.
+    text: Una pila alta de cajas.\. El contenido está emanando un olor fétido
 
 message_9:
-    text: A poster about workplace safety.
+    text: Un póster sobre seguridad laboral
 
 message_10:
-    text: A wanted poster depicting a dangerous criminal.\. The listed reward is 1 clam.
+    text: Un cartel de se busca que muestra a un criminal peligroso.\. La recompensa listada es de 1 clam
 
 message_11:
-    text: A poster for a scary movie about a ghost.
+    text: Un póster de una película de terror sobre un fantasma.
 
 message_12:
-    text: Some poster about modern art.\. Looking at it makes you hungry.
+    text: Algún póster sobre arte moderno.\. Al mirarlo, te da hambre
 
 message_13:
-    text: A faded sign that says 'Stay behind the yellow line when a train is passing!'.
+    text: Un cartel desgastado que dice '¡Mantente detrás de la línea amarilla cuando pase un tren!'.
 
 message_14:
-    text: A box full of nails.
+    text: Una caja llena de clavos.
 
 message_15:
-    text: A large box.\. You can hear some noises coming from inside.
+    text: Una caja grande.\. Puedes oír algunos ruidos que vienen de adentro.
 
 message_16:
-    text: A large box.\. Smells musty.
+    text: Una caja grande.\. Huele a humedad.
 
 message_17:
-    text: A open cardboard box.\. There are some tools inside.
+    text: Una caja de cartón abierta.\. Hay varias herramientas adentro.
 
 message_18:
-    text: A open cardboard box.\. There's some nibbled cheese lying at the bottom.
+    text: Una caja de cartón abierta.\. En el fondo yace un poco de queso mordisqueado.
 
 message_19:
-    text: A cardboard box.\. It's squishy.
+    text: Una caja de cartón\. Está blandita
 
 message_20:
-    text: A cardboard box.\. Mold is growing on this one.
+    text: Una caja de cartón\. Le está creciendo moho a esta
 
 message_21:
-    text: A gross smell is coming from these paint buckets.
+    text: Estos botes de pintura están despidiendo un olor horrible.
 
 message_22_shelf:
-    text: An old shelf.\. It's kind of sturdy.
+    text: Un estante viejo.\. Es bastante resistente.
 
 message_23_shelf:
-    text: A poster for a action movie.\. It's partly ripped on one side.
+    text: Un póster de una película de acción.\. Está medio roto en un lado.
 
 message_24:
-    text: An open cardboard box.\. It's empty.
+    text: Una caja de cartón abierta.\. Está vacia.
 
 message_25:
-    text: A storage cupboard.\. It's full of junk.
+    text: Un armario.\. Está lleno de basura.
 
 message_26:
-    text: Anything could fit into this pile of trash and live off it.\. Spiders, rats snakes... best to leave it be.
+    text: Cualquier cosa podría caber en esta pila de basura y vivir de ella.\. Arañas, ratas, serpientes... mejor no tocarlo.
 
 message_27:
-    text: An lifeless arcade machine.\. The letters “P__Y_IU” can be made you, but nothing else.
+    text: Una máquina arcade sin vida.\. Se alcanzan a leer las letras "P__Y_IU", pero nada más.
 
 message_28:
-    text: A lone sprout thrives, despite the lack of light.\. Good job, plant.
+    text: Un brote solitario prospera, a pesar de la falta de luz.\. Buen trabajo, planta.
 
 message_29:
-    text: There’s capsules of all shapes and sizes through the glass.\. They look like candy... but they’re certainly not.
+    text: Hay cápsulas de todas las formas y tamaños a través del cristal.\. Parecen caramelos... pero definitivamente no lo son.
 
 message_30:
-    text: A collection of free magazines, pamphlets and flyers for bored visitors to read.
+    text: Una colección de revistas, folletos y volantes gratuitos para que los visitantes aburridos lean.
 
 # ================================================================
 #                    LOST LIBRARY BOOKS
@@ -121,10 +121,10 @@ message_30:
 #Prompt
 
 bookprompt:
-      text: You find a book of interest.\! Read an excerpt?
+      text: Encuentras un libro interesante.\! ¿Leer un fragmento?
       
 bookyes:
-      text: YES
+      text: SI
       
 bookno:
       text: NO
@@ -134,221 +134,221 @@ bookno:
 #========================================================================================
 
 book1_1:
-      text: \"One by one, they fell asleep on the car ride home.\! <br>It was a long day at the beach, after all, and everyone<br>was exhausted.\"
+      text: \"Uno por uno, se quedaron dormidos en el viaje a casa.\! <br>Después de todo, fue un largo día de playa<br>y todos estaban agotados.\"
 
 book1_2:
-      text: \"KEL was the first to nod off, then the rest.\"
+      text: \"KEL fue el primero en dormirse, y luego el resto.\"
 
 book1_3:
-      text: \"As the sun set over the freeway, \n[17]'s head <br>accidently drops onto AUBREY's shoulder.<br><br>The sudden jolt wakes him,<br>but he doesn't dare open his eyes.\"
+      text: \"Mientras el sol se ponía sobre la autopista, la cabeza de \n[17] <br>cae accidentalmente sobre el hombro de AUBREY.<br><br>La sacudida repentina lo despierta,<br>pero no se atreve a abrir los ojos.\"
 
 book1_4:
-      text: \"He pretends to be asleep and steadies his breathing.\! <br>He listens to the sound of the road.\"
+      text: \"Finge estar dormido y estabiliza su respiración.\! <br>Y escucha el sonido de la carretera.\"
 
 book1_5:
-      text: \"He feels the soft sun resting on his skin, and the slight tinge of pain on his nose from tomorrow's sunburn.\"
+      text: \"Siente el suave sol que reposa sobre su piel y el ligero escozor en la nariz que anticipa la quemadura de sol que tendrá mañana\"
 
 book1_6:
-      text: \"He is happy...\! very, very happy...\! <br>And he makes a vow to himself, that no matter what,<br>he will remember this moment forever.\"
+      text: \"Está feliz...\! muy, muy feliz...\! <br>Y se promete a sí mismo, que pase lo que pase,<br>recordará este momento para siempre.\"
       
 #========================================================================================
 # Tracks:
 #========================================================================================
 
 book2_1:
-      text: \"A puddle of juice sinks into the carpet.\"
+      text: \"Un charco de jugo se absorbe en la alfombra.\"
 
 book2_2:
-      text: \"Hovering above it is none other than KEL, holding <br>an open juice box.\"
+      text: \"Justo encima de él está nada menos que KEL,sosteniendo <br>una caja de jugo abierta.\"
 
 book2_3:
-      text: \"He looks around at his friends, who are all wearing the same face of disappointment.\! He lets out a guilty chuckle.\"
+      text: \"Él mira a sus amigos,que muestran el mismo rostro de decepción\! Él suelta una risa culpable.\"
 
 book2_4:
-      text: \"In what seems like less than a second, <br>KEL disappears out the front door.\"
+      text: \"En lo que parece menos de un segundo, <br>KEL desaparece por la puerta principal.\"
 
 book2_5:
-      text: \"A tiny black kitten makes her way through the stain, leaving sloppy, wet tracks all across the carpet.\"
+      text: \"Una pequeña gatita negra atraviesa la mancha,dejando rastros mojados y pegajosos por toda la alfombra\"
 
 book2_6:
-      text: \"HERO's face turns red and yells for KEL, <br>but KEL is already long gone.\"
+      text: \"HEROse pone rojo y le grita a KEL, <br>pero KEL ya había desaparecido.\"
 
 book2_7:
-      text: \"MARI hands HERO some wet paper towels.\"
+      text: \"MARI le da a HERO algunas toallas de papel húmedas\"
 
 book2_8:
-      text: \"It looks like they're the only adults here...\! and if they don't clean this up soon, the carpet is going to stain.\! They'll have to deal with KEL later...\"
+      text: \"Se diría que son los únicos mayores aquí...\! y si no limpian esto rápido la alfombra se va quedar manchada\! Tendrán que lidiar con KEL más tarde...\"
       
 #========================================================================================
 # Hottest Day of Summer:
 #========================================================================================
 
 book3_1:
-      text: \"It was a hot, summer day, and all \n[17] could think about was why they couldn't do this tomorrow.\"
+      text: \"Era un día caluroso de verano, y lo único en lo que \n[17] podía pensar era por qué no podían hacer esto mañana.\"
 
 book3_2:
-      text: \"The backyard was a mess.\"
+      text: \"El patio trasero estaba hecho un desastre.\"
 
 book3_3:
-      text: \"Planks of wood were strewn about the area.\! <br>Paint stains blotched the grass thanks to BASIL and AUBREY's work.\"
+      text: \"Tablones de madera estaban esparcidos por la zona.\! <br>Manchas de pintura salpicaban el pasto gracias al trabajo de BASIL y AUBREY.\"
 
 book3_4:
-      text: \"All day, \n[17] watched HERO lug planks of wood back and forth from his dad's pickup truck.\"
+      text: \"Durante todo el día, \n[17] vio a HERO cargar tablones de madera de un lado a otro de la camioneta de su papá.\"
 
 book3_5:
-      text: \"He watched KEL hammer his fingers over and over, and made note that over an hour has passed since MARI has climbed down her ladder.\"
+      text: \"Observó a KEL martillarse los dedos una y otra vez, y se dio cuenta de que había pasado más de una hora desde que MARI había bajado de su escalera.\"
 
 book3_6:
-      text: \"'I will just be their moral support.', \n[17] thought, as he sat sleepily in the shade of his favorite tree.\"
+      text: \"'Simplemente les daré apoyo moral',pensó \n[17] mientras se sentaba soñoliento bajo la sombra de su árbol favorito.\"
 
 book3_7:
-      text: \"Of course, he knew this wouldn't be the case.\"
+      text: \"Por supuesto, él sabía que ese no sería el caso.\"
 
 book3_8:
-      text: \"Soon his friends will be asking for his help, and he won't be able to refuse.\"
+      text: \"Pronto sus amigos le pedirán ayuda, y él no podrá negarse.\"
 
 book3_9:
-      text: \"The treehouse is for everyone, so it's only fair that everyone puts some work into it.\"
+      text: \"La casa del árbol es para todos, por lo que es justo que todos pongan algo de trabajo.\"
 
 book3_10:
-      text: \"\n[17] knows this and agrees...\! but reluctantly.\!<br>He slides up and wobbles his way to the mess.\"
+      text: \"\n[17]es consciente de ello y acepta...\! pero de mala gana.\!<br>Se levanta lentamente y se dirige tambaleándose hacia el desorden.\"
 
 book3_11:
-      text: \"He knows he should put in his fair share.\!<br>It just had to be on the hottest day of summer.\"
+      text: \"Él sabe que debe hacer su parte.\!<br>Pero justo tuvo que ser el día más cálido del verano.\"
       
 #========================================================================================
 # School Day:
 #========================================================================================
 
 book4_1:
-      text: \"This year, \n[17] was lucky enough to get assigned to a desk next to the small window.\"
+      text: \"Este año, \n[17] tuvo la suerte de que le asignaran un escritorio al lado de la pequeña ventana.\"
 
 book4_2:
-      text: \"Every day during class, \n[17] would gaze listlessly through the opening...\! at the shadows of the trees, the clouds creeping overhead.\"
+      text: \"Todos los días durante en clase, \n[17] se quedaba mirando sin interés por la abertura...\! bservando las sombras de los árboles, las nubes que se movían lentamente por el cielo.\"
 
 book4_3:
-      text: \"His mind drifted elsewhere...\! into his own worlds, his own stories, his own adventures.\"
+      text: \"Su mente divagaba a otra parte...\! hacia sus propios mundos, sus propias historias, sus propias aventuras.\"
 
 book4_4:
-       text: \"He had a habit of doing this.\!<br>It was easy for him to get lost.\"
+       text: \"Tenía el hábito de hacer esto.\!<br>Era fácil para él distraerse.\"
 
 book4_5:
-      text: \"Today was the same as any other.\! \n[17] stared vacantly out the small window as the clouds passed one by one.\"
+      text: \"Hoy fue igual que cualquier otro.\! \n[17] miraba al vacío por la pequeña ventana mientras las nubes pasaban una por una.\"
 
 book4_6:
-      text: \"Suddenly, a hand playfully slaps his back, snapping him out of his reverie.\! \n[17] looks away from the opening.\"
+      text: \"De pronto, una mano le da una palmada juguetona en la espalda,despertándolo de su fantasía.\! \n[17] deja de mirar por la abertura.\"
 
 book4_7:
-      text: \"KEL smiles.\! He motions that class is over and that it's finally time for lunch.\! It's pizza day today, and they <br>need to bolt to the cafeteria before it's all gone.\"
+      text: \"KEL sonrie.\! Señala que la clase ha terminado y que por fin es la hora del almuerzo.\! Hoy toca pizza, y <br>necesitan salir corriendo a la cafetería antes de que no quede nada.\"
 
 book4_8:
-      text: \"\n[17]'s stomach growls.\! He looks at the small window one last time.\"
+      text: \"El estómago de \n[17] ruge.\! Y mira la pequeña ventana por última vez.\"
 
 book4_9:
-      text: \"He would have to continue his adventure another day.\"
+      text: \"Tendrá que continuar su aventura otro día.\"
       
 #========================================================================================
 # Statue at the Lake:
 #========================================================================================
 
 book5_1:
-      text: \"It's sunset.\! A strange statue watches over the hidden lake.\! It might have meant something significant in the past, but time has made it's engravings illegible.\"
+      text: \"Es el atardecer.\! Una extraña estatua vigila el lago escondido.\! Puede que haya tenido un significado relevante en el pasado, pero el tiempo ha hecho que su inscripción sea ilegible.\"
 
 book5_2:
-      text: \"Either way, it doesn't matter to the company visiting <br>it today.\! They're only here to use it as a diving board.\"
+      text: \De cualquier manera,no tiene importancia para el grupo que lo <br> visita hoy.\! Solo están aquí para usarlo como plataforma de clavados.\"
 
 book5_3:
-      text: \"The brothers take turns jumping off the statue.\"
+      text: \"Los hermanos se turnan para saltar de la estatua.\"
 
 book5_4:
-      text: \"HERO jumps first.\! Then, KEL.\! <br>Then HERO again.\! Then KEL again.\"
+      text: \"HERO salta primero.\! Luego, KEL.\! <br>luego HERO de nuevo.\! luego KEL otra vez.\"
 
 book5_5:
-      text: \"The brothers gleefully urge \n[17] to join them, and after some careful thought, \n[17] warily agrees.\"
+      text: \"Los hermanos animan con entusiasmo a \n[17] a que se les una, y después de pensarlo detenidamente \n[17] acepta con cautela.\"
 
 book5_6:
-      text: \"\n[17] shuffles up the statue, and looks down at the moving water.\! He can hear his heartbeat.\! His ears begin to ring.\"
+      text: \"\n[17] sube lentamente por la estatua y mira hacia al agua en movimiento.\! Puede escuchar los latidos de su corazón.\! Sus oídos empiezan a zumbarle.\"
 
 book5_7:
-      text: \"His legs feel as if they would give out at any time.\! He tries to focus on his breathing...\"
+      text: \"Siente que sus piernas cederán en cualquier instante.\! Intenta concentrarse en su respiración...\"
 
 book5_8:
-      text: \"He feels something crawling on his shoulder and his eyes fly open to meet with those of a black spider.\"
+      text: \"Siente algo arrastrándose en su hombro y sus ojos se abren de golpe para encontrarse con una araña negra.\"
 
 book5_9:
-      text: \"In an instant, \n[17] loses all sense and hurls himself into the lake.\! Water fills his nose.\! He exerts his limbs, but the water is stronger.\"
+      text: \"En un instante, \n[17] pierde el control y se lanza al lago.\! El agua le entra por la nariz.\! Mueve con fuerza sus miembros, pero el agua es superior.\"
 
 book5_10:
-      text: \"He's too weak, too helpless...\! or that is what he believes.\"
+      text: \"Es demasiado débil, demasiado indefenso...\! o eso es lo que él cree.\"
 
 book5_11:
-      text: \"\n[17] shuts his eyes...\! <br>and waits for the brothers to save him.\"
+      text: \"\n[17] cierra los ojos...\! <br>y espera a que los hermanos lo salven.\"
       
 #========================================================================================
 # Saturday Morning Cartoons:
 #========================================================================================
 
 book6_1:
-      text: \"Everyone is over again today.\!<br>The special occasion is Saturday morning.\"
+      text: \"Todos están aquí de nuevo hoy.\!<br>La ocasión especial es la mañana del sábado.\"
 
 book6_2:
-      text: \"From 7:00AM to 11:00AM, a group of six friends eat a delicious homemade breakfast and watch T.V. together.\"
+      text: \"Desde las 7:00 de la mañana hasta las 11:00, un grupo de seis amigos come un rico desayuno hecho en casa y ven la tele juntos.\"
 
 book6_3:
-      text: \"It's the most enjoyable part of every week.\"
+      text: \"Es la parte más agradable de cada semana.\"
 
 book6_4:
-      text: \"\n[17] looks at the clock.\! 8:00AM.\! Two hours left.\"
+      text: \"\n[17] mira el reloj.\! 8:00AM.\! Quedan dos horas.\"
 
 book6_5:
-      text: \"He would be able to watch with everyone else until 10:00AM, when his tutor arrives.\"
+      text: \"Sería capaz de mirar con todos los demás hasta las 10:00 de la mañana, que es cuando llega su profesor particular.\"
 
 book6_6:
-      text: \"\n[17] grimaces.\! What he thought would be a rewarding hobby has been nothing more than a nuisance.\"
+      text: \"\n[17] pone mala cara.\! Lo que pensó que sería un pasatiempo gratificante no ha sido más que una molestia.\"
 
 book6_7:
-      text: \"Instead of watching the shows with the rest of his friends, he'll be the only one to miss out.\"
+      text: \"En lugar de ver los programas con el resto de sus amigos, él será el único que se lo pierda.\"
 
 book6_8:
-      text: \"If only he could watch the last hour with everyone else.\"
+      text: \"Si tan solo pudiera ver la última hora con todos los demás.\"
 
 book6_9:
-      text: \"If only he didn't have to play the violin...\"
+      text: \"Si tan solo no tuviera que tocar el violín...\"
 
 # MISC --------------
 
 #Castle rubble
 
 message_misc_1:
-    text: This wall has collapsed,\. but the rubble is too clustered to be cleared from this side.
+    text: Esta pared se ha derrumbado,\. pero los escombros están muy concentrados como para sacarlos de este lado.
 
 message_misc_2:
-    text: There's some rubble blocking the tunnel.\! Remove it?
+    text: Hay algunos escombros bloqueando el túnel.\! ¿Removerlos?
 
 message_misc_3:
-    text: You clear the rubble.
+    text: Retiras los escombros.
 
 #Castle Elevator
 
 elevator_chambers:
-    text: THE CHAMBERS
+    text: LAS CÁMARAS
     
 elevator_foyer:
-    text: THE FOYER
+    text: EL VESTÍBULO
     
 elevator_nevermind:
-    text: NEVERMIND
+    text: NO IMPORTA
     
 elevator_choice:
-    text: Where do you want to go?
+    text: ¿A dónde quieres ir?
     
 #Boss/Mini-boss Warning
 
 message_misc_boss:
-    text: Something might happen if you proceed.\!<br>Are you sure you'd like to continue?
+    text: Podría pasar algo si procedes.\!<br¿Estás seguro de que quieres continuar?
 
 message_metro_enemies:
-    text: There's a lot of enemies in there...\!<br>Are you sure you'd like to continue?
+    text: Hay muchos enemigos ahí dentro....\!<br>¿Estás seguro de que quieres continuar?
 
 # ================================================================
 #                  SCENE RELATED FLAVOR
@@ -356,20 +356,20 @@ message_metro_enemies:
 
 # ================ Sweetheart Stage Hole + Trapdoor Cue ================
 stage_hole_1:
-      text: The hole seems to have opened again...\. But you have no reason to go down it yet.
+      text: El agujero parece haberse abierto de nuevo...\. Pero todavía no tienes razón para descender.
 
 stage_hole_1a:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 38
-    text: \n<SPACEBOY>Is something the matter?\! The trapdoor is bottom left side of the stage.\. I don't think we want to fall down there.
+    text: \n<SPACEBOY>¿Pasa algo?\! La trampilla está en la parte inferior izquierda del escenario.\. No creo que queramos caernos por ahí.
 
 # Examine Hole, This follows black_space_rev.yaml base game for holes
 stage_hole_2:
-      text: It's a long way down...\| Do you want to jump?
+      text: Es una caída muy larga......\| ¿Quieres saltar?
 
 # Flavor text on rococo after cutscenes
 rococo_busy:
-      text: ROCOCO seems to be too immersed in the art to notice you...
+      text: ROCOCO parece estar demasiado inmerso en el arte para darse cuenta de ti...
 
 # ================================================================
 #                   MEDIA LOCK FLAVOR
@@ -377,20 +377,20 @@ rococo_busy:
 
 # First sentence - depend on item
 medialock_haltia:
-      text: It's a stop sign.\! Something feels odd about it...
+      text: Es una señal de alto.\! Hay algo extraño en ella...
 
 medialock_alice:
-      text: It's a bear trap.\! Something feels odd about it...
+      text: Es una trampa para osos.\! Hay algo extraño en ella...
 
 medialock_vines:
-      text: It's bunch of dense vines.\! Something feels odd about it...
+      text: Es un montón de enredaderas densas.\! Hay algo extraño en ella...
 
 medialock_match:
-      text: It's a matchbox.\! Something feels odd about it...
+      text: Es una caja de fósforos.\! Hay algo extraño en ella...
 
 # Second sentence
 medialock_gen:
-      text: Looking at it fills you with a need for \c[11]inspiration\c[0].
+      text: Mirarlo te llena de una necesidad de \c[11]inspiración\c[0].
 
 # ================================================================
 #                    GENERIC FLAVOR
@@ -400,194 +400,195 @@ medialock_gen:
 
 #
 cc_0:
-  text: Flamingo.
+  text: Flamenco.
 
 cc_0_1:
-  text: A defiant flamingo.
+  text: Un flamenco desafiante.
   
 #
 cc_1:
-  text: A fallen painting.
+  text: Un cuadro caído.
   
 #
 cc_2:
-  text: This bed has been torn into pieces.
+  text: Esta cama ha sido hecha pedazos.
   
 #
 cc_3:
-  text: Once, this couch was likely beautiful.
+  text: Una vez, este sofá fue probablemente hermoso.
   
 #
 cc_4:
-  text: Remarkably, this lamp is still intact.\! The glass is shaped into an intricate rose.
-  
+  text: Sorprendentemente, esta lámpara todavía está intacta\! El cristal tiene la forma de una rosa compleja.
+
 # normal vase
 cc_5:
-  text: A cared-for plant.
+  text: Una planta cuidada.
   
 # broken vase
 cc_6:
-  text: A less cared-for plant.
+  text: Una planta menos cuidada.
   
 #
 cc_7:
-  text: The sink has become a geyser.\! Someone should probably do something about this.
-  
+  text: El fregadero se ha convertido en un géiser.\! Alguien debería hacer algo al respecto.
+
 # rose bush
 cc_8:
-  text: There's a disproportionate amount of thorns to roses.
+  text: Hay una cantidad desproporcionada de espinas en comparación con las rosas.
   
 # next to elevator
 cc_9:
-  text: The wallpaper has been torn apart.\! ...\|But SPROUT MOLES don't have hands?
+  text: El papel tapiz ha sido arrancado.\! ...\|¿Pero los BROTOPOS no tienen manos?
 
 # theater  
 cc_10:
-  text: This seat obviously belongs to SWEETHEART.
+  text: Este asiento obviamente le pertenece a SWEETHEART.
 
 cc_10_1:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 17
-    text: \n<SWEETHEART>What are you looking at?\! This seat belongs to me, obviously.
+    text: \n<SWEETHEART>¿Qué estás mirando?\! Este asiento me pertenece, obviamente.
 
 #
 cc_11:
-  text: A bust of SWEETHEART.
+  text: Un busto de SWEETHEART.
   
 # headless
 cc_12:
-  text: A bust without SWEETHEART.
+  text: Un busto sin SWEETHEART.
   
 # gallery paintings
 cc_13:
-  text: ROCOCO's.\..\..\. art.
+  text: El arte .\..\..\. de ROCOCO.
   
 # gal + old room
 cc_14:
-  text: ROCOCO's bed.\! Frame not included.
+  text: La cama de ROCOCO.\! Marco no incluido.
 
 cc_15:
-  text: A painting has fallen on this bed.
+  text: Un cuadro ha caído sobre esta cama.
 
 cc_16:
-  text: Tea cup and kettle.
+  text: Taza de té y tetera.
 
 cc_17:
-  text: Some broken eggs on a pedestal.\. Their artistic meaning is unclear.
+  text: Algunos huevos rotos sobre un pedestal.\. Su significado artístico no está claro.
 
 cc_18:
-  text: This art piece looks discomforted.
+  text: Esta obra de arte parece incómoda.
 
 cc_19:
-  text: A broken tea table.
+  text: Una mesa de té rota.
 
 cc_20:
-  text: The table is intact, albeit the teaset is broken.
+  text: La mesa está intacta, aunque el juego de té está roto.
 
 cc_21:
-  text: A broken wilted plant.
+  text: Una planta rota y seca.
 
 cc_22:
-  text: Vines have claimed this birdhouse.
+  text: Las enredaderas se han apoderado de esta pajarera.
 
 cc_23:
-  text: This teaset was violently thrown on the floor.
+  text: Este juego de té fue arrojado violentamente al suelo.
 
 cc_24:
   text: Holey moley.
 # Rococo old room
 cc_25:
-  text: \n<CANDLE BUNNY>\sinv[1]Pyon?
+  text: \n<CONEJO VELA>\sinv[1]Pyon?
 
 cc_26:
-  text: With nothing else in the room,\. the CANDLE BUNNY finds solitude in its new domain.
+  text: Sin nada más en la habitación,\. el CONEJO VELA encuentra la soledad en su nuevo territorio.
 
 # Elevator
 cc_27:
-  text: Music of a broken dream.
+  text: Música de un sueño roto.
 
 # Elevator
 cc_28:
-  text: An oven.\. It smells of burnt food.
+  text: Un horno.\. Huele a comida quemada.
 
 # painting tag spaceboy
 cc_painting_1:
-  text: A painting of spaceboy.
+  text: Un cuadro de Spaceboy.
 
 cc_painting_2:
     faceset: MainCharacters_ReverieDreamworld
     faceindex: 38
     text: \n<SPACEBOY>...
 
+# h????
 cc_29:
   text: h.
 
 cc_30:
-  text: Miraculously, this fountain hasn’t aged a bit.\. The water inside looks tasty...
+  text: Milagrosamente, esta fuente no ha envejecido nada.\. El agua de dentro parece sabrosa...
 
 cc_31:
-  text: Time has taken its toll on this pot, but maybe it can still house a plant.
+  text: El tiempo ha deteriorado esta maceta, pero quizá aún sirva para una planta.
 
 cc_32:
-  text: These pans are surprisingly not rusted.\. They’re probably still useable for cooking.
+  text: Estas sartenes sorprendentemente no están oxidadas.\. Probablemente todavía se puedan usar para cocinar.
 
 cc_33:
-  text: A soft glow is emitted by the fireplace.\. It’s warm...
+  text: A soft glow is emitted by the fireplace.\. Es reconfortante...
 
 cc_34:
-  text: It is not alive.
+  text: No está vivo.
 
 cc_35:
-  text: Yellow roses.\. They symbolize friendship and joy.
+  text: Rosas amarillas.\. Simbolizan la amistad y la alegría.
 
 cc_36:
-  text: Paint buckets, of prime quality made from the finest pigments.
+  text: Cubos de pintura, de primera calidad hechos con los pigmentos más finos.
 # ================ SPROUT MOLE TOWN flavor ================
 
 # destroyed ticket booth
 sm_0:
-  text: The box office is closed.
+  text: La taquilla está cerrada.
 
 sm_1:
-  text: This mole is having fun.
+  text: Este topo se está divirtiendo.
 
 sm_1_1:
-  text: This sprout mole is stupid.
+  text: Este brotopo es estúpido.
 
 sm_2:
-  text: A science experiment.\. You probably shouldn’t touch it...
+  text: Un experimento científico.\. Probablemente no deberías tocarlo...
 
 sm_3:
-  text: This is a lifelike cutout.
+  text: Este es un recorte realista.
 
 sm_4:
-  text: \n<WARDEN MOLE>We're training our moles to run fast now, too, and what's a better motivator than seemingly real danger?\. That was the idea behind the cutouts.
+  text: \n<TOPO GUARDIÁN>Ahora también estamos entrenando a nuestros topos para que corran rápido ¿Y qué mejor motivador que un peligro aparentemente real?\. Esa fue la idea detrás de los recortes.
 
 sm_5:
-  text: \n<SPROUT MOLE>Huff...\. Puff...
+  text: \n<BROTOPO>Huff...\. Puff...
   
 sm_6:
-  text: A very large, happy outlet.
+  text: Una toma de corriente muy grande y feliz.
 # ================ PAINTING HELL ROOM ================
 
 painting_1:
-      text: A very normal painting.
+      text: Una pintura muy normal.
 
 block_other_side:
-      text: The hole is blocked from the other side.
+      text: El agujero está bloqueado desde el otro lado.
 
 block_push:
-      text: You pushed something in the wall.
+      text: Empujaste algo en la pared.
 
 # ================ PYREFLY ================
 pyr_1:
-      text: A picnic basket.
+      text: Una canasta de picnic.
 
 # ================ SCHOOL ================
 # Doorway
 sch_1:
-      text: A bright glow emenates from the door way...\. You can't see anything in it.
+      text: Un resplandor brillante sale de la puerta...\. No logras ver nada dentro.
 
 # Lethal Injection Skill Gain
 sch_2:
-      text: A variety of disused medical supplies...
+      text: Una variedad de suministros médicos sin usar.
