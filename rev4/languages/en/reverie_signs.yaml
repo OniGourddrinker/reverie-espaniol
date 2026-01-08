@@ -1,6 +1,6 @@
 # =========================================================================================
 # Bird Signs for Reverie
-# See signs.yaml for original version.
+# See signs.yaml for original version. cuac o mantener Cuac
 # =========================================================================================
 
 #DIRECTIONS:
@@ -15,39 +15,39 @@
 
 # VAST FOREST - METRO B1
 vf_1:
-      text: \n<MR. PARROT>Squak!\! (\i[1]\c[11]TRAIN PLATFORM\c[0])\!<br>Squak, squak!\! (\i[2]\c[11]FRONT GATE\c[0])
+      text: \n<SR. LORO>Cuac!\! (\i[1]\c[11]ANDÉN DEL TREN.\c[0])\!<br>Cuac, cuac!\! (\i[2]\c[11]PUERTA FRONTAL\c[0])
 
 # FALLEN WORLD
 fw_1:
-      text: \n<MRS. PARROT>Cheep!\! (\i[1]\c[11]MAKESHIFT TOWN\c[0])\!<br>Cheep, cheep!\! (\i[2]\c[11]TRAIN STATION\c[0])\!<br>Cheep, cheep, cheep!\! (\i[4]\c[11]SHATTERED FIELDS\c[0])
+      text: \n<SRA. LORA>¡Pío!\! (\i[1]\c[11]PUEBLO IMPROVISADO\c[0])\!<br>Pio, ¡Pío!\! (\i[2]\c[11]ESTACIÓN DE TREN\c[0])\!<br>Pio, Pio, ¡Pío!\! (\i[4]\c[11]CAMPOS FRAGMENTADOS\c[0])
 
 fw_2:
-      text: \n<MRS. PARROT>Cheep!\! (\i[1]\c[11]HEADQUARTERS\c[0])\!<br>Cheep, cheep!\! (\i[2]\c[11]JUNKYARD\c[0])\!<br>Cheep, cheep, cheep!\! (\i[3]\c[11]SHATTERED FIELDS\c[0])
+      text: \n<SRA. LORA>¡Pío!\! (\i[1]\c[11]CUARTEL GENERAL\c[0])\!<br>Pio, ¡Pío!\! (\i[2]\c[11]CHATARRERÍA\c[0])\!<br>Pio, Pio, ¡Pío!\! (\i[3]\c[11]CAMPOS FRAGMENTADOS\c[0])
 
 fw_3:
-      text: \n<MRS. PARROT>Cheep!\! (\i[1]\c[11]CRATER FIELDS\c[0])\!<br>Cheep, cheep!\! (\i[3]\c[11]JUNKYARD\c[0])\!<br>Cheep, cheep, cheep!\! (\i[4]\c[11]UNDERGROUND STORAGE\c[0])
+      text: \n<SRA. LORA>¡Pío!\! (\i[1]\c[11]CAMPOS DE CRÁTERES\c[0])\!<br>Pio, ¡Pío!\! (\i[3]\c[11]CHATARRERÍA\c[0])\!<br>Pio, Pio, ¡Pío!\! (\i[4]\c[11]ALMACÉN SUBTERRÁNEO\c[0])
 
 fw_4:
-      text: \n<MRS. PARROT>Cheep!\! (\i[1]\c[11]CARGO YARD\c[0])\!<br>Cheep, cheep!\! (\i[3]\c[11]MAKESHIFT TOWN\c[0])\!<br>Cheep, cheep, cheep!\! (\i[7]\c[11]CAMPSITE\c[0])
+      text: \n<SRA. LORA>¡Pío!\! (\i[1]\c[11]PATIO DE CARGA\c[0])\!<br>Pio, ¡Pío!\! (\i[3]\c[11]PUEBLO IMPROVISADO\c[0])\!<br>Pio, Pio, ¡Pío!\! (\i[7]\c[11]CAMPAMENTO\c[0])
 
 fw_5:
-      text: \n<MRS. PARROT>Cheep!\! (\i[1]\c[11]LANDFILL ALPINES\c[0])\!<br>Cheep, cheep!\! (\i[3]\c[11]JUNKYARD\c[0])\!<br>Cheep, cheep, cheep!\! (\i[7]\c[11]MAKESHIFT TOWN\c[0])
+      text: \n<SRA. LORA>¡Pío!\! (\i[1]\c[11]PRADERAS DEL VERTEDERO\c[0])\!<br>Pio, ¡Pío!\! (\i[3]\c[11]CHATARRERÍA\c[0])\!<br>Pio, Pio, ¡Pío!\! (\i[7]\c[11]PUEBLO IMPROVISADO\c[0])
 
 # CRUMBLING CASTLE
 cc_1:
-      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]SWEETHEART'S CASTLE\c[0])\!<br>Graa, graa!\! (\i[2]\c[11]FOREST OF THE LOST\c[0])\!<br>Graa, graa, graa!\! (It's scary behind the weeds there!)
+      text: \n<SRA. FLAMENCO>Graa!\! (\i[1]\c[11]CASTILLO DE SWEETHEART\c[0])\!<br>Graa, graa!\! (\i[2]\c[11]BOSQUE DE LOS PERDIDOS\c[0])\!<br>Graa, graa, graa!\! (¡Da miedo detrás de las hierbas!)
 
 cc_2:
-      text: \n<MRS. FLAMINGO>Graa!\! (Rubbles blocking the path made my directions outdated)\!<br>Graa, graa!\! (That's the way the castle crumbles)\!
+      text: \n<SRA. FLAMENCO>Graa!\! (Los escombros que bloquean el camino hicieron que mis indicaciones quedaran anticuadas)\!<br>Graa, graa!\! (Así son las cosas cuando el castillo cae)\!
 
 cc_3:
-      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]THE DUNGEON\c[0])\!<br>Graa, graa!\! (\i[3]\c[11]THE ROYAL KITCHEN\c[0])\!<br>Graa, graa, graa!\! (\i[4]\c[11]THE ROYAL CHAMBERS\c[0])
+      text: \n<SRA. FLAMENCO>Graa!\! (\i[1]\c[11]EL CALABOZO\c[0])\!<br>Graa, graa!\! (\i[3]\c[11]COCINA DEL PALACIO\c[0])\!<br>Graa, graa, graa!\! (\i[4]\c[11]LOS APOSENTOS REALES\c[0])
 
 cc_4:
-      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]LIFT TO THE ROYAL CHAMBERS\c[0])\!<br>Graa, graa!\! (It's a bit broken though...)
+      text: \n<SRA. FLAMENCO>Graa!\! (\i[1]\c[11]ELEVADOR A LOS APOSENTOS REALES\c[0])\!<br>Graa, graa!\! (Aunque está un poco roto...)
 
 cc_5:
-      text: \n<MRS. FLAMINGO>Graa!\! (\i[2]\c[11]FOREST OF THE LOST\c[0])\!<br>Graa, graa!\! (This looping forest made me lost!)
+      text: \n<SRA. FLAMENCO>Graa!\! (\i[2]\c[11]BOSQUE DE LOS PERDIDOS\c[0])\!<br>Graa, graa!\! (¡Este bosque infinito hizo que me perdiera!)
 
 cc_6:
-      text: \n<MRS. FLAMINGO>Graa!\! (Bear with me!)\!<br>Graa, graa!\! (I said, bear with me!)
+      text: \n<SRA. FLAMENCO>Graa!\! (¡Tengame paciencia!)\!<br>Graa, graa!\! (¡Dije, tengame paciencia!)

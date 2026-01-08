@@ -1,13 +1,13 @@
 message_0:
-        text: \n<SHOPKEEP>Did my boombox catch your eye?\! Feel free to play whatever you want on it, free of charge!\! Oh, don't worry about inserting tapes.\! It'll know what you want to play.
+        text: \n<VENDEDOR>¿Te ha llamado la atención mi radiocasete?\! Siéntete libre de poner lo que quieras, es gratis\! Ah, y no te preocupes por insertar cintas.\! el aparato sabra lo qué quieres reproducir.?\!
       
 message_1:
-        text: A boombox that can play any song you've heard during your adventure.\! Which album will you play?
+        text: Una radiograbadora que puede reproducir cualquier canción que hayas escuchado durante tu aventura.\! ¿Qué álbum quieres escuchar?
     
 message_2:
-        text: Do you want to turn off the boombox?
+        text: ¿Quieres apagar el radiocasete?
 
-# song names starting with chapter 1
+# song names starting with chapter 1. Decido mantener los nombres en ingles ya que es musica y sea mas facil de encontralos en int
 
 chap_1:
         text: METRO-SIDE
@@ -15,10 +15,10 @@ chap_2:
         text: SPACE-SIDE
 
 song_choose:
-        text: Choose which song you'd like to play.
+        text: Elige una canción para reproducir.
     
 song_cant:
-        text: You haven't heard this one yet...
+        text: Aún no conoces este tema...
 
 song_unknown:
         text: "???"

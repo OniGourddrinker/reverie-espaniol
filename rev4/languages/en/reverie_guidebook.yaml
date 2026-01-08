@@ -1,8 +1,8 @@
 
 # =========================================================================================
-# Bestiary
+# Bestiary pleas lord help me con esto
 # =========================================================================================
-EmptyEnemyName: 'INFO BOOK!'
+EmptyEnemyName: '¡LIBRO DE INFORMACIÓN!'
 Information:
   # =========================================================================================
   # INFO
@@ -19,22 +19,22 @@ Information:
     pages:
       1:
         text: |
-          \c[4]LUCK\c[0] affects both the odds
-          of inflicting, and receiving 
-          \c[4]CRITICAL\c[0] hits and \c[4]AILMENTS\c[0].
+          \c[4]SUERTE\c[0] Afecta tanto a la probabilidad
+          de infligir como de recibir 
+          golpes \c[4]CRITICOS\c[0] y \c[4]ALTERACIONES\c[0].
 
-          In detail, The odds are based on 
-          the difference between the user
-          and target's luck.
+          En detalle, las probabilidades se basan 
+          en la diferencia de suerte entre el usuario
+          y el objetivo.
           
-          Each point of difference 
-          increases the chance of inflicting
-          and decreases the chance of 
-          receiving \c[4]CRITICAL\c[0] hits
-          or \c[4]AILMENTS\c[0] by \c[4]2%\c[0].
+          Cada punto de diferencia 
+          aumenta la probabilidad de infligir
+          y disminuye la probabilidad de recibir 
+          recibir golpes \c[4]CRITCOS\c[0]
+          o \c[4]ALTERACIONES\c[0] por \c[4]2%\c[0].
           
-          The majority of skills, including basic 
-          attacks, have a \c[4]base rate of 5%\c[0].
+          La mayoría de las habilidades, incluidos los 
+          los ataques básicos, tienen una \c[4]probabilidad base del 5%.\c[0].
   2:
     name: |
       \c[4]STATS:\c[0] EVASION
@@ -47,13 +47,13 @@ Information:
     pages:
       1:
         text: |
-          The \c[4]EVASION\c[0] stat is a new stat that  
-          reduces the odds of being hit by an 
-          attack.
+          La estadística \c[4]EVASIÓN\c[0] es un nuevo parámetro  
+          que reduce las probabilidades de ser golpeado
+          por un ataque.
           
-          Hit rate is now the difference
-          between the attacker's \c[4]HIT RATE\c[0],
-          and the defender's \c[4]EVASION\c[0].
+          La precisión es ahora la diferencia
+          entre la \c[4]PRECISIÓN\c[0] del atacante,
+          y la \c[4]EVASIÓN\c[0] del defensor.
   3:
     name: |
       \c[4]BUFFS:\c[0] OVERVIEW
@@ -66,12 +66,12 @@ Information:
     pages:
       1:
         text: |
-          Both BUFFS and DEBUFFS are now on
-          the same spectrum. Buffing will 
-          reduce debuff tiers, and vice versa.
+          Tanto las MEJORAS como las DESMEJORAS
+          están ahora en el mismo espectro. 
+          reduce debuff NIVELs, Aplicar una mejora
+          reducirá los niveles de desmejora y viceversa.
           
-          Their effects also no longer 
-          expire on their own.
+          Además, sus efectos ya no expiran por sí solos.
   4:
     name: |
       \c[4]BUFFS:\c[0] ATTACK & DEFENSE
@@ -84,18 +84,18 @@ Information:
     pages:
       1:
         text: |
-          Both ATTACK and DEFENSE buffs are 
-          now multiplicative on damage values, 
-          rather than changing base ATTACK 
-          or DEFENSE stats.
+          Tanto las mejoras de ATAQUE como las de DEFENSA 
+          son ahora multiplicativas en los valores de daño, 
+          en lugar de modificar las estadísticas base de ATAQUE
+          o DEFENSA.
 
-          Each tier of ATTACK BUFF increases 
-          damage dealt by \c[4]x1.15\c[0]; 
-          DEBUFF decreases by \c[4]x0.85\c[0].
+          Cada nivel de MEJORA DE ATAQUE aumenta
+          el daño infligido en un \c[4]x1.15\c[0]; 
+          y cada DESMEJORA en un \c[4]x0.85\c[0].
 
-          Each tier of DEFENSE BUFF reduces 
-          damage received by \c[4]x0.85\c[0]; 
-          DEBUFF increases by \c[4]x1.15\c[0].
+          Cada nivel de MEJORA DE DEFENSA reduce 
+          el daño recibido en un \c[4]x0.85\c[0]; 
+          y cada DESMEJORA incrementa en un \c[4]x1.15\c[0].
   5:
     name: |
       \c[4]BUFFS:\c[0] SPEED
@@ -108,19 +108,19 @@ Information:
     pages:
       1:
         text: |
-          SPEED buffs are now weaker than
-          base OMORI, especially the last tier.
-          Debuffs remain the same.
+          Las mejoras de VELOCIDAD son ahora más débiles
+          que en el OMORI base, especialmente el último nivel.
+          Las DESMEJORAS se mantienen igual.
 
-          Numbers are the following:
+          Los valores son los siguientes:
           
-          \c[4]TIER 3:\c[0] x300% (From x500%)
-          \c[4]TIER 2:\c[0] x200%
-          \c[4]TIER 1:\c[0] x150%
+          \c[4]NIVEL 3:\c[0] x300% (Antes x500%)
+          \c[4]NIVEL 2:\c[0] x200%
+          \c[4]NIVEL 1:\c[0] x150%
 
-          \c[4]TIER -1:\c[0] x80%
-          \c[4]TIER -2:\c[0] x50%      
-          \c[4]TIER -3:\c[0] x25%
+          \c[4]NIVEL -1:\c[0] x80%
+          \c[4]NIVEL -2:\c[0] x50%      
+          \c[4]NIVEL -3:\c[0] x25%
   6: 
     name: |
       \c[4]BUFFS:\c[0] HIT & EVASION
@@ -133,20 +133,21 @@ Information:
     pages:
       1:
         text: |
-          HIT RATE and EVASION 
-          (HIT/EVA in short) 
-          changes both the HIT RATE 
-          and EVASION stat. 
+          PRECISIÓN y EVASIÓN 
+          (PRE/EVA en corto) 
+          cambia tanto las estadísticas
+          de PRECISIÓN y EVASIÓN. 
           
-          Numbers are the following:
           
-          \c[4]TIER 3:\c[0] +45%
-          \c[4]TIER 2:\c[0] +30%
-          \c[4]TIER 1:\c[0] +15%
+          Los valores son los siguientes:
+          
+          \c[4]NIVEL 3:\c[0] +45%
+          \c[4]NIVEL 2:\c[0] +30%
+          \c[4]NIVEL 1:\c[0] +15%
 
-          \c[4]TIER -1:\c[0] -15%
-          \c[4]TIER -2:\c[0] -30%      
-          \c[4]TIER -3:\c[0] -45%
+          \c[4]NIVEL -1:\c[0] -15%
+          \c[4]NIVEL -2:\c[0] -30%      
+          \c[4]NIVEL -3:\c[0] -45%
   7: 
     name: |
       \c[4]AILMENTS:\c[0] OVERVIEW
@@ -160,22 +161,24 @@ Information:
     pages:
       1:
         text: |
-          AILMENTS are negative status 
-          effects, some of them being 
-          emotion-based.
-
-          AILMENT rate operates similarly to
-          CRITICAL rate, being based on the
-          difference of the \c[4]LUCK\c[0] stat, with  
-          each skill having specific base chance.
+          Las ALTERACIONES son efectos
+          de estado negativos,
+          algunos de los cuales
+          se basan en las emociones. 
           
-          Only one can be applied at a time, 
-          with non-emotional AILMENTS having 
-          a higher priority.
 
-          \c[11]More info on enemies weaknesses can
-          \c[11]be seen when holding UP or DOWN
-          \c[11]keys while hovering over enemies.
+          Al igual que con los golpes CRITICOS
+          La probabilidad de causar ALTERACIONES
+          depende de tu \c[4]SUERTE\c[0] cuanta más tengas 
+          respecto al enemigo, más fácil será acertar.
+          
+          Solo se puede aplicar uno a la vez, 
+          teniendo prioridad las ALTERACIONES
+          no emocionales.
+
+          \c[11]Puedes ver más información sobre las debilidades de los enemigos
+          \c[11]manteniendo pulsadas las teclas ARRIBA o ABAJO
+          \c[11]mientras selecionas sobre ellos.
   8: 
     name: |
       \c[4]AILMENTS:\c[0] EMOTION
@@ -189,22 +192,22 @@ Information:
     pages:
       1:
         text: |
-          Emotional AILMENTS requires the 
-          target to have a specific emotion
-          before it can be applied.
+          Las ALTERACIONES emocionales requieren 
+          que el objetivo tenga una emoción específica
+          antes de poder aplicarse.
 
-          While being under its influence, it 
-          \c[4]will lock the target into that emotion.\c[0]
-          Its effects counters the emotion's 
-          benefits and exacerbates its drawbacks.
+          Mientras esté bajo su influencia, 
+          \c[4]el objetivo no podrá cambiar de emoción.\c[0]
+          Sus efectos anulan los beneficios de dicha
+          emoción y agravan sus desventajas.
 
-          Emotional AILMENTS consist of 
-          \c[4]BURN, GLOW, WEEP, and FROZEN.\c[0]
-          They last for 2-3 turns.
+          Las ALTERACIONES Emocionales consisten en 
+          \c[4]QUEMADURA, BRILLO, LLANTO y CONGELADO.\c[0]
+          Tienen una duración de 2 a 3 turnos.
 
-          Non-emotional AILMENTS consist of 
-          \c[4]SLEEP, CHARM, and SICK.\c[0]
-          They last for 1-2 turns.
+          Las ALTERACIONES no Emocionales consisten en
+          \c[4]DORMIDO, FASCINAR y ENFERMO.\c[0]
+          Tienen una duración de 1 a 2 turnos.
   9: 
     name: |
       \c[4]AILMENTS:\c[0] EFFECTS (1)
@@ -218,25 +221,25 @@ Information:
     pages:
       1:
         text: |
-          \c[4]BURN [ANGRY]:\c[0]
-          * Sets DEFENSE to 1
-          * x75% ATTACK
-          * -10% HEART per turn
-          * Prevents usage of non-damage skills
+          \c[4]QUEMADURA [ENOJADO]:\c[0]
+          * Pone DEFENSA a 1
+          * x75% ATAQUE
+          * -10% CORAZÓN por turno
+          * Impide el uso de habilidades que no inflijan daño
 
-          \c[4]WEEP [SAD]:\c[0]
-          * Sets SPEED to 1
-          * x75% DEFENSE
-          * -10% JUICE per turn
-          * Prevents usage of damage skills
-          * x200% SKILL COST
+          \c[4]LLANTO [TRISTE]:\c[0]
+          * Pone VELOCIDAD a 1
+          * x75% DEFENSA
+          * -10% JUGO por turno
+          * Impide el uso de habilidades de daño
+          * x200% COSTO DE HABILIDAD
 
-          \c[4]GLOW [HAPPY]:\c[0]
-          * -100 LUCK
-          * -50 HIT RATE
-          * -100 EVASION
-          (Due to HAPPY increasing luck, higher
-          HAPPY level also increases GLOW rate)
+          \c[4]BRILLAR [FELIZ]:\c[0]
+          * -100 SUERTE
+          * -50 PRECISIÓN
+          * -100 EVASIÓN
+          (Debido a que FELIZ sube la suerte un mayor nivel
+          de FELIZ también incrementa la tasa de BRILLO)
   10: 
     name: |
       \c[4]AILMENTS:\c[0] EFFECTS (2)
@@ -250,24 +253,24 @@ Information:
     pages:
       1:
         text: |
-          \c[4]FROZEN [NEUTRAL]:\c[0]
-          * Skips turn
-          * Cannot be healed
-          * Guaranteed to be hit
+          \c[4]CONGELADO [NEUTRO]:\c[0]
+          * Salta el turno
+          * No puede ser curado
+          * Garantizado de ser golpeado
 
-          \c[4]SLEEP:\c[0]
-          * Skips turn
-          * Guaranteed to be hit
-          * Guaranteed to take critical hit
+          \c[4]DORMIDO:\c[0]
+          * Salta el turno
+          * Garantizado de ser golpeado
+          * Garantizado de recibir CRITICOS
 
           \c[4]CHARM:\c[0]
-          * Targeting is inversed
-            (Except self skills and items)
+          * La selección de objetivos se invierte
+            (Excepto habilidades propias y objetos)
 
-          \c[4]SICK:\c[0]
-          * x60% ATK, DEF, SPD
-          * -40% HIT, EVA
-          * -7% HEART and JUICE per turn
+          \c[4]ENFERMO:\c[0]
+          * x60% ATQ, DEF, VEL
+          * -40% PRE, EVA
+          * -7% CORAZÓN y JUGO por turno
   11:
     name: |
       \c[4]MISC:\c[0] CHANGES
@@ -280,21 +283,23 @@ Information:
     pages:
       1:
         text: |
-          Up to 6 skills can now be equipped 
-          compared to original 4.
+          Ahora se pueden equipar hasta 6 habilidades 
+          a diferencia de las 4 del juego original.
 
-          SAD juice conversion is reduced:
-          \c[4]SAD:\c[0] 30% => 20%
-          \c[4]DEPRESSED:\c[0] 50% => 40%      
+          La conversion de JUGO mientras TRISTE se redujo:
+          \c[4]TRISTE:\c[0] 30% => 20%
+          \c[4]DEPRESIVO:\c[0] 50% => 40%      
           \c[4]MISERABLE:\c[0] 100% => 60%
 
-          Enemies now also use JUICE when
-          using their skills, meaning they
-          can run out of JUICE as well.
+          Ahora los enemigos también consumen
+          JUGO al usar sus habilidades, 
+          lo que significa que ellos también
+          también pueden quedarse sin JUGO
 
-          TOASTED party members now gain
-          half the experience rather than 
-          nothing at all.
+          Los miembros del equipo que estén
+          TOSTADA ahora reciben la mitad de la
+          experiencia, en lugar de no recibir nada.
+          
   12:
     name: |
       \c[4]EMOTIONS:\c[0] RECAP
@@ -307,17 +312,19 @@ Information:
     pages:
       1:
         text: |
-          See chart for general recap.
+          Consulta la tabla para ver un resumen general.
 
-          Important reminder, EMOTIONS also 
-          affect drop rates as shown:
+          Recordatorio importante las EMOCIONES
+          también afectan a la probabilidad de obtener
+          objetos, como se muestra a continuación:
 
-          \c[4]ANGRY:\c[0] +EXP
-          \c[4]HAPPY:\c[0] +CLAMS, +ITEMS
-          \c[4]SAD:\c[0] -EXP, -CLAMS
+          \c[4]ENOJADO:\c[0] +EXP
+          \c[4]FELIZ:\c[0] +ALMEJAS, +OBJETOS
+          \c[4]TRISTE:\c[0] -EXP, -ALMEJAS
 
-          Though, certain enemies may be
-          exempt to these changes.
+          Sin embargo, es posible que ciertos
+          enemigos estén exentos de estos cambios.
+          
   13:
     name: |
       \c[4]MISC:\c[0] DIFFICULTY
@@ -330,19 +337,21 @@ Information:
     pages:
       1:
         text: |
-          \c[4]NORMAL\c[0] increases damage dealt,
-          reduces damage taken, and chance 
-          to receive ailments. 
+          \c[4]NORMAL\c[0] aumenta el daño infligido,
+          reduce el daño recibido y la probabilidad 
+          de sufrir estados alterados. 
 
-          This is closer to original game 
-          experience in terms of difficulty.
+          Esta opción se asemeja más a la experiencia
+          del juego original en cuanto a dificultad.
+          
 
-          \c[4]EASY\c[0] further increase
-          the benefits NORMAL mode provides.
+          \c[4]FACIL\c[0] aumenta aún más
+          los beneficios que ofrece el modo NORMAL
 
-          \c[4]HARD\c[0] gives some enemies unique skills,
-          behavior, and increses troop size
-          occasionally.
+          \c[4]DIFICIL\c[0] otorga habilidades y comportamientos
+          unicos a algunos enemigos,además de aumentar
+          ocasionalmente el tamaño del grupo enemigo.
+          
 
-          This is the full experience as all
-          enemy mechanics are shown.
+          Esta es la experiencia completa, ya que se
+          muestran todas las mecánicas de los enemigos.

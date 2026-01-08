@@ -649,7 +649,7 @@ ljg_biscuit:
 ljg_literal_biscuit:
   text: "¡%1 tira a BISCUIT!"
   
-ljg_cover_in_life_jam-1:
+ljg_cover_in_life_jam-1: #me olvide totalmente si era mermelada vital u otra y tambien en que parte estaba 
   text: "%1 cubre a todos con MERMELADA VITAL"
   
 ljg_cover_in_life_jam-2:
@@ -1199,351 +1199,351 @@ roller_flick:
 # ====== HAROLD (BOTH) ======
 
 harold_sharpen:
-  text: "%1 sharpens its blade."
+  text: "%1 safila su hoja."
 
 harold_tackle:
-  text: "%1 tackles %2!"
+  text: "%1 embiste a %2!"
 
 harold_sweep:
-  text: "%1 delivers a sweeping attack!"
+  text: "%1 lanza un ataque de barrido!"
 
 harold_tragic:
-  text: "%1 is having a war flashback..."
+  text: "%1 revive traumas de la guerra..."
 
 # ====== MAGISTER LUCIUS ======
 
 lucius_flash:
-  text: "%1 flashes a blinding light!"
+  text: "%1 emite una luz cegadora!"
 
 lucius_lighten:
-  text: "%1 lightens up %2's mood!"
+  text: "%1 alegra el ánimo de %2!"
 
 lucius_glow:
-  text: "%1 shoots a glowing ball at %2!"
+  text: "%1 lanza una esfera luminosa a %2!"
 
 lucius_heal:
-  text: "%1 casts a healing spell on %2!"
+  text: "%1 lanza un hechizo de curación sobre %2!"
 
 # ====== CHOIR MOLE ======
 
 choir_kind_of-1:
-  text: "%1 sings a song for %2!"
+  text: "%1 canta una canción para %2!"
   
 choir_kind_of-2:
-  text: "It was kind of bad..."
+  text: "Fue un poco malo..."
 
 choir_sad:
-  text: "%1 sings a sad song for %2."
+  text: "%1 canta una canción triste para %2."
   
 choir_pace_up:
-  text: "%1 makes %2 pick up the pace!"
+  text: "%1 hace que %2 acelere el ritmo!"
   
 # ====== SOUS CHEF MOLE ======
 
 sous_skewer:
-  text: "%1 skewers %2!"
+  text: "%1 ensarta a %2!"
 
 sous_sharpen:
-  text: "%1 sharpens its fork!"
+  text: "%1 afila su tenedor!"
   
 sous_criticism:
-  text: "%1 harshly criticizes %2!"
+  text: "%1 critica duramente a %2!"
   
 # ====== GIRL IN PAINTING ======
 
 painting_brag:
-  text: "%1 brags about its artistic history!"
+  text: "%1 presume de su historia artística!"
 
 painting_annoy:
-  text: "%1 drags on and on about %2's unsightly appearance!"
+  text: "%1 no para de hablar sobre el aspecto desagradable de %2!"
 
 painting_selfcare:
-  text: "%1 takes care of her coating."
+  text: "%1 retoca su capa protectora."
 
 painting_flirt:
-  text: "%1 gives %2 \"The Look.\""
+  text: "%1 le lanza a %2 \"La Mirada.\""
   
 # ====== VIRTUOSO MOLE ====== SOME IS SHARED WITH CHOIR
 
 virtuoso_strict:
-  text: "%1 tells the choir they are not trying hard enough!"
+  text: "%1 le dice al coro que no se están esforzando lo suficiente!"
 
 virtuoso_accelerando:
-  text: "%1 speeds up the choir!"
+  text: "%1 acelera el ritmo del coro!"
 
 virtuoso_sweep:
-  text: "%1 swings his baton in a sweeping arc!"
+  text: "%1 mueve su batuta en un arco amplio!"
 
 virtuoso_retry:
-  text: "%1 tells the choir they are inadequate!"
+  text: "%1 le dice al coro que son insuficientes!"
 
 # ====== HEAD CHEF MOLE ====== SOME IS SHARED WITH SOUS CHEF
 
 chef_encourage:
-  text: "%1 encourages the others to do better."
+  text: "%1 anima a los demás a esforzarse más."
 
 chef_careful:
-  text: "%1 tells the others to be careful."
+  text: "%1 les dice a los demás que tengan cuidado."
 
 chef_burner:
-  text: "%1 starts a kitchen fire on %2!"
+  text: "%1 scausa un fuego de cocina contra %2!"
 
 chef_snacktime:
-  text: "%1 bakes snacks for his party."
+  text: "%1 cocina bocadillos para su grupo."
 
 # ====== SIR MAXIMUS IV ====== SOME IS SHARED WITH HAROLD
 
 maximus_tragedy:
-  text: "%1 narrates a heavy, heartfelt tragedy..."
+  text: "%1 relata una tragedia intensa y profunda..."
 
 maximus_practice:
-  text: "%1 reminds everyone of the battle training!"
+  text: "%1 les recuerda a todos el entrenamiento de batalla!"
 
 maximus_sweep:
-  text: "%1 delivers a hard-hitting sweeping attack!"
+  text: "%1 lanza un ataque de barrido contundente!"
 
 maximus_ultimate:
-  text: "%1 uses his great-grandfather's ultimate attack!"
+  text: "%1 usa el ataque definitivo de su bisabuelo!"
 
 # ====== ROCOCO ======
 
 rococo_tragedy:
-  text: "%1 narrates his tragic backstory..."
+  text: "%1 narra su trágica historia pasada..."
 
 rococo_encourage:
-  text: "%1 describes an uplifting painting he did."
+  text: "%1 describe una pintura inspiradora que hizo."
 
 rococo_speedpaint:
-  text: "%1 does some speed painting!"
+  text: "%1 hace un poco de pintura rápida!"
 
 rococo_misdirection:
-  text: "%1 does the art of misdirection!"
+  text: "%1 usa el arte de la distracción!"
 
 rococo_sweepstrike:
-  text: "%1 swings around a bucket of paint!"
+  text: "%1 voltea un cubo de pintura a su alrededor!"
 
 rococo_glowpaint:
-  text: "%1 spilled neon glowing paint on everyone!"
+  text: "%1 derrama pintura de brillante sobre todos!"
 
 rococo_heal:
-  text: "%1 gives %2 some healing artwork to look at?"
+  text: "%1 le muestra una obra de arte curativa a %2?"
 
 rococo_cleanally: # Clean Ally
-  text: "%1 erases his canvas clean."
+  text: "%1 deja su lienzo en blanco."
 
 rococo_cleanenemy: # Clean Enemy
-  text: "%1 crosses the line... On everyone's face"
+  text: "%1 cruza la línea... On everyone's face"
 
 rococo_summonmole:
-  text: "%1 calls in some extra help."
+  text: "%1 llama ayuda adicional."
 
 # ====== BUGS BUNNY ====== THESE THREE SHARES SPIDER SKILLS OR GENERIC
 
 bug_bunny_balance:
-  text: "%1 tries to balance on its head."
+  text: "%1 intenta mantener el equilibrio sobre su cabeza"
 
 # ====== POTTED PLANT ======
 
 potted_trip:
-  text: "%2 trips on %1's roots."
+  text: "%2 tropieza con las raíces de %1."
 
 potted_rest:
-  text: "%1 is resting in its pot."
+  text: "%1 está descansando en su maceta."
 
 # ====== SPIDER CAT ======
 
 spider_web_ball:
-  text: "%1 coughs up a web ball."
+  text: "%1 escupe una bola de telaraña."
 
 spider_suddenjump:
-  text: "%1 suddenly lunges at %2!"
+  text: "%1 de repente se lanza contra %2!"
 
 spider_scuttle: # Used by spider enemies; self-happy
-  text: "%1 happily scuttles around!"
+  text: "%1 corretea felizmente alrededor!"
 
 spider_entangle:
-  text: "%1 entangles %2 in sticky webs."
+  text: "%1 enreda a %2 en telarañas pegajosas"
 
 spider_venomous:
   text: "%1 envenomates %2 with a bite!"
 
 spider_stinging:
-  text: "%1 gives %2 a stinging bite!"
+  text: "%1 le da una picadura mordaz a %2!"
 
 # ====== CANDLE BUNNY ======
 
 candle_lighten:
-  text: "%1 lightens up %2!"
+  text: "%1 ilumina a %2!"
 
 candle_glow:
-  text: "%1 illuminates %2!"
+  text: "%1 envuelve a %2 en luz!"
 
 # ====== PYROFLY ======
 
 pyro_buzz:
-  text: "%1 buzzes excitedly..."
+  text: "%1 zumba con entusiasmo..."
 
 pyro_crackle:
-  text: "%1 makes a crackling sound."
+  text: "%1 produce un fuerte crujido."
 
 # ====== IVY ======
 
 ivy_sadden:
-  text: "%1 makes %2 tear up..."
+  text: "%1 hace que a %2 se le salten las lágrimas..."
 
 ivy_allergen:
-  text: "%1 gives %2 an allergic reaction!"
+  text: "%1 le provoca una reacción alérgica a %2!"
 
 ivy_brush:
-  text: "%1 brushes its jagged leaves on %2!"
+  text: "%1 raspa a %2 con sus hojas puntiagudas!"
   
 # ====== FIERY ======
 
 fiery_cheer_all:
-  text: "%1 cheers everyone up!"
+  text: "%1 anima a todo el mundo!"
 
 fiery_maragidyne:
-  text: "%1 throws a fire show!"
+  text: "%1 monta un espectáculo de fuego!"
 
 fiery_heat_riser:
-  text: "%1 raises the heat!"
+  text: "%1 sube la temperatura!"
 
 fiery_fandango:
-  text: "%1 does a fiery fandango!"
+  text: "%1 baila un fandango ardiente!"
 
 fiery_andalucia:
-  text: "%1 hits a barrage of jabs!"
+  text: "%1 asesta una serie de golpes rápidos!"
 
 fiery_flash:
-  text: "%1 flashes a blinding light!"
+  text: "%1 lanza una luz cegadora!"
 
 # ====== VAMPYRE ======
 # Note to translators: These are SMT skill names.
 
 vampyre_dekunda:
-  text: "%1 casts DEKUNDA!"
+  text: "%1 usa DEKUNDA!"
 
 vampyre_mediarama:
-  text: "%1 casts MEDIARAMA!"
+  text: "%1 usa MEDIARAMA!"
 
 vampyre_luster_candy:
-  text: "%1 casts LUSTER CANDY!"
+  text: "%1 usa LUSTER CANDY!"
 
 vampyre_maziodyne:
-  text: "%1 casts MAZIODYNE!"
+  text: "%1 usa MAZIODYNE!"
 
 vampyre_tragic:
-  text: "%1 reads a tragic story!"
+  text: "%1 lee una historia trágica!"
 
 vampyre_amrita:
-  text: "%1 casts AMRITA!"
+  text: "%1 usa AMRITA!"
 
 # ====== IRIS ======
 
 iris_poisonair:
-  text: "%1 releases poisonous gas everywhere!"
+  text: "%1 libera gas venenoso por todas partes!"
 
-iris_whip:
-  text: "%1 flails around serrated vines!"
+iris_whip: #no me gusto como queda
+  text: "%1 azota con sus lianas dentadas a su alrededor!"
 
 iris_strangle:
-  text: "%1 strangles %2!"
+  text: "%1 estrangula a %2!"
 
 iris_deaths_door:
-  text: "%1 puts all SICK members at death's door!"
+  text: "%1 deja a todos los miembros ENFERMOS a las puertas de la muerte!"
 
 iris_dekaja_1:
-  text: "%1 is annoyed at high BUFFS..."
+  text: "%1 se irrita ante tantas MEJORAS..."
 
 iris_dekaja_2:
-  text: "%1 drags everyone down!"
+  text: "%1 arrastra a todos abajo!"
 
 # ====== WIDOW SPIDER ======
 
 widowsp_spin_web:
-  text: "%1 spins a small web around %2!"
+  text: "%1 teje una pequeña telaraña alrededor de %2!"
 
 widowsp_venom_bite:
-  text: "%1 gives %2 a venomous bite!"
+  text: "%1 le da un mordisco venenoso a %2!"
 
 widowsp_sting_bite:
-  text: "%1 gives %2 a stinging bite!"
+  text: "%1 le da un mordisco hiriente a %2!"
 
 # ====== WIDOW BOY ======
 
 widow_poisonair:
-  text: "%1 poisons the air..."
+  text: "%1 envenena el aire..."
 
 widow_multi:
-  text: "%1 hits %2 with multiple arms!"
+  text: "%1 golpea a %2 con múltiples brazos!"
 
 widow_command:
-  text: "%1 gives commands."
+  text: "%1 da órdenes."
 
 widow_tragic:
-  text: "%1 reads out a melancholic prose."
+  text: "%1 recita una prosa melancólica."
 
 widow_encourage:
-  text: "%1 gives encouragement."
+  text: "%1 ofrece palabras de aliento."
 
 widow_web:
-  text: "%1 casts a large web over everyone!"
+  text: "%1 lanza una gran telaraña sobre todos!"
 
 widow_attackraise:
-  text: "%1 tells his friends to ready up."
+  text: "%1 dice a sus amigos que se preparen."
 
 widow_dekaja:
-  text: "%1 ensnares the party in place."
+  text: "%1 atrapa al grupo en el sitio."
   
 widow_dekunda:
-  text: "%1 tidies up the webs."
+  text: "%1 despeja las telarañas."
 
 widow_summon:
-  text: "%1 calls in his spider friends."
+  text: "%1 llama a sus amigas arañas."
 
 widow_deaths_door:
-  text: "%1 puts all SICK members at death's door!"
+  text: "%1 deja a todos los miembros ENFERMOS a las puertas de la muerte!"
 
-# ====== ALICE ======
+# ====== ALICE ====== welp vamos hacer que el staff sea baston
 
 alice_trap:
-  text: "%1 clasps %2 with her staff."
+  text: "¡%1 engancha a %2 con su bastón!"
 
 alice_raise:
-  text: "%1 knocks her staff on the floor aggressively."
+  text: ¡%1 golpea el suelo con su bastón agresivamente!"
 
 alice_sabotage:
-  text: "%1 secretly set up traps."
+  text: "%1 ha colocado trampas en secreto."
 
 alice_tragic:
-  text: "%1 narrates a tragic poem."
+  text: "%1 lee un poema trágico."
 
 alice_command:
-  text: "%1 commands her party."
+  text: "%1 da órdenes a su grupo."
 
 alice_dekunda:
-  text: "%1 tends to the animals."
+  text: "%1 atiende a los animales."
 
 alice_dekaja:
-  text: "%1 stops the party in place!"
+  text: "%1 atrapa al grupo en el sitio!"
 
 alice_summon:
-  text: "%1 let some bears out."
+  text: "%1 libera a unos osos"
   
 alice_summon-single:
-  text: "%1 let a bear out."
+  text: "%1 libera a un oso."
 
 alice_summon-fail:
-  text: "%1 was unable to call for more bears."
+  text: "%1 no pudo llamar a más osos"
 
 alice_dieforme-1:
-  text: "%1 takes advantage of the dread..."
+  text: "%1 se aprovecha del terror..."
 
 alice_dieforme-2:
-  text: "All \\c[4]WEEPING\\c[0] members are KO'ed."
+  text: "Todos los miembros \\c[4]LLORANDO\\c[0] han caído!"
 
 alice_dieforme-fail:
-  text: "%1 cannot find any \\c[4]WEEPING\\c[0] members to take advantage of."
+  text: "%1 no encuentra a ningún miembro \\c[4]LLORANDO\\c[0] para aprovecharse."
 
 alice_drain:
-  text: "%1 drains everyone's JUICE."
+  text: "%1 drena el JUGO de todos!."
