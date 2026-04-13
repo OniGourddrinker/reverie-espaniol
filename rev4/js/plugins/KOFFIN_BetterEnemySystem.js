@@ -509,6 +509,9 @@ function createDefaultMotionsForEnemy(enemy) {
         for (let enemy of group) {
             if (!enemy) continue;
             enemy.aiPriorityTags = {};
+            // Sets the default to be the base YEP ai pattern.
+            // This is only called at start, so this should not change later.
+            enemy.aiPriorityTags["DEFAULT"] = enemy.aiPattern;
             let currentTag = null;
             enemy.note.split(/\r?\n/).forEach(line => {
                 if (noteRegex.test(line)) {
@@ -525,10 +528,7 @@ function createDefaultMotionsForEnemy(enemy) {
 
     Game_Enemy.prototype.getActiveAIPriority = function() {
         var enemyData = this.enemy();
-        if (!enemyData.aiPatternDefault) {
-            enemyData.aiPatternDefault = Array.from(enemyData.aiPattern);
-        }
-        
+
         // Ensure aiPriorityTags is defined
         var priorityTags = enemyData.aiPriorityTags || {};
         
@@ -549,13 +549,14 @@ function createDefaultMotionsForEnemy(enemy) {
         }
         
         // Fallback: return the default AI Priority
-        return enemyData.aiPattern;
+        console.log(this.name(), "Got AI DEFAULT (no state found)");
+        return priorityTags["DEFAULT"];
     };
 
 
     Game_Enemy.prototype.getSpecificAI = function(tag) {
-        if (!tag || tag == "DEFAULT") {
-            return this.enemy().aiPatternDefault;
+        if (!tag) {
+            return this.enemy().aiPriorityTags["DEFAULT"];
         }
         return this.enemy().aiPriorityTags[tag];
     }

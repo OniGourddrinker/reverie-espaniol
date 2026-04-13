@@ -12575,6 +12575,18 @@ source:
       'y': 96
       width: 16
       height: 16
+  img/system/rv_sk_sugarhigh.png:
+    atlasName: rv_stateicon_special
+    rect:
+      x: 0
+      'y': 0
+      width: 16
+      height: 16
+    sourceRect:
+      x: 48
+      'y': 96
+      width: 16
+      height: 16
   img/battlebacks1/rv_info_statluck.png:
     atlasName: rv_infopages
     rect:
@@ -12716,6 +12728,18 @@ source:
       height: 480
     sourceRect:
       x: 960
+      'y': 480
+      width: 320
+      height: 480
+  img/battlebacks1/rv_info_other2.png:
+    atlasName: rv_infopages
+    rect:
+      x: 0
+      'y': 0
+      width: 320
+      height: 480
+    sourceRect:
+      x: 1280
       'y': 480
       width: 320
       height: 480
@@ -13112,6 +13136,18 @@ source:
       height: 108
     sourceRect:
       x: 864
+      'y': 216
+      width: 108
+      height: 108
+  img/system/badge_rarescraps.png:
+    atlasName: badges
+    rect:
+      x: 0
+      'y': 0
+      width: 108
+      height: 108
+    sourceRect:
+      x: 972
       'y': 216
       width: 108
       height: 108

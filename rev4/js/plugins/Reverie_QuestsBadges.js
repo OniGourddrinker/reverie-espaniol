@@ -217,10 +217,11 @@ Game_Enemy.prototype.die = function() {
     // Check with Enemy Category Plugin
     if (this.isEnemyCategory("BUNNY")) {
         // Add to leafy bunny killer count quest.
-        const varId = RvQuests.varId.LEAFY_KILL;
-        $gameVariables.setValue(varId, $gameVariables.value(varId) + 1);
-        console.log("Leafy - Bunny Kill Count:", $gameVariables.value(varId));
-        
+        if (true) {
+            const varId = RvQuests.varId.LEAFY_KILL;
+            $gameVariables.setValue(varId, $gameVariables.value(varId) + 1);
+            console.log("Leafy - Bunny Kill Count:", $gameVariables.value(varId));
+        }
         // ALICE special conditions
         if (this.isStateCategoryAffected("HAPPY")) {
             const varId = RvQuests.varId.ALICE_HAPPY;

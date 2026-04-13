@@ -137,6 +137,32 @@ Game_Actor.prototype.canPlotArmor = function() {
 
 // SUNNY PLOT ARMOR
 (function ($) {
+  // Forced version for message immediately
+  $.Process_Second_Chance_Message_Forced = function (target) {
+    console.log("Attempting Process_Second_Chance_Message_Forced")
+    if (!target.canPlotArmor()) { return; } // If it's not OMORI do not process;
+
+    if (!!$gameSwitches.value(1613)) { // PLOT ARMOR MESSAGE and FORCE PLOT ARMOR ?
+      $gameSwitches.setValue(1613, false); // Plot Armor Message;
+      $gameTemp._secondChance = true; // Activating second chance face;
+      $gameSwitches.setValue(2000, true); // Preparing Plot Armor Battle Event Switch;
+      SceneManager._scene._statusWindow.refresh();
+      let Bubble_Toggle = $gameSwitches.value(6);
+      let endureMessage = "xx_battle_text.message_1000";
+      if (target.actorId() != 1) {
+        endureMessage = "00_reverie_battle.message_playerEndure";
+      }
+
+      if (!!Bubble_Toggle) {
+        $gameSwitches.setValue(6, false);
+        $gameMessage.showLanguageMessage(endureMessage);
+        $gameSwitches.setValue(6, true);
+      } else {
+        $gameMessage.showLanguageMessage(endureMessage);
+      }
+    }
+  }
+
   $.Process_Second_Chance_Message = function (target) {
     if (!target.canPlotArmor()) { return; } // If it's not OMORI do not process;
 
@@ -301,11 +327,19 @@ Game_Enemy.prototype.makeActions = function() {
 // ================================================================ 
 
 // ================ CRITICAL BASE RATE TAG ================ //
-Reverie.Fixes.DataManager_processCritNotetags1 = DataManager.processCritNotetags1;
-DataManager.processCritNotetags1 = function(group) {
-  Reverie.Fixes.DataManager_processCritNotetags1.call(this, group);
+Reverie.Fixes.DataManager_isDatabaseLoaded = DataManager.isDatabaseLoaded;
+DataManager.isDatabaseLoaded = function() {
+  if (!Reverie.Fixes.DataManager_isDatabaseLoaded.call(this)) return false;
+  if (!Reverie._loaded_ReverieFixes) {
+    this.processExtraCritNotetags1($dataSkills);
+    this.processExtraCritNotetags1($dataItems);
+    Reverie._loaded_ReverieFixes = true;
+  }
+  return true;
+};
 
-  var group = args[0];
+DataManager.processExtraCritNotetags1 = function(group) {
+  console.log("Loaded Reverie Extra Crit")
   for (var n = 1; n < group.length; n++) {
     var obj = group[n];
     var notedata = obj.note.split(/[\r\n]+/);
@@ -313,8 +347,8 @@ DataManager.processCritNotetags1 = function(group) {
     for (var i = 0; i < notedata.length; i++) {
       var line = notedata[i];
       if (line.match(/<CRITICAL BASE RATE: (\d+\.?\d+)([%％])>/i)) {
-        var rate = parseFloat(RegExp.$1 * 0.01);
-        obj.critRate = "bonus = " + String(rate) + "; " + String(Yanfly.Param.critRate);
+        var rate = parseFloat(RegExp.$1) * 0.01;
+        obj.critRate = "var bonus = " + String(rate) + ";\n" + String(Yanfly.Param.critRate);
         obj.damage.critical = true;
       }
     }

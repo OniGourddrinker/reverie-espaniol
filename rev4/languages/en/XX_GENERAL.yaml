@@ -2,19 +2,19 @@
 # - FOUND CONSUMABLE
 # -----------------------------------------------
 message_0:
-    text: You got \v[49]!
+    text: ¡Obtuviste \v[49]!
 
 # -----------------------------------------------
 # - FOUND TOYS
 # -----------------------------------------------
 message_1:
-    text: You got \v[49]!
+    text: ¡Obtuviste \v[49]!
 
 # -----------------------------------------------
 # - FOUND PRESENT
 # -----------------------------------------------
 message_2:
-    text: It's a \v[49]!\! Do you want to take it?
+    text: ¡Es un \v[49]!\! ¿Quieres tomarlo?
 
 # -----------------------------------------------
 # - JOINS YOUR PARTY
@@ -26,7 +26,7 @@ message_3:
 # - YES/NO
 # -----------------------------------------------
 message_4:
-    text: YES
+    text: SI
 message_5:
     text: NO
 
@@ -56,7 +56,7 @@ message_9:
 # - NOD / SHAKE
 # -----------------------------------------------
 message_10:
-    text: YES
+    text: SI
 message_11:
     text: NO
 
@@ -95,13 +95,13 @@ message_30:
 # -----------------------------------------------
 
 message_40:
-    text: BUY
+    text: COMPRAR
 
 message_41:
-    text: SELL
+    text: VENDER
 
 message_42:
-    text: LEAVE
+    text: IRSE
 
 #data.texts.maxItemMessage
 message_50:

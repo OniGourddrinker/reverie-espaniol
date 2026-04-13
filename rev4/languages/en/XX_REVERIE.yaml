@@ -29,7 +29,7 @@ StatusDisplay:
         noEscape: Can't escape!
         escape: "Escape rate: %1%"
         statLine: "[\\fs[16]ATK: %1, DEF: %2, SPD: %3, LCK: %4, HIT: %5, EVA: %6\\fs[24]]"
-        equipLine: "[\\fs[16]WEAPON: %1, CHARM: %2\\fs[24]]"
+        equipLine: "[\\fs[16]LVL: %1, WEAPON: %2, CHARM: %3\\fs[24]]"
         level: "Lv: %1"
     states:
         235: GLOW
@@ -80,3 +80,26 @@ PopUp:
     actionMiss: "%1's attack whiffed!"
     actionNothing: "%1's attack did nothing."
     attackReflect: "%2 reflected the attack!"
+
+Options:
+    # Options starting with "/save/" Indicates the option is only for the save. The word would be removed on display.
+    header:
+        header: "-------------------- REVERIE --------------------"
+        options: []
+        helpText: "REVERIE Options Below"
+    difficulty:
+        header: "/save/[IN SAVE] DIFFICULTY"
+        options: ["EASY", "NORMAL", "HARD"]
+        helpText: "Changes Difficulty of REVERIE's game. This is per SAVE."
+    turnorder:
+        header: "ACTUAL TURN ORDER"
+        options: ["ON", "OFF"]
+        helpText:  "Makes the menu turn order be based on character's speed."
+    showstats:
+        header: "DISPLAY STATS"
+        options: ["ON", "OFF"]
+        helpText:  "Makes the enemy info show more stat details. (Recommend: ON)"
+    showstateicons:
+        header: "DISPLAY STATE ICONS"
+        options: ["ON", "OFF"]
+        helpText:  "Makes both actor and enemy show state icons. (Recommend: ON)"

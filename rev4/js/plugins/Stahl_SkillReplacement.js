@@ -1,5 +1,5 @@
 /*:
- * @plugindesc [v1.0.1] Makes Skills be replacable when having certain equips
+ * @plugindesc [v1.1.0] Makes Skills be replacable when having certain equips
  * 
  * @author StahlReyn
  *
@@ -54,6 +54,9 @@ DataManager.processSkillReplacementNotetags1 = function(group) {
 // ================================================================
 // * Functionality
 // ================================================================
+
+// This does NOT change actual skill equipped in battler's data as a variable,
+// this only replace call for "final" skill list when actually used
 Stahl.SkillReplacement.Game_Actor_skills = Game_Actor.prototype.skills;
 Game_Actor.prototype.skills = function () {
   // Get List
@@ -91,3 +94,14 @@ Window_OmoMenuActorSkillList.prototype.getItemFromIndex = function(index) {
   return $dataSkills[actor.getSkillReplacementId(oldSkill.id)]; // Index is same as old skill id
 };
 
+// This replaces so the Help Window also gets the "replaced" skill.
+// This does NOT change actual skill equipped, just only towards visual menu.
+Window_OmoMenuActorSkillList.prototype.updateHelp = function() {
+  let actor = this._actor;
+  let oldSkill = this.item();
+  if (oldSkill) {
+    this.setHelpWindowItem($dataSkills[actor.getSkillReplacementId(oldSkill.id)]);
+  } else {
+    this.setHelpWindowItem(oldSkill); // basically null
+  }
+};

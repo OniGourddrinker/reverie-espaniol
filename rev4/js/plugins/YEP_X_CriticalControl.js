@@ -633,6 +633,7 @@ Game_Action.prototype.applyItemCriticalRate = function(target) {
     } catch (e) {
       Yanfly.Util.displayError(e, code, 'CRITICAL RATE FORMULA ERROR');
     }
+    console.log(rate, code)
     return rate;
 };
 

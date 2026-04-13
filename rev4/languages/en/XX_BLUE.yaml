@@ -221,7 +221,7 @@ Omori_Mainmenu:
 # =========================================================================================
 
 Omori_Mainmenu_Sceneoptions:
-  commands: ["GENERAL", "AUDIO", "CONTROLS", "SYSTEM"]
+  commands: ["GENERAL", "AUDIO", "CONTROLES", "SYSTEMA"]
 
 # =========================================================================================
 # OMORI NAME INPUT
@@ -237,14 +237,14 @@ Omori_Name_Input:
 # =========================================================================================
 
 Omori_Save_Load:
-  file: "FILE %1:" # This is the file number entry on save/load scene. %1 is the file index
-  level: "LEVEL:"
-  playtime: "TOTAL PLAYTIME:"
-  location: "LOCATION:"
-  overwrite_file: Overwrite this file?
-  load_file: Load this file?
-  save_command: SAVE
-  load_command: LOAD
+  file: "ARCHIVO %1:" # This is the file number entry on save/load scene. %1 is the file index
+  level: "NIVEL:"
+  playtime: "TOTAL JUGADO:"
+  location: "LOCACIÓN:"
+  overwrite_file: SOBREESCRIBIR ESTE ARCHIVO?
+  load_file: CARGAR ESTE ARCHIVO?
+  save_command: GUARDAR
+  load_command: CARGAR
 
 # =========================================================================================
 # YIN BLACKJACK
@@ -274,7 +274,7 @@ Yin_Omori_Fixes:
 # =========================================================================================
 
 Omori_Title_Screen:
-  commands: ['NEW GAME', 'CONTINUE', 'OPTIONS']
+  commands: ['NUEVO JUEGO', 'CONTINUAR', 'OPCIONES']
 
 # =========================================================================================
 # YIN PIZZA MINIGAME

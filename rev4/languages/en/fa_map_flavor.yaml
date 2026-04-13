@@ -944,7 +944,7 @@ message_332:
 
 #Trash:
 message_333:
-      text: A trash can.\!<br>Upon closer inspection, you can see that a perfectly good box of donuts was dumped into the trash.
+      text: Un bote de basura.\!<br>Mirando de cerca, puedes ver que una caja de donas en perfectas condiciones fue tirada a la basura.
 
 #Room Memo:
 message_334:
@@ -1047,9 +1047,9 @@ message_360:
 message_361:
       text: Bread.
 
-#headstone:
+#headstone: Pecteilis radiata o Habenaria radiata suena bastante dificil asi que queda orquidea.
 message_362:
-      text: A white egret orchid.\!<br>In the language of flowers, it symbolizes the phrase...<br>\!“My thoughts will follow you into your dreams.”
+      text: Una orquídea habenaria radiata blanca.\!<br>En el lenguaje de las flores, simboliza la frase...<br>\!“Mis pensamientos te seguirán hasta en tus sueños.”
 
 message_363:
       text: Puzzle pieces.

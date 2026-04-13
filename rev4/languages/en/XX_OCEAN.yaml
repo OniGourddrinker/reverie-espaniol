@@ -73,7 +73,7 @@ message_54:
 
 #Receive orange headband
 message_55:
-      text: You got an \c[13]ORANGE HEADBAND\c[0]!
+      text: Obtuviste an \c[13]ORANGE HEADBAND\c[0]!
 
 #=========================Location: Apple Guy in the park=============================
 #== Fruitwaradrian
@@ -97,7 +97,7 @@ message_63:
 
 #Receive Red Headband
 message_64:
-      text: You got a \c[13]RED HEADBAND\c[0]!
+      text: Obtuviste a \c[13]RED HEADBAND\c[0]!
 
 #=========================Location:Vances house =============================
 #== Fix pipe
@@ -132,7 +132,7 @@ message_81:
 
 #Talk to Jesses dad after you talk to Jesse
 message_82:
-      text: You got a \c[3]CAKE\c[0]!
+      text: Obtuviste a \c[3]CAKE\c[0]!
 
 #=========================Location: Candy store=============================
 #== Anniversary chocolate
@@ -254,7 +254,7 @@ message_140:
 #QUEST: PICK UP FURNITURE
 
 message_150:
-      text: You got a \c[4]FLOOR LAMP\c[0]!
+      text: Obtuviste a \c[4]FLOOR LAMP\c[0]!
 
 # Trying to leave the shop without finishing your job
 message_151:
@@ -323,7 +323,7 @@ message_180:
 #Pet Rock
 
 message_190:
-      text: You got a \c[13]FEDORA\c[0]...
+      text: Obtuviste a \c[13]FEDORA\c[0]...
 
 
 #=========================Shopping center=============================
@@ -396,7 +396,7 @@ message_242:
       text: Do you want to tutor the SMALL GIRL?
 
 message_243:
-      text: You got $20.00.
+      text: Obtuviste $20.00.
 
 message_244:
       text: BUY
@@ -491,16 +491,16 @@ message_279:
       text: \kelOh! You're gonna take this job?\! That's cool.\! We'll just go hang out somewhere else in the meantime.\! See you soon, \n[8]!
 
 message_280:
-      text: You got $30.00 for your hard work.
+      text: Obtuviste $30.00 for your hard work.
 
 message_281:
       text: \n<PIZZA MAN>Anyway, here's some monies.\!<br>Maybe you can use it to buy some \c[3]PIZZA\c[0]!
 
 message_282:
-      text: You got $20.00 for your hard work.
+      text: Obtuviste $20.00 for your hard work.
 
 message_283:
-      text: You got a \c[13]PET ROCK\c[0]!
+      text: Obtuviste a \c[13]PET ROCK\c[0]!
 
 message_284:
       faceset: MainCharacters_Faraway
@@ -518,7 +518,7 @@ message_290:
 #Reward for killing a Squizzard
 
 message_291:
-      text: You got \v[101] CLAMS!
+      text: Obtuviste \v[101] CLAMS!
 
 #====================POLLY 2S after finding Basil=======================
 
@@ -579,7 +579,7 @@ message_324:
       text: \pesIn return for your selfless deed, I bestow upon you the ultimate gift.
 
 message_325:
-      text: You got a \c[13]SWEETHEART BUST\c[0].
+      text: Obtuviste a \c[13]SWEETHEART BUST\c[0].
 
 message_326:
       text: \pes\sinv[1]Ah...\! Isn't it beautiful?
@@ -664,7 +664,7 @@ message_908:
     text: \n<SHADY MOLE>\}Here.\! Take this and show it to her.\!<br>There's no way that she will refuse you after seeing this.
 
 message_910:
-    text: You got \c[4]BLACKMAIL\c[0].
+    text: Obtuviste \c[4]BLACKMAIL\c[0].
 
 message_355:
     text: \n<SHADY MOLE>\}Now, leave me and my new \c[4]B.E.D.\c[0] alone.<br>Our business is done here!
@@ -775,7 +775,7 @@ message_398:
 # Kels house dinner time
 
 message_399:
-      text: You got a \c[4]HOMECOOKED MEAL\c[0]...\! but it's cold.\!<br>You can heat it up using the microwave.
+      text: Obtuviste a \c[4]HOMECOOKED MEAL\c[0]...\! but it's cold.\!<br>You can heat it up using the microwave.
 
 # Characters sleeping in bedfort
 
@@ -974,7 +974,7 @@ message_447:
       text: \herOops! Before I forget...\! \n[8], here's some money for my mom's \c[4]FLOWERS\c[0].\! You didn't think I would let you pay for it, didja?
 
 message_448:
-      text: You got $10.00 from HERO.\! Wow...
+      text: Obtuviste $10.00 from HERO.\! Wow...
 
 message_449:
       text: \n<FIX-IT GUY>Were you looking to buy some hardware?
@@ -1053,28 +1053,28 @@ message_465:
 
 #  Consumables
 message_500:
-    text: You got \c[3]\itemget\c[0]!
+    text: Obtuviste \c[3]\itemget\c[0]!
 
 message_501:
-    text: You got \c[3]\itemget\c[0]!
+    text: Obtuviste \c[3]\itemget\c[0]!
 
 #  Toys
 message_510:
-    text: You got \c[5]\itemget\c[0]!
+    text: Obtuviste \c[5]\itemget\c[0]!
 
 message_511:
-    text: You got \c[5]\itemget\c[0]!
+    text: Obtuviste \c[5]\itemget\c[0]!
 
 #  equips
 message_520:
-    text: You got \c[13]\itemget\c[0]!
+    text: Obtuviste \c[13]\itemget\c[0]!
 
 message_521:
-    text: You got \c[13]\itemget\c[0]!
+    text: Obtuviste \c[13]\itemget\c[0]!
 
 #  key items
 message_522:
-    text: You got \c[4]\itemget\c[0]!
+    text: Obtuviste \c[4]\itemget\c[0]!
 
 #  Skills
 message_530:
@@ -1228,7 +1228,7 @@ message_570:
     text: \kelI already have this console, \n[8]!\!<br>And I don't think I can afford two...
 
 message_571:
-      text: You got \c[4]HERO'S GIFT\c[0]!
+      text: Obtuviste \c[4]HERO'S GIFT\c[0]!
 # =========================================================================================
 # Cutscene: Fake Knife Fight
 # =========================================================================================
@@ -1264,10 +1264,10 @@ message_584:
 #Kels orders
 
 message_590:
-      text: You got KEL's \c[4]BAKERY ORDER\c[0]!
+      text: Obtuviste KEL's \c[4]BAKERY ORDER\c[0]!
 
 message_591:
-      text: You got KEL's \c[4]"PIZZA" ORDER\c[0]!
+      text: Obtuviste KEL's \c[4]"PIZZA" ORDER\c[0]!
 
 message_592:
       text: You gave the \c[4]BAKERY ORDER\c[0] and \c[4]"PIZZA" ORDER\c[0] to KEL'S MOM.
@@ -1433,7 +1433,7 @@ message_644:
       text: A job posting.\!<br>You already did this job today.
 
 message_645:
-      text: You got $20.00 for your hard work.
+      text: Obtuviste $20.00 for your hard work.
 
 message_646:
       text: Would you like to throw 1 CLAM into the fountain?

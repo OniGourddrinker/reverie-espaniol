@@ -45,7 +45,8 @@ Reverie.Ailments.isCharmed = function(battler) {
     return battler.isStateCategoryAffected("CHARM");
 }
 
-Reverie.Ailments.CHARM_EFFECT_CHANCE = 1.0 // 0.0 to 1.0
+Reverie.Ailments.LUCK_MULT = 1.0; // How much % change per luck difference
+Reverie.Ailments.CHARM_EFFECT_CHANCE = 1.0; // 0.0 to 1.0
 Reverie.Ailments.TEXT_IMMUNE = "%1 is immune to %2!";
 Reverie.Ailments.TEXT_GUARD = "%1 guarded against %2!";
 
@@ -146,7 +147,7 @@ Game_Battler.prototype.addAilment = function (user, stateId, baseRate) {
         return false;
     }
 
-    rate = (baseRate + ((user.luk - this.luk) * 2)) + rateAdd;
+    rate = (baseRate + ((user.luk - this.luk) * Reverie.Ailments.LUCK_MULT)) + rateAdd;
     
     if (Math.randomInt(100) < rate) {
         this.addState(stateId);

@@ -142,7 +142,7 @@ message_33:
 
 # map 146 - 14, 27 | map 527 - 48, 17 | map 529 - 19, 35 + 23, 35 + 8, 12 + 18, 12 | map 531 - 9, 5 + 18, 5 | map 534 - 18, 21
 message_35:
-  text: Una planta de interior común.\!<brHace que este lugar se sienta más hogareño... de algún modo.
+  text: Una planta de interior común.\!<br>Hace que este lugar se sienta más hogareño... de algún modo.
 
 # map 534
 message_36:

@@ -28,7 +28,7 @@
       try {
         return super.hasAltasData(..._)
       } catch(e) {
-        e = window.__lastYAMLError || e
+        e = window.__lastYAMLError
         Graphics.printFullError(e.name, e.message, e.stack)
         SceneManager.stop()
         throw e

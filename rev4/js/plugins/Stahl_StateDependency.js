@@ -98,3 +98,15 @@ Game_Battler.prototype.isStateResist = function(stateId) {
 	}
 	return Stahl.StateDependency.Game_Battler_isStateResist.call(this, stateId);
 };
+
+Stahl.StateDependency.Game_Battler_removeBattleStates = Game_Battler.prototype.removeBattleStates;
+Game_Battler.prototype.removeBattleStates = function() {
+	Stahl.StateDependency.Game_Battler_removeBattleStates.call(this);
+	// Check remove again, in case there's some states that didn't get removed due to locking.
+    this.states().forEach(function(state) {
+        if (state && state.removeAtBattleEnd) {
+			// Old remove state function - Does not obey the state dependency.
+            Stahl.StateDependency.Game_Battler_removeState.call(this, state.id);
+        }
+    }, this);
+};

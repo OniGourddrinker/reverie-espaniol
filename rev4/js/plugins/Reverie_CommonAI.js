@@ -70,6 +70,12 @@ class RVAI {
         return members.reduce((sum, battler) => sum + battler.isStateAddable(id), 0);
     }
 
+    // Count state that is addable AND not affected yet
+    static countStateAddableNew(unit, id) {
+        const members = unit.aliveMembers();
+        return members.reduce((sum, battler) => sum + (battler.isStateAddable(id) && !battler.isStateAffected(id)), 0);
+    }
+
     static countStateCategory(unit, id) {
         const members = unit.aliveMembers();
         return members.reduce((sum, battler) => sum + battler.isStateCategoryAffected(id), 0);
@@ -83,6 +89,11 @@ class RVAI {
     static ratioStateAddable(unit, id) {
         const members = unit.aliveMembers();
         return RVAI.countStateAddable(unit, id) / members.length;
+    }
+
+    static ratioStateAddableNew(unit, id) {
+        const members = unit.aliveMembers();
+        return RVAI.countStateAddableNew(unit, id) / members.length;
     }
 
     static ratioStateCategory(unit, id) {
@@ -531,6 +542,7 @@ class RVSkills {
         return 1.0;
     }
 
+    // NEUTRAL counts as 0
     static emotionTier(battler) {
         if (battler.isStateCategoryAffected("EMOTION3")) return 3;
         if (battler.isStateCategoryAffected("EMOTION2")) return 2;
@@ -552,14 +564,21 @@ class RVSkills {
         if (user.isStateCategoryAffected("ANGRY")) target.addStateTier("ATK", tier);
     }
 
-    static sonataVariance() {
+    // Damages are 3.0/2.5/2.0 (SUNNY gets up to 2 tiers of emotion)
+    static concertoMult(user) {
+        let tier = this.emotionTier(user);
+        return 3.0 - (tier * 0.5);
+    }
+
+    // Damages are 2.5/3.5/4.5/5.5
+    static sonataMult() {
         const members = $gameTroop.aliveMembers();
-        let count = 0;
-        count += members.some(x => x.isStateCategoryAffected("HAPPY")) ? 1 : 0;
-        count += members.some(x => x.isStateCategoryAffected("SAD")) ? 1 : 0;
-        count += members.some(x => x.isStateCategoryAffected("ANGRY")) ? 1 : 0;
-        count += members.some(x => !x.isStateCategoryAffected("EMOTION")) ? 1 : 0; // no emotion is neutral.
-        return count;
+        let mult = 2.5;
+        mult += members.some(x => x.isStateCategoryAffected("HAPPY")) ? 1 : 0;
+        mult += members.some(x => x.isStateCategoryAffected("SAD")) ? 1 : 0;
+        mult += members.some(x => x.isStateCategoryAffected("ANGRY")) ? 1 : 0;
+        mult += members.some(x => x.isStateCategoryAffected("AFRAID")) ? 1 : 0; // Unlikely, but in case
+        return mult;
     }
 }
 
@@ -603,4 +622,8 @@ Game_Enemy.prototype.doCustomDecidedActionAI = function() {
         this._rerollBasicAttack -= 1;
         this.setAIPattern(); // This cause recursion which isn't ideal, but it works for 1-2 rolls.
     }
+};
+
+Game_Enemy.prototype.turnCountSinceSummon = function() {
+    return $gameTroop.turnCount() - (this._summonTurn || 0);
 };

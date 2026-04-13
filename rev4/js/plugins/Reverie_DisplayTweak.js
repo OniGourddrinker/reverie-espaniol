@@ -168,6 +168,7 @@ StatusDisplayManager.getActorActionPromptMessage = function (actor) {
   );
   lines.push(
     data.equipLine.format(
+      actor.level,
       equips[0] ? equips[0].name : "-",
       equips[1] ? equips[1].name : "-"
     )
@@ -205,12 +206,14 @@ Window_OmoMenuHelp.prototype.refresh = function() {
   this.contents.clear();
   // If Item Exists
   if (this._item) {
+    this.contents.textColor = ItemDisplayManager.getColor(this._item, false); // SET COLOR
     this.contents.fontSize = LanguageManager.getMessageData("XX_BLUE.Window_OmoMenuHelp").refresh_contents_fontsize;
     this.drawText(this._item.name, 6, -6, 200);
+    this.contents.textColor = ItemDisplayManager.getColor(null, false); // RESET COLOR
     this.contents.fontSize = this.standardFontSize();
-    // replace with drawtextex
     let loc_position = LanguageManager.getMessageData("XX_BLUE.Window_OmoMenuHelp").refresh_position;
 
+    // replace with drawtextex
     this.drawTextEx(this._item.description, loc_position[0], loc_position[1], 28); 
     if (!$gameParty.inBattle() && !(this._item.mpCost == undefined)) { // CHANGE: Item descriptions text
       this.drawTextEx(ItemDisplayManager.getCostText(this._item), loc_position[0], loc_position[1] + 28 * 1.5, 28);
@@ -237,6 +240,8 @@ Window_OmoMenuHelp.prototype.refresh = function() {
         this.contents.blt(icon, 0, 0, icon.width, icon.height, x, y)
       })
     }
+
+    this.drawQuantity();
   };
 };
 
