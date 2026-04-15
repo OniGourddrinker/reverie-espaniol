@@ -26,11 +26,11 @@ message_4:
 
 # map 146 - 56, 7 + 77, 22 | map 529 - 28, 35 + 24, 16
 message_5:
-  text: Un tacho de basura vacio.\! Esta bastante polvoriento.
+  text: Un cubo de basura vacío.\! Está bastante polvoriento.
 
 # map 527 - 57, 26 | map 528 - 37, 12 | map 529 - 35, 14 | map 530 - 9, 27 | map 531 - 23, 8 | map 532 - 54, 28 | map 534 - 8, 22
 message_6:
-  text: Un tacho de basura lleno.\! Al observar más de cerca, la mayor parte del espacio está ocupada por volantes contra la basura.
+  text: Un cubo de basura lleno.\! Al observar más de cerca, la mayor parte del espacio está ocupada por folletos contra la basura.
 
 # map 146 - 87, 19 + 87, 20 + 87, 21 | map 527 - 22, 29 + 23, 29 + 24, 29
 message_7:
@@ -38,11 +38,11 @@ message_7:
 
 # map 360 - 9, 23
 message_8:
-  text: La pileta está vacía.
+  text: La piscina está vacía.
 
 # map 527 - 90, 29
 message_9:
-  text: Graffiti en la forma de una bombilla.\! Hay algo en eso que despierta en vos un fuerte sentido del deber
+  text: Graffiti en la forma de una bombilla.\! Hay algo en eso que despierta en ti un fuerte sentido del deber
 
 # map 527 - 44, 17
 message_10:
@@ -66,11 +66,11 @@ message_14:
 
 # map 527 - 43, 23 | map 528 - 8, 32 | map 529 - 28, 7 | map 531 - 16, 35 | map 532 - 4, 6 | map 533 - 14, 10
 message_15:
-  text: Un tacho de reciclaje.\! Está vacío, salvo por un volante en el fondo que dice “REDUCIR, REUTILIZAR, RECICLAR”
+  text: Un contenedor de reciclaje.\! Está vacío, salvo por un folleto en el fondo que dice “REDUCIR, REUTILIZAR, RECICLAR”
 
 # map 146 - 36, 4 | map 527 - 20, 28 | map 531 - 53, 37 | map 532 - 17, 5
 message_16:
-  text: El simbodo de reciclar.
+  text: El símbolo de reciclar.
 
 # map 528 - 12, 28 + 9, 34 | map 529 - 11, 18 + 18, 32 + 23, 26 + 22, 13 + 35, 18 + 35, 22 | map 531 - 6, 38
 message_17:
@@ -82,7 +82,7 @@ message_18:
 
 # map 529 - 25, 9
 message_19:
-  text: Un diario vacio.\! Tal vez podría ser útil más adelante.
+  text: Un diario vacío.\! Tal vez podría ser útil más adelante.
 
 # map 529 - 31, 9 | map 532 - 5, 31 + 6 + 31
 message_20:
@@ -122,7 +122,7 @@ message_28:
 
 # map 532 - 46, 27
 message_29:
-  text: Un póster de una película sobre la lucha contra el mal absoluto.
+  text: Un póster de una película sobre la lucha contra la maldad pura.
 
 # map 527 - 15, 29 | map 532 - 27, 33
 message_30:

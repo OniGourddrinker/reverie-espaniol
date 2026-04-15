@@ -20,7 +20,7 @@ message_playerEndure:
 # EMOTION LOCK ON PARTY
 
 message_SB-LOCK-1:
-    text: SPACEBOY esta FURIOSO!
+    text: SPACEBOY está FURIOSO!
 
 message_SB-LOCK-2:
     text: SPACEBOY ya no puede volverse FELIZ o TRISTE!
@@ -43,7 +43,7 @@ message_3:
 
 message_4:
    text: >
-    \>SPACE FANGIRL: \<¡Ya debería haber ganado! ¡Solo dejame ganar!
+    \>SPACE FANGIRL: \<¡Ya debería haber ganado! ¡Solo déjame ganar!
 
 message_4-1:
    text: >
@@ -80,7 +80,7 @@ message_4-8:
 # win battle
 message_TVG-1:
    text: >
-    \>TV GIRL: \<¡Ey!\. \com[2]¡EY!\. Esta bien, Tu ganas!\! ¡Ya pueden dejar de pegarme!
+    \>TV GIRL: \<¡Ey!\. \com[2]¡EY!\. Está bien, Tu ganas!\! ¡Ya pueden dejar de pegarme!
 
 # intro (new)
 message_TVG-2:
@@ -101,7 +101,7 @@ message_TVG-5:
 
 message_TVG-6:
    text: >
-    \>TV GIRL: \<\}\sinv[1]Oh, ahi estan las luces...\|\^
+    \>TV GIRL: \<\}\sinv[1]Oh, ahí están las luces...\|\^
 
 # ======== PLANETA X ========
 
@@ -139,7 +139,7 @@ message_PX-7:
 
 message_PX-8:
    text: >
-    \>PLANETA X: \<¡Si deseás derrotarme, entrená durante otros \sinv[1]100\sinv[0] años luz!
+    \>PLANETA X: \<¡Si deseas derrotarme, entrena durante otros \sinv[1]100\sinv[0] años luz!
 
 # Wig prompt
 message_PX-9:
@@ -209,7 +209,7 @@ alicequest_2:
     
 alicequest_3:
    text: >
-    \>ALICE: \<Sí, sí, terminemos con esto de una vez.\! Solo recordá lo que te dije.
+    \>ALICE: \<Sí, sí, terminemos con esto de una vez.\! Solo recuerda que te dije.
 
 alicequest_4:
    text: \c[4]...¡Todas las habilidades de QUEMADURA están deshabilitadas en esta pelea!
@@ -217,7 +217,7 @@ alicequest_4:
 # ======== ADWARE AMBUSH ========
 
 message_adprep:
-    text: ADWARE esta preparado!
+    text: ADWARE está preparado!
 
 # ======== STAR TUTORIAL ========
 message_burn1:
@@ -406,7 +406,7 @@ alice_defeat:
 
 maximus_ult_1:
    text: >
-    \>SIR MAXIMUS IV: \<¡Contemplá el poder de mis ancestros!
+    \>SIR MAXIMUS IV: \<¡Contempla el poder de mis ancestros!
 
 # Had to split text because 3 fathers are too long :skull:
 maximus_ult_2:
@@ -473,22 +473,22 @@ rococo_defeat_1:
     \>ROCOCO: \<No...\. mi arte...\. mi alma...\. alejándose lentamente de mí...
 
 rococo_fire:
-   text: ROCOCO fires the existing moles...\.
-#necesito saber si es disparar o despedir a los topos ???
+   text: ROCOCO despide a los topos existentes...\.
+#necesito saber si es disparar o despedir a los topos ???echar o despedir 
 # AILMENT INTROS - Appear in battle first inflicted on the party side. Global Troop
 # ======== CHARM INTRO - This is added retroactively, can encounter in CH2 ========
 # Also remember check SWH as CH4 she disappear for a moment, though it should never happen anyways
 intro_charm_1:
     text: >
-     \>SWEETHEART: \<\sinv[1]Ohoho!\sinv[0] Estos enemigos parecen bastante FASCINANTES!
+     \>SWEETHEART: \<\sinv[1]Ohoho!\sinv[0] Estos enemigos parecen bastante ENCANTADORES!
 
 intro_charm_2:
     text: >
-     \>SWEETHEART: \<Cuando estés bajo la influencia de su FASCINACIÓN ya no actuarás por voluntad propia.
+     \>SWEETHEART: \<Cuando estés bajo la influencia de su ENCANTO ,ya no actuarás por voluntad propia.
 
 intro_charm_3:
     text: >
-     \>SPACEBOY: \<Es decir, los aliados atacarán a los enemigos y viceversa cuando estén bajo el efecto de FASCINAR
+     \>SPACEBOY: \<Es decir, los aliados atacarán a los enemigos y viceversa cuando estén bajo el efecto de ENCANTO
 
 intro_charm_4:
     text: >
